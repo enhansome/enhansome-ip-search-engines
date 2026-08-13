@@ -2075,7 +2075,7 @@
             "last_commit": "2024-08-05T13:11:50Z",
             "owner": "achillean",
             "repo": "shodan-python",
-            "stars": 2937
+            "stars": 2938
           }
         },
         {
@@ -3327,7 +3327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:18:48.601Z",
+    "last_updated": "2026-08-13T07:04:53.581Z",
     "original_repository": "cipher387/awesome-ip-search-engines",
     "original_repository_sha": "05a613a04bb9a5811272d6d35dd265688898e36f",
     "enhanced_repository": "enhansome/enhansome-ip-search-engines",
