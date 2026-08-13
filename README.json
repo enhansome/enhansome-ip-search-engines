@@ -1,0 +1,3337 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Search Engines"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": ":heartpulse: Netlas Cookbook",
+          "description": "heartpulse:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-27T07:54:56Z",
+            "owner": "netlas-io",
+            "repo": "netlas-cookbook",
+            "stars": 888
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shodan Dojo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-08-07T00:53:34Z",
+            "owner": "ninoseki",
+            "repo": "shodan-dojo",
+            "stars": 472
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome FOFA",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-11T07:40:02Z",
+            "owner": "FofaInfo",
+            "repo": "Awesome-FOFA",
+            "stars": 348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GreyNoise API Documentation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-04-02T18:40:54Z",
+            "owner": "GreyNoise-Intelligence",
+            "repo": "api.greynoise.io",
+            "stars": 319
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Censys Search Mindmap",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-17T13:57:51Z",
+            "owner": "censys-workshop",
+            "repo": "censys-search-mindmap",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Onyphe Training Materials",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2025-10-16T05:38:27Z",
+            "owner": "onyphe",
+            "repo": "material",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Guides/documentations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Shodan Queries",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-05-27T20:36:28Z",
+            "owner": "jakejarvis",
+            "repo": "awesome-shodan-queries",
+            "stars": 7640
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Censys Queries",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T18:26:47Z",
+            "owner": "thehappydinoa",
+            "repo": "awesome-censys-queries",
+            "stars": 1239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shodan Dorks from @lothos612",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-03-31T11:18:21Z",
+            "owner": "lothos612",
+            "repo": "shodan",
+            "stars": 589
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shodan filters",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-11-25T05:31:59Z",
+            "owner": "JavierOlmedo",
+            "repo": "shodan-filters",
+            "stars": 588
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shodan Dorks from @humblelad",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-05-26T13:00:37Z",
+            "owner": "humblelad",
+            "repo": "Shodan-Dorks",
+            "stars": 540
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shodan dorks from @nullfuzz",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-21T22:47:45Z",
+            "owner": "nullfuzz-pentest",
+            "repo": "shodan-dorks",
+            "stars": 538
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shodan Dorks 2023",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-13T20:23:51Z",
+            "owner": "HernanRodriguez1",
+            "repo": "Dorks-Shodan-2023",
+            "stars": 247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":heartpulse:Netlas dorks:heartpulse:",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-24T09:32:52Z",
+            "owner": "netlas-io",
+            "repo": "netlas-dorks",
+            "stars": 207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ICS IoT Shodan Dorks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-03-02T09:47:54Z",
+            "owner": "AustrianEnergyCERT",
+            "repo": "ICS_IoT_Shodan_Dorks",
+            "stars": 111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shodan Dorks from @mr-exo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-10T13:07:42Z",
+            "owner": "mr-exo",
+            "repo": "shodan-dorks",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shodan Dorks from @shifa123",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-08-27T23:00:33Z",
+            "owner": "shifa123",
+            "repo": "shodandorks",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CCTV DDNS Shodan Censys Queries",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-09-29T08:25:42Z",
+            "owner": "zveriu",
+            "repo": "cctv-ddns-shodan-censys",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Shodan Queries",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-01-20T20:32:18Z",
+            "owner": "SoumyaJas2324",
+            "repo": "-jakejarvis-awesome-shodan-queries-",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IoT Dorks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2020-10-11T04:11:15Z",
+            "owner": "IoT-PTv",
+            "repo": "IoT-Dorks",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shodan dorks from @IFLinfosec",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "\"Dorks\"/queries Lists"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Shodan CTF",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-06-23T21:24:47Z",
+            "owner": "atz-spe",
+            "repo": "SHODAN-CTF",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NoiseFest CTF 2023",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-08-21T12:44:18Z",
+            "owner": "GreyNoise-Intelligence",
+            "repo": "NoiseFest-CTF-2023",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Competions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fofa Xray Plugin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-04T08:59:37Z",
+            "owner": "Miagz",
+            "repo": "XrayFofa",
+            "stars": 247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PhishStats Shodan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-12T18:20:03Z",
+            "owner": "eschultze",
+            "repo": "phishstats-api-network",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "URlScan Shodan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-18T15:24:38Z",
+            "owner": "montysecurity",
+            "repo": "InfraHunter",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ThreatFox Censys",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-30T16:31:09Z",
+            "owner": "censys-workshop",
+            "repo": "threatfox-censys",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Maltego Censys Official",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-11T12:06:18Z",
+            "owner": "censys",
+            "repo": "censys-maltego",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Maltego Censys Unofficial",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-03-14T22:34:00Z",
+            "owner": "mpars0ns",
+            "repo": "maltego_censys",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Recon NG Censys",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-23T19:07:16Z",
+            "owner": "censys",
+            "repo": "censys-recon-ng",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Censys Postman Collection",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-03-09T16:06:31Z",
+            "owner": "censys",
+            "repo": "censys-postman",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shodan Postman Collection",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-11-08T21:03:39Z",
+            "owner": "bitnesswise",
+            "repo": "shodan-postman-collection",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GreyNoise Maltego",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-12T14:46:12Z",
+            "owner": "GreyNoise-Intelligence",
+            "repo": "greynoise-maltego",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Criminal IP NSE Script",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-11-29T03:58:34Z",
+            "owner": "criminalip",
+            "repo": "CIP-NSE-Script",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Criminal IP STIX",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-29T08:07:14Z",
+            "owner": "criminalip",
+            "repo": "CriminalIP-data-STIX",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ansible GreyNoise",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-02-24T16:47:56Z",
+            "owner": "ReconInfoSec",
+            "repo": "ansible-greynoise",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LogStash Filter GreyNoise",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-02-23T22:21:24Z",
+            "owner": "GreyNoise-Intelligence",
+            "repo": "logstash-filter-greynoise",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Maltego with Fofa",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-06-14T06:38:49Z",
+            "owner": "mark0smith",
+            "repo": "Maltego_with_Fofa",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Criminal IP Volatility",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-26T06:12:59Z",
+            "owner": "criminalip",
+            "repo": "Criminalip-Volatility3-Plugins",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Siemplify GreyNoise",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-30T18:17:25Z",
+            "owner": "GreyNoise-Intelligence",
+            "repo": "greynoise-siemplify",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Criminal Ip Zabbix",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-12T06:32:33Z",
+            "owner": "criminalip",
+            "repo": "zabbix",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nindo Shodan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2013-12-23T15:48:34Z",
+            "owner": "JustinAzoff",
+            "repo": "ninfo-plugin-shodan",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ansible Shodan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-26T23:02:23Z",
+            "owner": "simeononsecurity",
+            "repo": "ansible_shodan",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Synapse Onyphe",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-09-12T10:47:26Z",
+            "owner": "ancailliau",
+            "repo": "synapse-onyphe",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Demisto GreyNoise",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-11-25T16:29:06Z",
+            "owner": "GreyNoise-Intelligence",
+            "repo": "greynoise-demisto",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Criminal IP Tenable",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-29T08:11:14Z",
+            "owner": "criminalip",
+            "repo": "CriminalIP-Tenable-Import-Asset",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp Suite Shodan Scanner",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-08-31T23:14:33Z",
+            "owner": "prookl",
+            "repo": "Burp-Suite-Shodan-Scanner",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swinlane GreyNoise",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-11T14:13:29Z",
+            "owner": "GreyNoise-Intelligence",
+            "repo": "greynoise-swimlane",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polarity Shodan",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Polarity GreyNoise",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Burp Fofa",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Integrations and plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fav up",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-05T05:20:00Z",
+            "owner": "pielco11",
+            "repo": "fav-up",
+            "stars": 1201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FaviHunter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-26T19:41:36Z",
+            "owner": "eremit4",
+            "repo": "favihunter",
+            "stars": 256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Get IP by ICO",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-02-16T03:42:23Z",
+            "owner": "Ridter",
+            "repo": "get_ip_by_ico",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IconHash",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2021-05-13T06:57:42Z",
+            "owner": "Becivells",
+            "repo": "iconhash",
+            "stars": 180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Favicon Hash Shodan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-24T16:32:04Z",
+            "owner": "phor3nsic",
+            "repo": "favicon_hash_shodan",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shodanist",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-25T02:53:59Z",
+            "owner": "eternyle",
+            "repo": "ShodanIsh",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "Favicon search Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "IVRE (universal)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T03:17:41Z",
+            "owner": "ivre",
+            "repo": "ivre",
+            "stars": 4110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smap (Shodan)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-13T08:08:18Z",
+            "owner": "s0md3v",
+            "repo": "Smap",
+            "stars": 3279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Silver (Shodan)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-26T22:10:56Z",
+            "owner": "s0md3v",
+            "repo": "Silver",
+            "stars": 1053
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MEC (ZoomEye)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-14T14:35:25Z",
+            "owner": "jm33-m0",
+            "repo": "mec",
+            "stars": 614
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spidex",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-12T18:40:32Z",
+            "owner": "alechilczenko",
+            "repo": "kimi",
+            "stars": 263
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shodan HQ NSE",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2016-03-14T14:20:07Z",
+            "owner": "glennzw",
+            "repo": "shodan-hq-nse",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SSH Key Scanner (Shodan)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-03-11T05:34:58Z",
+            "owner": "0x27",
+            "repo": "ssh_keyscanner",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Knock",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-08-30T22:34:28Z",
+            "owner": "petercunha",
+            "repo": "Knock",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Censys HTTP Proxy Scan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-17T09:01:06Z",
+            "owner": "LoveCppp",
+            "repo": "Http-Proxy-Scan",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NetScreen Shodan Scanner",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-12-21T15:34:01Z",
+            "owner": "juliocesarfort",
+            "repo": "netscreen-shodan-scanner",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nmap Censys",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2021-12-03T17:14:45Z",
+            "owner": "censys",
+            "repo": "nmap-censys",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Masscan Automation (Shodan)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-07-12T20:04:32Z",
+            "owner": "trevordavenport",
+            "repo": "MasscanAutomation",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShoScan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-09-30T21:10:52Z",
+            "owner": "pathetiq",
+            "repo": "ShoScan",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EternalSeek",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2018-08-08T23:20:59Z",
+            "owner": "alexsilva1983",
+            "repo": "eternalseek",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Network/port Scanners"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Censys Subdomain Finder",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-01T09:19:31Z",
+            "owner": "christophetd",
+            "repo": "censys-subdomain-finder",
+            "stars": 842
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShoSubGo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-09-01T21:13:46Z",
+            "owner": "incogbyte",
+            "repo": "shosubgo",
+            "stars": 574
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Punter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-02-07T03:11:18Z",
+            "owner": "nethunteros",
+            "repo": "punter",
+            "stars": 294
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Censys Enumeration",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-07T23:44:52Z",
+            "owner": "0xbharath",
+            "repo": "censys-enumeration",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shodomain",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-03-07T13:22:36Z",
+            "owner": "SmoZy92",
+            "repo": "Shodomain",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Censys Subdomain Finder (no API)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-05-13T20:08:17Z",
+            "owner": "nmmapper",
+            "repo": "censys-subdomain-finder-non-api",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Subdomain Search Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tentacle (Zoomeye, Fofa, Shodan)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-06T06:57:37Z",
+            "owner": "orleven",
+            "repo": "Tentacle",
+            "stars": 375
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShodanWave, Netwave IP Cameras search and exploit tool",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-11-15T09:47:59Z",
+            "owner": "jimywork",
+            "repo": "shodanwave",
+            "stars": 270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Camera Exploit Tool Shodan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-19T18:47:57Z",
+            "owner": "TasosY2K",
+            "repo": "camera-exploit-tool",
+            "stars": 221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crascast Exploit Shodan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-28T07:08:56Z",
+            "owner": "649",
+            "repo": "Crashcast-Exploit",
+            "stars": 164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Memcache Dump Shodan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-03-12T17:10:36Z",
+            "owner": "JLospinoso",
+            "repo": "memcachedump",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apache-Struts-Shodan-Exploit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-08-30T00:16:01Z",
+            "owner": "649",
+            "repo": "Apache-Struts-Shodan-Exploit",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Memfixed Mitigation Tool Shodan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-03-21T23:09:26Z",
+            "owner": "649",
+            "repo": "Memfixed-Mitigation-Tool",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "redisMassExploit Shodan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-09-04T10:46:29Z",
+            "owner": "giaplv57",
+            "repo": "redisMassExploit",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pingpon Exploit Shodan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-05-26T06:44:44Z",
+            "owner": "649",
+            "repo": "Pingpon-Exploit",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mecashed DDos Exploit Free Shodan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-03-11T22:53:10Z",
+            "owner": "add1ct3d",
+            "repo": "Memcrashed-DDoS-Exploit-Free",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IOT MOTT Exploit Shodan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-09-15T18:39:10Z",
+            "owner": "Warflop",
+            "repo": "IOT-MQTT-Exploit",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Redis Mass Exploit Shodan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-08-20T03:19:08Z",
+            "owner": "cys3c",
+            "repo": "redisMassExploit",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Memcrashed-DDoS-Exploit_withoutShodan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-05-05T14:41:36Z",
+            "owner": "tai-euler",
+            "repo": "Memcrashed-DDoS-Exploit_withoutShodan",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CVE-2019-19781 Shodan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-01-14T15:53:14Z",
+            "owner": "aqhmal",
+            "repo": "CVE-2019-19781",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apache Exploit CVE-2021-42013 Shodan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-08T13:18:55Z",
+            "owner": "andrea-mattioli",
+            "repo": "apache-exploit-CVE-2021-42013",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PulseExploit Shodan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-04-25T05:06:45Z",
+            "owner": "aqhmal",
+            "repo": "pulsexploit",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TouDoum-DDoS-Exploit Shodan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-02-25T12:02:46Z",
+            "owner": "msterhuj",
+            "repo": "TouDoum-DDoS-Exploit",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Memcached DDOS Shodan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-08-17T12:57:06Z",
+            "owner": "BlackHoleSun78",
+            "repo": "memcrashed-ddos",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShodanFortiOS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-11T20:41:54Z",
+            "owner": "TechinsightsPro",
+            "repo": "ShodanFortiOS",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CVE-2022-40140-SCANNER Shodan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-13T23:27:02Z",
+            "owner": "ipsBruno",
+            "repo": "CVE-2022-40140-SCANNER",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "F5-BIG-IP-CVE-2020-5902 Shodan scanner",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-02-04T17:38:40Z",
+            "owner": "faisalfs10x",
+            "repo": "F5-BIG-IP-CVE-2020-5902-shodan-scanner",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cisco CVE-2020-3452 Shodan scanner",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-02-04T17:38:25Z",
+            "owner": "faisalfs10x",
+            "repo": "Cisco-CVE-2020-3452-shodan-scanner",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mass-exploit-CVE-2022-29464 Shodan",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "DBLTEKchecker Shodan",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Exploit Automation Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kamerka (Shodan)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2020-06-28T08:42:06Z",
+            "owner": "woj-ciech",
+            "repo": "kamerka",
+            "stars": 1269
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fire Shodan Map",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-05-25T00:20:15Z",
+            "owner": "Warflop",
+            "repo": "FireShodanMap",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shomap",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2021-05-25T16:26:24Z",
+            "owner": "woj-ciech",
+            "repo": "Shomap",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GreyNoise Visualizer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2018-12-04T19:11:14Z",
+            "owner": "cbuto",
+            "repo": "greynoise-visualizer",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "Mapping/visualization tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Common Osint Model Converter (Shodan and Censys)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T18:41:32Z",
+            "owner": "3c7",
+            "repo": "common-osint-model",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GShodan. JSON to HTML",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-04-09T06:27:52Z",
+            "owner": "System00-Security",
+            "repo": "GShodan",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSINT_Shodan_to_excel",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-07-07T10:33:53Z",
+            "owner": "KrakenMSK",
+            "repo": "OSINT_Shodan_to_excel",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Results converting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GriefBuddy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-07T08:42:59Z",
+            "owner": "k0rnh0li0",
+            "repo": "GriefBuddy",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shodan Minecraft Server Finder",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-01-29T21:51:21Z",
+            "owner": "KarpF1sh",
+            "repo": "shodan-minecraft-server-finder",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Minecraft Servers Search Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ShodanAnomymousDirs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-08-07T19:38:43Z",
+            "owner": "imnikola",
+            "repo": "ShodanAnomymousDirs",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shodan FTPSearch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-02-15T18:26:15Z",
+            "owner": "b3n4kh",
+            "repo": "shodan-ftpsearch",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "FTP Servers Search Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CloudFlair Censys",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-01T10:06:43Z",
+            "owner": "christophetd",
+            "repo": "CloudFlair",
+            "stars": 2967
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CloudBunny Shodan/Censys",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-04T19:26:40Z",
+            "owner": "Warflop",
+            "repo": "cloudbunny",
+            "stars": 376
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CloudFlare-IP Shodan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-10-02T06:29:10Z",
+            "owner": "karma9874",
+            "repo": "CloudFlare-IP",
+            "stars": 68
+          }
+        }
+      ],
+      "title": "WAF"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Django Hunter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-01-01T18:11:01Z",
+            "owner": "jimywork",
+            "repo": "djangohunter",
+            "stars": 250
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MongoDB Shodan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-11-09T13:56:35Z",
+            "owner": "mohwahyudi",
+            "repo": "mongodb-shodan",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Databases Search Tool"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RpiGrab (Shodan + RaspBerryPi)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-12T01:15:55Z",
+            "owner": "TheSpeedX",
+            "repo": "rpigrab",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Miner Hack",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-08-12T16:03:53Z",
+            "owner": "greatshi",
+            "repo": "miner_hack",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shodan Raspi",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-04-28T09:14:29Z",
+            "owner": "FoxTheAlmighty",
+            "repo": "shodan_raspi",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Default Credentials Automation Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "C2 Tracker Shodan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-04-13T01:20:16Z",
+            "owner": "montysecurity",
+            "repo": "C2-Tracker",
+            "stars": 776
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C2 Pwn Shodan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-12-09T13:53:22Z",
+            "owner": "LukeBob-zz",
+            "repo": "C2-Pwn",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C2 Netlas Search Java",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "C2 search tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Shodmon",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-06-14T17:31:22Z",
+            "owner": "inishantgrover",
+            "repo": "Shodmon",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Microsoft Sentinel Shodan Monitor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-09-19T05:59:54Z",
+            "owner": "mikoiv",
+            "repo": "MicrosoftSentinel-ShodanMonitor",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GreyWatch (GreyNoise)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2022-06-11T16:23:31Z",
+            "owner": "hrbrmstr",
+            "repo": "greywatch",
+            "stars": 33
+          }
+        }
+      ],
+      "title": "Monitoring tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pirate VPS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-28T03:42:31Z",
+            "owner": "superswan",
+            "repo": "Pirate-VPS",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shodan Screenshot Automator VNC",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-03-26T08:15:40Z",
+            "owner": "swlacy",
+            "repo": "ShodanScreenshotAutomatorVNC",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shodan Slideshow",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2019-02-10T16:54:35Z",
+            "owner": "GitMirar",
+            "repo": "shodan-slideshow",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shodaniel",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-08T03:55:16Z",
+            "owner": "gr4viton",
+            "repo": "shodaniel",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "VNC Screenshots Automation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fofa View",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-02-16T17:26:12Z",
+            "owner": "fofapro",
+            "repo": "fofa_view",
+            "stars": 622
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shodan Firefox addon",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-06-10T12:57:50Z",
+            "owner": "PaulSec",
+            "repo": "Shodan-Firefox-Addon",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZoomEye Tools",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-01-18T03:38:53Z",
+            "owner": "knownsec",
+            "repo": "Zoomeye-Tools",
+            "stars": 44
+          }
+        }
+      ],
+      "title": "Browser Extensions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Shodan Mobile App",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-05T16:54:23Z",
+            "owner": "PaulSec",
+            "repo": "Shodan.io-mobile-app",
+            "stars": 215
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shodand",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-08-03T21:38:17Z",
+            "owner": "fooock",
+            "repo": "shodand",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZoomEye Android SDK API",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2016-05-05T10:22:46Z",
+            "owner": "donglua",
+            "repo": "ZoomEye-API",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZoomEye Android",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2016-05-05T15:09:00Z",
+            "owner": "donglua",
+            "repo": "ZoomEyeAndroid",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Mobile Apps and SDK"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Shodan Slack Bot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-08-12T23:59:48Z",
+            "owner": "vortexau",
+            "repo": "ShodanSlackBot",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CensysIP for Slack",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2016-05-14T12:45:27Z",
+            "owner": "jgamblin",
+            "repo": "censysip-for-slack",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Slack Bots"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Search Viewer (Fofa, Hunter, Shodan, Quake, Zoomeye, Censys)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-06T11:04:19Z",
+            "owner": "G3et",
+            "repo": "Search_Viewer",
+            "stars": 791
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shodan VIZ",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2016-07-10T14:31:03Z",
+            "owner": "jporter-dev",
+            "repo": "shodan-viz",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSINTUI (Shodan, and Censys)",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Alternative UI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Shodan Python Library",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-05T13:11:50Z",
+            "owner": "achillean",
+            "repo": "shodan-python",
+            "stars": 2937
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shodan Eye",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T08:38:33Z",
+            "owner": "BullsEye0",
+            "repo": "shodan-eye",
+            "stars": 1301
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"My Shodan scripts\"",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-14T23:47:03Z",
+            "owner": "random-robbie",
+            "repo": "My-Shodan-Scripts",
+            "stars": 1146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FofaHack",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-28T08:50:20Z",
+            "owner": "Cl0udG0d",
+            "repo": "Fofa-hack",
+            "stars": 876
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FofaMap",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-09T12:17:17Z",
+            "owner": "asaotomo",
+            "repo": "FofaMap",
+            "stars": 697
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sarenka (universal)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-04T15:42:26Z",
+            "owner": "KTZgraph",
+            "repo": "sarenka",
+            "stars": 674
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ThunderSearch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-06T02:09:33Z",
+            "owner": "xzajyjs",
+            "repo": "ThunderSearch",
+            "stars": 669
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShodanX",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-14T17:56:33Z",
+            "owner": "RevoltSecurities",
+            "repo": "ShodanX",
+            "stars": 588
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZoomEye Python",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-08T00:18:29Z",
+            "owner": "knownsec",
+            "repo": "ZoomEye-python",
+            "stars": 570
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Censys Python",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-26T12:51:23Z",
+            "owner": "censys",
+            "repo": "censys-python",
+            "stars": 468
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Search Tools",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-04-09T00:03:41Z",
+            "owner": "atdpa4sw0rd",
+            "repo": "Search-Tools",
+            "stars": 344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShodanTools",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-07-08T17:04:50Z",
+            "owner": "n0x08",
+            "repo": "ShodanTools",
+            "stars": 263
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShodanHat",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-06-14T09:33:52Z",
+            "owner": "HatBashBR",
+            "repo": "ShodanHat",
+            "stars": 234
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Searpy (universal)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-17T09:59:18Z",
+            "owner": "j3ers3",
+            "repo": "Searpy",
+            "stars": 214
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NoMoney (universal)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-12T08:02:34Z",
+            "owner": "H-Limbus",
+            "repo": "NoMoney",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyGreyNoise",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-09T20:06:40Z",
+            "owner": "GreyNoise-Intelligence",
+            "repo": "pygreynoise",
+            "stars": 177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyHunter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-09T17:34:43Z",
+            "owner": "VonStruddle",
+            "repo": "PyHunter",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CyberSpace Map API",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-13T07:31:05Z",
+            "owner": "Xc1Ym",
+            "repo": "cyberspace_map_API",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shodan_So",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-12-18T14:00:02Z",
+            "owner": "zev3n",
+            "repo": "Shodan_So",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shodan Seeker",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-08-09T07:48:52Z",
+            "owner": "laincode",
+            "repo": "shodan-seeker",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shogun",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-10T23:32:22Z",
+            "owner": "NullArray",
+            "repo": "Shogun",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "X-Fofa",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-20T03:15:59Z",
+            "owner": "sv3nbeast",
+            "repo": "X-Fofa",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":heartpulse:Netlas Official Python Library:heartpulse:",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-22T08:49:32Z",
+            "owner": "netlas-io",
+            "repo": "netlas-python",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShodanSearchAssistant",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-04-16T21:39:19Z",
+            "owner": "KyxRecon",
+            "repo": "ShodanAPI",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShodanFy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-06-03T20:32:11Z",
+            "owner": "owlonex",
+            "repo": "Shodanfy.py",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":heartpulse:Netlas Email Search Python:heartpulse:",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-04T02:18:34Z",
+            "owner": "soxoj",
+            "repo": "netlas-email-search",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "360Quake",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-20T14:22:03Z",
+            "owner": "test502git",
+            "repo": "360Quake",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ozone Tool",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-22T06:48:26Z",
+            "owner": "wkend",
+            "repo": "0_zone_tool",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CruminalIP Python",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-03-28T03:39:13Z",
+            "owner": "ChoiSG",
+            "repo": "criminalip-python",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neuro. Netlas vulnerabilities search automation using Nuclei templates",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-08T02:44:16Z",
+            "owner": "humblelad",
+            "repo": "neuro",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SherlockSight (Criminal IP)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-23T03:50:46Z",
+            "owner": "Aidennnn33",
+            "repo": "sherlocksight",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyOnyphe",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-22T22:16:59Z",
+            "owner": "n4xh4ck5",
+            "repo": "pyonyphe",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyCriminalIP",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-06T06:54:17Z",
+            "owner": "haginara",
+            "repo": "PyCriminalIP",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AIOOnyphe",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-15T07:05:37Z",
+            "owner": "koromodako",
+            "repo": "aionyphe",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "360quake_view",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-21T08:31:00Z",
+            "owner": "niexiaoxiao11",
+            "repo": "360quake_view",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":heartpulse:Netlass Python Library (Netlas search):heartpulse:",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "ShodanSploit",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Bamf. Search vulnerablies routers in Shodan",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Python Search Automation Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ShodanSpider",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-03-17T10:30:32Z",
+            "owner": "shubhamrooter",
+            "repo": "ShodanSpider",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":heartpulse:Netlas Scripts:heartpulse:",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-22T11:23:48Z",
+            "owner": "netlas-io",
+            "repo": "netlas-scripts",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShodanVulnCheck",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2018-12-05T17:48:19Z",
+            "owner": "Mavrepis",
+            "repo": "ShodanVulncheck",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GreyNoise Bash Scripts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2022-03-02T18:34:10Z",
+            "owner": "0x4rk0",
+            "repo": "greynoise",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Bash Search Automation Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fofa Viewer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-12-26T12:19:11Z",
+            "owner": "wgpsec",
+            "repo": "fofa_viewer",
+            "stars": 1801
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fofaEX",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-07-24T11:18:52Z",
+            "owner": "10cks",
+            "repo": "fofaEX",
+            "stars": 240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JShodan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-08-05T13:17:53Z",
+            "owner": "fooock",
+            "repo": "jshodan",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fofa Java",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-08-27T14:46:16Z",
+            "owner": "fofapro",
+            "repo": "fofa-java",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shodan Scanner",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-06-27T11:17:18Z",
+            "owner": "nikos-glikis",
+            "repo": "ShodanScanner",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QuakeViewer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-09-13T03:29:14Z",
+            "owner": "Rubby2001",
+            "repo": "QuakeViewer",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZoomEye App",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2016-04-24T03:43:40Z",
+            "owner": "daviddone",
+            "repo": "ZoomEye_APP",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GreyNoise4j",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-04-07T23:17:52Z",
+            "owner": "bfu4",
+            "repo": "greynoise4j",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Netlas Java Library",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Java Search Automation Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Xray (Shodan)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2024-07-10T09:43:56Z",
+            "owner": "evilsocket",
+            "repo": "xray",
+            "stars": 2331
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FoFax",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-06T05:40:27Z",
+            "owner": "xiecat",
+            "repo": "fofax",
+            "stars": 836
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go Shodan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-01-12T22:49:02Z",
+            "owner": "ns3777k",
+            "repo": "go-shodan",
+            "stars": 219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shomon (Shodan Monitoring integration for TheHive)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-12-12T20:10:24Z",
+            "owner": "kaansk",
+            "repo": "shomon",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shodan Go Client",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-12-15T10:53:24Z",
+            "owner": "shadowscatcher",
+            "repo": "shodan",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shodanidb (Fetch data (open ports, CVEs, CPEs, ...) from shodan internetDB API)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-01-09T08:08:42Z",
+            "owner": "s4hm4d",
+            "repo": "shodanidb",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZoomEye Go",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-03-31T08:51:39Z",
+            "owner": "gyyyy",
+            "repo": "ZoomEye-go",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fofa Go",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2020-03-17T09:52:00Z",
+            "owner": "fofapro",
+            "repo": "fofa-go",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SteamPipe Shodan Plugin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T23:44:46Z",
+            "owner": "turbot",
+            "repo": "steampipe-plugin-shodan",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QuakeAPI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-02-15T06:53:18Z",
+            "owner": "YetClass",
+            "repo": "QuakeAPI",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GoCensys",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2016-10-25T19:22:49Z",
+            "owner": "abadojack",
+            "repo": "gocensys",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fofa Dump",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-07-27T15:00:37Z",
+            "owner": "tardc",
+            "repo": "fofadump",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GreyNoise",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2018-09-13T21:22:01Z",
+            "owner": "securityclippy",
+            "repo": "greynoise",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GO GreyNoise",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2017-11-15T03:21:33Z",
+            "owner": "patrobinson",
+            "repo": "go-greynoise",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Netlas Go Library",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Go Search Automation Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Shodanz",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-08-18T14:49:19Z",
+            "owner": "picatz",
+            "repo": "shodanz",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shodan Ruby",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2019-11-24T01:58:07Z",
+            "owner": "achillean",
+            "repo": "shodan-ruby",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Censys Ruby",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-09-12T16:50:40Z",
+            "owner": "trailofbits",
+            "repo": "censys-ruby",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GreyNoise",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2023-10-17T18:45:28Z",
+            "owner": "ninoseki",
+            "repo": "greynoise",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Onyphe RB",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2020-08-07T00:25:47Z",
+            "owner": "ninoseki",
+            "repo": "onyphe-rb",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Ruby Search Automation Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Shodan.Net",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-08-05T13:16:15Z",
+            "owner": "TerribleDev",
+            "repo": "Shodan.Net",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shodan CLI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-04-01T09:08:00Z",
+            "owner": "yvesago",
+            "repo": "shodan-cli",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shodan.NET",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2011-02-09T01:04:40Z",
+            "owner": "achillean",
+            "repo": "Shodan.NET",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "C# Search Automation Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Shodan Client",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-03-11T16:19:51Z",
+            "owner": "jesusprubio",
+            "repo": "shodan-client",
+            "stars": 218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shodan.js",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-12-16T18:17:00Z",
+            "owner": "picatz",
+            "repo": "shodan.js",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Easy Netlas",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-11-07T05:20:11Z",
+            "owner": "I2rys",
+            "repo": "easy-netlas",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Node JS Search Automation Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Posh Shodan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2016-02-18T02:05:58Z",
+            "owner": "darkoperator",
+            "repo": "Posh-Shodan",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shodan PS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2024-07-26T23:00:06Z",
+            "owner": "simeononsecurity",
+            "repo": "Shodan_PS",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GreyNoise PS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2024-09-19T15:35:22Z",
+            "owner": "AndrewPla",
+            "repo": "GreyNoisePS",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Use Onyphe",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2021-11-21T20:05:09Z",
+            "owner": "MS-LUF",
+            "repo": "Use-Onyphe",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "PowerShell Search Automation Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Shodan PHP REST API",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-04-05T19:17:23Z",
+            "owner": "ScadaExposure",
+            "repo": "Shodan-PHP-REST-API",
+            "stars": 111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jenkins Shodan Shell",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-03-24T19:40:12Z",
+            "owner": "joesmithjaffa",
+            "repo": "jenkins-shell",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shodan Search",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "PHP Search Automation Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Shodan Perk",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2013-10-10T21:27:00Z",
+            "owner": "achillean",
+            "repo": "shodan-perl",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Onyphe CLI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2025-05-14T07:45:12Z",
+            "owner": "onyphe",
+            "repo": "cli",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Perl Search Automation Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Shodan R Package",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2018-02-14T23:31:50Z",
+            "owner": "hrbrmstr",
+            "repo": "shodan",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Censys R Package",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2022-08-09T22:15:59Z",
+            "owner": "hrbrmstr",
+            "repo": "censys",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GreyNoise R Package",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2020-03-05T20:33:43Z",
+            "owner": "hrbrmstr",
+            "repo": "greynoise",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "R Search Automation Tools"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:18:48.601Z",
+    "original_repository": "cipher387/awesome-ip-search-engines",
+    "original_repository_sha": "05a613a04bb9a5811272d6d35dd265688898e36f",
+    "enhanced_repository": "enhansome/enhansome-ip-search-engines",
+    "enhanced_repository_description": null,
+    "title": "Awesome Table of content with stars"
+  }
+}
