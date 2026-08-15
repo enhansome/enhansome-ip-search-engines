@@ -47,7 +47,7 @@
             "last_commit": "2026-08-11T07:40:02Z",
             "owner": "FofaInfo",
             "repo": "Awesome-FOFA",
-            "stars": 348
+            "stars": 349
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2021-04-02T18:40:54Z",
             "owner": "GreyNoise-Intelligence",
             "repo": "api.greynoise.io",
-            "stars": 319
+            "stars": 320
           }
         },
         {
@@ -109,7 +109,7 @@
             "last_commit": "2024-05-27T20:36:28Z",
             "owner": "jakejarvis",
             "repo": "awesome-shodan-queries",
-            "stars": 7640
+            "stars": 7645
           }
         },
         {
@@ -151,7 +151,7 @@
             "last_commit": "2018-11-25T05:31:59Z",
             "owner": "JavierOlmedo",
             "repo": "shodan-filters",
-            "stars": 588
+            "stars": 589
           }
         },
         {
@@ -736,7 +736,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-26T19:41:36Z",
+            "last_commit": "2026-08-14T11:58:21Z",
             "owner": "eremit4",
             "repo": "favihunter",
             "stars": 256
@@ -815,7 +815,7 @@
             "last_commit": "2026-08-05T03:17:41Z",
             "owner": "ivre",
             "repo": "ivre",
-            "stars": 4110
+            "stars": 4113
           }
         },
         {
@@ -829,7 +829,7 @@
             "last_commit": "2026-04-13T08:08:18Z",
             "owner": "s0md3v",
             "repo": "Smap",
-            "stars": 3279
+            "stars": 3280
           }
         },
         {
@@ -1017,7 +1017,7 @@
             "last_commit": "2025-05-01T09:19:31Z",
             "owner": "christophetd",
             "repo": "censys-subdomain-finder",
-            "stars": 842
+            "stars": 843
           }
         },
         {
@@ -1031,7 +1031,7 @@
             "last_commit": "2025-09-01T21:13:46Z",
             "owner": "incogbyte",
             "repo": "shosubgo",
-            "stars": 574
+            "stars": 573
           }
         },
         {
@@ -1611,7 +1611,7 @@
             "last_commit": "2025-05-01T10:06:43Z",
             "owner": "christophetd",
             "repo": "CloudFlair",
-            "stars": 2967
+            "stars": 2968
           }
         },
         {
@@ -1741,7 +1741,7 @@
             "last_commit": "2026-04-13T01:20:16Z",
             "owner": "montysecurity",
             "repo": "C2-Tracker",
-            "stars": 776
+            "stars": 777
           }
         },
         {
@@ -1939,7 +1939,7 @@
             "last_commit": "2026-06-05T16:54:23Z",
             "owner": "PaulSec",
             "repo": "Shodan.io-mobile-app",
-            "stars": 215
+            "stars": 216
           }
         },
         {
@@ -2075,7 +2075,7 @@
             "last_commit": "2024-08-05T13:11:50Z",
             "owner": "achillean",
             "repo": "shodan-python",
-            "stars": 2938
+            "stars": 2941
           }
         },
         {
@@ -2089,7 +2089,7 @@
             "last_commit": "2026-08-02T08:38:33Z",
             "owner": "BullsEye0",
             "repo": "shodan-eye",
-            "stars": 1301
+            "stars": 1302
           }
         },
         {
@@ -2117,7 +2117,7 @@
             "last_commit": "2025-10-28T08:50:20Z",
             "owner": "Cl0udG0d",
             "repo": "Fofa-hack",
-            "stars": 876
+            "stars": 878
           }
         },
         {
@@ -2131,7 +2131,7 @@
             "last_commit": "2026-04-09T12:17:17Z",
             "owner": "asaotomo",
             "repo": "FofaMap",
-            "stars": 697
+            "stars": 698
           }
         },
         {
@@ -2173,7 +2173,7 @@
             "last_commit": "2025-05-14T17:56:33Z",
             "owner": "RevoltSecurities",
             "repo": "ShodanX",
-            "stars": 588
+            "stars": 589
           }
         },
         {
@@ -2229,7 +2229,7 @@
             "last_commit": "2020-07-08T17:04:50Z",
             "owner": "n0x08",
             "repo": "ShodanTools",
-            "stars": 263
+            "stars": 264
           }
         },
         {
@@ -2243,7 +2243,7 @@
             "last_commit": "2021-06-14T09:33:52Z",
             "owner": "HatBashBR",
             "repo": "ShodanHat",
-            "stars": 234
+            "stars": 235
           }
         },
         {
@@ -3327,7 +3327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T07:04:53.581Z",
+    "last_updated": "2026-08-15T06:14:57.254Z",
     "original_repository": "cipher387/awesome-ip-search-engines",
     "original_repository_sha": "05a613a04bb9a5811272d6d35dd265688898e36f",
     "enhanced_repository": "enhansome/enhansome-ip-search-engines",
