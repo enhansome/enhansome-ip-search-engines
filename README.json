@@ -109,7 +109,7 @@
             "last_commit": "2024-05-27T20:36:28Z",
             "owner": "jakejarvis",
             "repo": "awesome-shodan-queries",
-            "stars": 7645
+            "stars": 7648
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2026-07-20T18:26:47Z",
             "owner": "thehappydinoa",
             "repo": "awesome-censys-queries",
-            "stars": 1239
+            "stars": 1240
           }
         },
         {
@@ -193,7 +193,7 @@
             "last_commit": "2025-01-13T20:23:51Z",
             "owner": "HernanRodriguez1",
             "repo": "Dorks-Shodan-2023",
-            "stars": 247
+            "stars": 246
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-04-24T09:32:52Z",
             "owner": "netlas-io",
             "repo": "netlas-dorks",
-            "stars": 207
+            "stars": 206
           }
         },
         {
@@ -317,7 +317,7 @@
             "last_commit": "2020-06-23T21:24:47Z",
             "owner": "atz-spe",
             "repo": "SHODAN-CTF",
-            "stars": 7
+            "stars": 6
           }
         },
         {
@@ -815,7 +815,7 @@
             "last_commit": "2026-08-05T03:17:41Z",
             "owner": "ivre",
             "repo": "ivre",
-            "stars": 4113
+            "stars": 4115
           }
         },
         {
@@ -826,7 +826,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-04-13T08:08:18Z",
+            "last_commit": "2026-08-15T20:03:02Z",
             "owner": "s0md3v",
             "repo": "Smap",
             "stars": 3280
@@ -885,7 +885,7 @@
             "last_commit": "2016-03-14T14:20:07Z",
             "owner": "glennzw",
             "repo": "shodan-hq-nse",
-            "stars": 157
+            "stars": 158
           }
         },
         {
@@ -955,7 +955,7 @@
             "last_commit": "2021-12-03T17:14:45Z",
             "owner": "censys",
             "repo": "nmap-censys",
-            "stars": 59
+            "stars": 60
           }
         },
         {
@@ -1031,7 +1031,7 @@
             "last_commit": "2025-09-01T21:13:46Z",
             "owner": "incogbyte",
             "repo": "shosubgo",
-            "stars": 573
+            "stars": 574
           }
         },
         {
@@ -1247,7 +1247,7 @@
             "last_commit": "2017-09-15T18:39:10Z",
             "owner": "Warflop",
             "repo": "IOT-MQTT-Exploit",
-            "stars": 21
+            "stars": 20
           }
         },
         {
@@ -1755,7 +1755,7 @@
             "last_commit": "2017-12-09T13:53:22Z",
             "owner": "LukeBob-zz",
             "repo": "C2-Pwn",
-            "stars": 19
+            "stars": 18
           }
         },
         {
@@ -1829,7 +1829,7 @@
             "last_commit": "2021-11-28T03:42:31Z",
             "owner": "superswan",
             "repo": "Pirate-VPS",
-            "stars": 12
+            "stars": 11
           }
         },
         {
@@ -2089,7 +2089,7 @@
             "last_commit": "2026-08-02T08:38:33Z",
             "owner": "BullsEye0",
             "repo": "shodan-eye",
-            "stars": 1302
+            "stars": 1303
           }
         },
         {
@@ -2128,7 +2128,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-09T12:17:17Z",
+            "last_commit": "2026-08-16T00:56:24Z",
             "owner": "asaotomo",
             "repo": "FofaMap",
             "stars": 698
@@ -2173,7 +2173,7 @@
             "last_commit": "2025-05-14T17:56:33Z",
             "owner": "RevoltSecurities",
             "repo": "ShodanX",
-            "stars": 589
+            "stars": 590
           }
         },
         {
@@ -2229,7 +2229,7 @@
             "last_commit": "2020-07-08T17:04:50Z",
             "owner": "n0x08",
             "repo": "ShodanTools",
-            "stars": 264
+            "stars": 262
           }
         },
         {
@@ -3327,7 +3327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T06:14:57.254Z",
+    "last_updated": "2026-08-16T06:16:22.267Z",
     "original_repository": "cipher387/awesome-ip-search-engines",
     "original_repository_sha": "05a613a04bb9a5811272d6d35dd265688898e36f",
     "enhanced_repository": "enhansome/enhansome-ip-search-engines",
