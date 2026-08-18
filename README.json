@@ -109,7 +109,7 @@
             "last_commit": "2024-05-27T20:36:28Z",
             "owner": "jakejarvis",
             "repo": "awesome-shodan-queries",
-            "stars": 7650
+            "stars": 7651
           }
         },
         {
@@ -151,7 +151,7 @@
             "last_commit": "2018-11-25T05:31:59Z",
             "owner": "JavierOlmedo",
             "repo": "shodan-filters",
-            "stars": 589
+            "stars": 588
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2020-05-26T13:00:37Z",
             "owner": "humblelad",
             "repo": "Shodan-Dorks",
-            "stars": 540
+            "stars": 539
           }
         },
         {
@@ -815,7 +815,7 @@
             "last_commit": "2026-08-05T03:17:41Z",
             "owner": "ivre",
             "repo": "ivre",
-            "stars": 4115
+            "stars": 4113
           }
         },
         {
@@ -1135,7 +1135,7 @@
             "last_commit": "2024-03-19T18:47:57Z",
             "owner": "TasosY2K",
             "repo": "camera-exploit-tool",
-            "stars": 222
+            "stars": 223
           }
         },
         {
@@ -1611,7 +1611,7 @@
             "last_commit": "2025-05-01T10:06:43Z",
             "owner": "christophetd",
             "repo": "CloudFlair",
-            "stars": 2968
+            "stars": 2969
           }
         },
         {
@@ -2075,7 +2075,7 @@
             "last_commit": "2024-08-05T13:11:50Z",
             "owner": "achillean",
             "repo": "shodan-python",
-            "stars": 2942
+            "stars": 2943
           }
         },
         {
@@ -2131,7 +2131,7 @@
             "last_commit": "2026-08-16T17:44:59Z",
             "owner": "asaotomo",
             "repo": "FofaMap",
-            "stars": 699
+            "stars": 701
           }
         },
         {
@@ -2187,7 +2187,7 @@
             "last_commit": "2026-01-08T00:18:29Z",
             "owner": "knownsec",
             "repo": "ZoomEye-python",
-            "stars": 570
+            "stars": 571
           }
         },
         {
@@ -2215,7 +2215,7 @@
             "last_commit": "2021-04-09T00:03:41Z",
             "owner": "atdpa4sw0rd",
             "repo": "Search-Tools",
-            "stars": 344
+            "stars": 343
           }
         },
         {
@@ -2651,7 +2651,7 @@
             "last_commit": "2025-12-26T12:19:11Z",
             "owner": "wgpsec",
             "repo": "fofa_viewer",
-            "stars": 1801
+            "stars": 1800
           }
         },
         {
@@ -2789,7 +2789,7 @@
             "last_commit": "2026-03-06T05:40:27Z",
             "owner": "xiecat",
             "repo": "fofax",
-            "stars": 836
+            "stars": 837
           }
         },
         {
@@ -3327,7 +3327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T06:24:21.344Z",
+    "last_updated": "2026-08-18T06:18:40.237Z",
     "original_repository": "cipher387/awesome-ip-search-engines",
     "original_repository_sha": "05a613a04bb9a5811272d6d35dd265688898e36f",
     "enhanced_repository": "enhansome/enhansome-ip-search-engines",
