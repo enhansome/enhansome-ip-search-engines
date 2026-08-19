@@ -19,7 +19,7 @@
             "last_commit": "2025-06-27T07:54:56Z",
             "owner": "netlas-io",
             "repo": "netlas-cookbook",
-            "stars": 888
+            "stars": 889
           }
         },
         {
@@ -109,7 +109,7 @@
             "last_commit": "2024-05-27T20:36:28Z",
             "owner": "jakejarvis",
             "repo": "awesome-shodan-queries",
-            "stars": 7651
+            "stars": 7655
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-04-24T09:32:52Z",
             "owner": "netlas-io",
             "repo": "netlas-dorks",
-            "stars": 206
+            "stars": 207
           }
         },
         {
@@ -1017,7 +1017,7 @@
             "last_commit": "2025-05-01T09:19:31Z",
             "owner": "christophetd",
             "repo": "censys-subdomain-finder",
-            "stars": 843
+            "stars": 844
           }
         },
         {
@@ -1031,7 +1031,7 @@
             "last_commit": "2025-09-01T21:13:46Z",
             "owner": "incogbyte",
             "repo": "shosubgo",
-            "stars": 575
+            "stars": 576
           }
         },
         {
@@ -1939,7 +1939,7 @@
             "last_commit": "2026-06-05T16:54:23Z",
             "owner": "PaulSec",
             "repo": "Shodan.io-mobile-app",
-            "stars": 216
+            "stars": 217
           }
         },
         {
@@ -2089,7 +2089,7 @@
             "last_commit": "2026-08-02T08:38:33Z",
             "owner": "BullsEye0",
             "repo": "shodan-eye",
-            "stars": 1303
+            "stars": 1324
           }
         },
         {
@@ -2159,7 +2159,7 @@
             "last_commit": "2024-12-06T02:09:33Z",
             "owner": "xzajyjs",
             "repo": "ThunderSearch",
-            "stars": 670
+            "stars": 671
           }
         },
         {
@@ -2589,7 +2589,7 @@
             "last_commit": "2025-03-17T10:30:32Z",
             "owner": "shubhamrooter",
             "repo": "ShodanSpider",
-            "stars": 206
+            "stars": 208
           }
         },
         {
@@ -3327,7 +3327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T06:18:40.237Z",
+    "last_updated": "2026-08-19T06:19:51.186Z",
     "original_repository": "cipher387/awesome-ip-search-engines",
     "original_repository_sha": "05a613a04bb9a5811272d6d35dd265688898e36f",
     "enhanced_repository": "enhansome/enhansome-ip-search-engines",
