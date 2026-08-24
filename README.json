@@ -114,7 +114,7 @@
                 "last_commit": "2024-05-27T20:36:28Z",
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7667
+                "stars": 7668
               }
             },
             {
@@ -816,7 +816,7 @@
                 "last_commit": "2026-06-24T16:32:04Z",
                 "owner": "phor3nsic",
                 "repo": "favicon_hash_shodan",
-                "stars": 99
+                "stars": 100
               }
             },
             {
@@ -1197,7 +1197,7 @@
                 "last_commit": "2024-03-19T18:47:57Z",
                 "owner": "TasosY2K",
                 "repo": "camera-exploit-tool",
-                "stars": 223
+                "stars": 224
               }
             },
             {
@@ -1687,6 +1687,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "ShodanGeoScan",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 306611782,
+                "language": "Python",
+                "last_commit": "2020-10-23T11:50:27Z",
+                "owner": "nixintel",
+                "repo": "ShodanGeoScan",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Geo Search Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "CloudFlair Censys",
               "description": null,
               "children": [],
@@ -1697,7 +1719,7 @@
                 "last_commit": "2025-05-01T10:06:43Z",
                 "owner": "christophetd",
                 "repo": "CloudFlair",
-                "stars": 2971
+                "stars": 2972
               }
             },
             {
@@ -1838,7 +1860,7 @@
                 "last_commit": "2026-04-13T01:20:16Z",
                 "owner": "montysecurity",
                 "repo": "C2-Tracker",
-                "stars": 782
+                "stars": 783
               }
             },
             {
@@ -1912,6 +1934,28 @@
           "description": null,
           "node_type": "group",
           "title": "Monitoring tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Shimon",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 214900540,
+                "language": "Python",
+                "last_commit": "2024-04-13T22:56:08Z",
+                "owner": "ninoseki",
+                "repo": "shimon",
+                "stars": 89
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "URL fingerprinting tools"
         },
         {
           "children": [
@@ -2036,6 +2080,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "GreyNoise AI Chatbot",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 729923328,
+                "language": "Python",
+                "last_commit": "2023-12-13T13:48:36Z",
+                "owner": "zaidmukaddam",
+                "repo": "greynoise-chatbot",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AI Help Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Shodan Mobile App",
               "description": null,
               "children": [],
@@ -2103,6 +2169,72 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Discord ShodanBot",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 684772447,
+                "language": "Python",
+                "last_commit": "2024-03-08T15:56:35Z",
+                "owner": "RocketGod-git",
+                "repo": "shodanbot",
+                "stars": 92
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Discord Bots"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "IRC Shodan Bot",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31337317,
+                "language": "Python",
+                "last_commit": "2015-02-25T21:49:17Z",
+                "owner": "ThibaudKieffer",
+                "repo": "shodanbot",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "IRC Bots"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Whatsapp ShodanBot",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 226166623,
+                "language": "Python",
+                "last_commit": "2020-12-13T16:40:24Z",
+                "owner": "geek-repo",
+                "repo": "Whatsapp-shodanBot",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "WhatsApp Bots"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Shodan Slack Bot",
               "description": null,
               "children": [],
@@ -2135,6 +2267,50 @@
           "description": null,
           "node_type": "group",
           "title": "Slack Bots"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitShodanKey (search GitHub for public Shodan API keys)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 178603477,
+                "language": "Python",
+                "last_commit": "2019-08-09T07:48:52Z",
+                "owner": "laincode",
+                "repo": "shodan-seeker",
+                "stars": 65
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "API Keys Search Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Shodan Generator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 202610371,
+                "language": "Python",
+                "last_commit": "2019-12-28T06:03:04Z",
+                "owner": "Xosrov",
+                "repo": "Shodan-Generator",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Account Generators"
         },
         {
           "children": [
@@ -2208,7 +2384,7 @@
                 "last_commit": "2026-08-02T08:38:33Z",
                 "owner": "BullsEye0",
                 "repo": "shodan-eye",
-                "stars": 1346
+                "stars": 1348
               }
             },
             {
@@ -2253,7 +2429,7 @@
                 "last_commit": "2026-08-16T17:44:59Z",
                 "owner": "asaotomo",
                 "repo": "FofaMap",
-                "stars": 703
+                "stars": 704
               }
             },
             {
@@ -2283,7 +2459,7 @@
                 "last_commit": "2024-12-06T02:09:33Z",
                 "owner": "xzajyjs",
                 "repo": "ThunderSearch",
-                "stars": 671
+                "stars": 670
               }
             },
             {
@@ -3260,6 +3436,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "ShodanCPP",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 269755122,
+                "language": "C",
+                "last_commit": "2024-08-05T13:13:57Z",
+                "owner": "prophetl33t",
+                "repo": "ShodanCPP",
+                "stars": 38
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "C++ Search Automation Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Shodan Client",
               "description": null,
               "children": [],
@@ -3416,6 +3614,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Shodan ClojureScript Library",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12612757,
+                "language": "Clojure",
+                "last_commit": "2015-08-24T04:56:52Z",
+                "owner": "noprompt",
+                "repo": "shodan",
+                "stars": 110
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Clojure Search Automation Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Shodan Perk",
               "description": null,
               "children": [],
@@ -3448,6 +3668,28 @@
           "description": null,
           "node_type": "group",
           "title": "Perl Search Automation Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Shodan Library",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 160990914,
+                "language": "Crystal",
+                "last_commit": "2021-12-20T11:56:32Z",
+                "owner": "PercussiveElbow",
+                "repo": "Shodan",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Crystal Search Automation Tools"
         },
         {
           "children": [
@@ -3500,13 +3742,35 @@
           "description": null,
           "node_type": "group",
           "title": "R Search Automation Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Shodan Rust",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 78915288,
+                "language": "Rust",
+                "last_commit": "2024-08-05T13:23:18Z",
+                "owner": "femiagbabiaka",
+                "repo": "shodan-rust",
+                "stars": 51
+              }
+            }
+          ],
+          "description": "Thank you for following me! https://cybdetective.com",
+          "node_type": "group",
+          "title": "Rust Search Automation Tools"
         }
       ],
       "title": "Search tools written in different programming languages"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T06:28:42.809Z",
+    "last_updated": "2026-08-24T14:27:31.417Z",
     "original_repository": "cipher387/awesome-ip-search-engines",
     "original_repository_id": 742781775,
     "original_repository_sha": "05a613a04bb9a5811272d6d35dd265688898e36f",
