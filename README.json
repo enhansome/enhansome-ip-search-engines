@@ -114,7 +114,7 @@
                 "last_commit": "2024-05-27T20:36:28Z",
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7674
+                "stars": 7675
               }
             },
             {
@@ -2369,7 +2369,7 @@
                 "last_commit": "2024-08-05T13:11:50Z",
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 2950
+                "stars": 2951
               }
             },
             {
@@ -3770,7 +3770,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:44:28.461Z",
+    "last_updated": "2026-08-27T16:52:25.017Z",
     "original_repository_info": {
       "archived": false,
       "id": 742781775,
@@ -3778,7 +3778,7 @@
       "last_commit": "2025-08-27T13:47:27Z",
       "owner": "cipher387",
       "repo": "awesome-ip-search-engines",
-      "stars": 346
+      "stars": 347
     },
     "original_repository_sha": "05a613a04bb9a5811272d6d35dd265688898e36f",
     "enhanced_repository": "enhansome/enhansome-ip-search-engines",
