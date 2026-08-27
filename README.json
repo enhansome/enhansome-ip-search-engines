@@ -114,7 +114,7 @@
                 "last_commit": "2024-05-27T20:36:28Z",
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7671
+                "stars": 7674
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2026-07-20T18:26:47Z",
                 "owner": "thehappydinoa",
                 "repo": "awesome-censys-queries",
-                "stars": 1241
+                "stars": 1240
               }
             },
             {
@@ -144,7 +144,7 @@
                 "last_commit": "2023-03-31T11:18:21Z",
                 "owner": "lothos612",
                 "repo": "shodan",
-                "stars": 592
+                "stars": 593
               }
             },
             {
@@ -174,7 +174,7 @@
                 "last_commit": "2026-04-21T22:47:45Z",
                 "owner": "nullfuzz-pentest",
                 "repo": "shodan-dorks",
-                "stars": 543
+                "stars": 544
               }
             },
             {
@@ -853,7 +853,7 @@
                 "last_commit": "2026-08-05T03:17:41Z",
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4118
+                "stars": 4119
               }
             },
             {
@@ -1085,7 +1085,7 @@
                 "last_commit": "2025-09-01T21:13:46Z",
                 "owner": "incogbyte",
                 "repo": "shosubgo",
-                "stars": 576
+                "stars": 577
               }
             },
             {
@@ -1949,7 +1949,7 @@
                 "last_commit": "2024-04-13T22:56:08Z",
                 "owner": "ninoseki",
                 "repo": "shimon",
-                "stars": 89
+                "stars": 88
               }
             }
           ],
@@ -2384,7 +2384,7 @@
                 "last_commit": "2026-08-02T08:38:33Z",
                 "owner": "BullsEye0",
                 "repo": "shodan-eye",
-                "stars": 1353
+                "stars": 1352
               }
             },
             {
@@ -2399,7 +2399,7 @@
                 "last_commit": "2026-01-14T23:47:03Z",
                 "owner": "random-robbie",
                 "repo": "My-Shodan-Scripts",
-                "stars": 1146
+                "stars": 1147
               }
             },
             {
@@ -2429,7 +2429,7 @@
                 "last_commit": "2026-08-16T17:44:59Z",
                 "owner": "asaotomo",
                 "repo": "FofaMap",
-                "stars": 706
+                "stars": 708
               }
             },
             {
@@ -2489,7 +2489,7 @@
                 "last_commit": "2026-01-08T00:18:29Z",
                 "owner": "knownsec",
                 "repo": "ZoomEye-python",
-                "stars": 571
+                "stars": 572
               }
             },
             {
@@ -2504,7 +2504,7 @@
                 "last_commit": "2026-08-21T15:42:04Z",
                 "owner": "censys",
                 "repo": "censys-python",
-                "stars": 468
+                "stars": 469
               }
             },
             {
@@ -3562,7 +3562,7 @@
                 "archived": false,
                 "id": 114481399,
                 "language": "PowerShell",
-                "last_commit": "2026-08-25T21:00:34Z",
+                "last_commit": "2026-08-27T06:48:51Z",
                 "owner": "MS-LUF",
                 "repo": "Use-Onyphe",
                 "stars": 2
@@ -3770,9 +3770,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T06:22:37.991Z",
-    "original_repository": "cipher387/awesome-ip-search-engines",
-    "original_repository_id": 742781775,
+    "last_updated": "2026-08-27T11:44:28.461Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 742781775,
+      "language": null,
+      "last_commit": "2025-08-27T13:47:27Z",
+      "owner": "cipher387",
+      "repo": "awesome-ip-search-engines",
+      "stars": 346
+    },
     "original_repository_sha": "05a613a04bb9a5811272d6d35dd265688898e36f",
     "enhanced_repository": "enhansome/enhansome-ip-search-engines",
     "enhanced_repository_description": null,
