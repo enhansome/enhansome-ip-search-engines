@@ -18,7 +18,8 @@
                 "owner": "netlas-io",
                 "repo": "netlas-cookbook",
                 "stars": 888
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "ninoseki",
                 "repo": "shodan-dojo",
                 "stars": 472
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "FofaInfo",
                 "repo": "Awesome-FOFA",
                 "stars": 350
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "GreyNoise-Intelligence",
                 "repo": "api.greynoise.io",
                 "stars": 320
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "censys-workshop",
                 "repo": "censys-search-mindmap",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "onyphe",
                 "repo": "material",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -114,8 +120,9 @@
                 "last_commit": "2024-05-27T20:36:28Z",
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7675
-              }
+                "stars": 7679
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -129,8 +136,9 @@
                 "last_commit": "2026-07-20T18:26:47Z",
                 "owner": "thehappydinoa",
                 "repo": "awesome-censys-queries",
-                "stars": 1240
-              }
+                "stars": 1239
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "lothos612",
                 "repo": "shodan",
                 "stars": 593
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "JavierOlmedo",
                 "repo": "shodan-filters",
                 "stars": 588
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "nullfuzz-pentest",
                 "repo": "shodan-dorks",
                 "stars": 544
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "humblelad",
                 "repo": "Shodan-Dorks",
                 "stars": 541
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -205,7 +217,8 @@
                 "owner": "HernanRodriguez1",
                 "repo": "Dorks-Shodan-2023",
                 "stars": 247
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -220,7 +233,8 @@
                 "owner": "netlas-io",
                 "repo": "netlas-dorks",
                 "stars": 208
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -235,7 +249,8 @@
                 "owner": "AustrianEnergyCERT",
                 "repo": "ICS_IoT_Shodan_Dorks",
                 "stars": 111
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -250,7 +265,8 @@
                 "owner": "mr-exo",
                 "repo": "shodan-dorks",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -265,7 +281,8 @@
                 "owner": "shifa123",
                 "repo": "shodandorks",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -280,7 +297,8 @@
                 "owner": "zveriu",
                 "repo": "cctv-ddns-shodan-censys",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -295,7 +313,8 @@
                 "owner": "SoumyaJas2324",
                 "repo": "-jakejarvis-awesome-shodan-queries-",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -310,7 +329,8 @@
                 "owner": "IoT-PTv",
                 "repo": "IoT-Dorks",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -332,7 +352,8 @@
                 "owner": "atz-spe",
                 "repo": "SHODAN-CTF",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -347,7 +368,8 @@
                 "owner": "GreyNoise-Intelligence",
                 "repo": "NoiseFest-CTF-2023",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -375,7 +397,8 @@
                 "owner": "Miagz",
                 "repo": "XrayFofa",
                 "stars": 247
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -390,7 +413,8 @@
                 "owner": "eschultze",
                 "repo": "phishstats-api-network",
                 "stars": 78
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -405,7 +429,8 @@
                 "owner": "montysecurity",
                 "repo": "InfraHunter",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -420,7 +445,8 @@
                 "owner": "censys-workshop",
                 "repo": "threatfox-censys",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -435,7 +461,8 @@
                 "owner": "censys",
                 "repo": "censys-maltego",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -450,7 +477,8 @@
                 "owner": "mpars0ns",
                 "repo": "maltego_censys",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -465,7 +493,8 @@
                 "owner": "censys",
                 "repo": "censys-recon-ng",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -480,7 +509,8 @@
                 "owner": "censys",
                 "repo": "censys-postman",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -495,7 +525,8 @@
                 "owner": "bitnesswise",
                 "repo": "shodan-postman-collection",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -510,7 +541,8 @@
                 "owner": "GreyNoise-Intelligence",
                 "repo": "greynoise-maltego",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -525,7 +557,8 @@
                 "owner": "criminalip",
                 "repo": "CIP-NSE-Script",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -540,7 +573,8 @@
                 "owner": "criminalip",
                 "repo": "CriminalIP-data-STIX",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -555,7 +589,8 @@
                 "owner": "ReconInfoSec",
                 "repo": "ansible-greynoise",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -570,7 +605,8 @@
                 "owner": "GreyNoise-Intelligence",
                 "repo": "logstash-filter-greynoise",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -585,7 +621,8 @@
                 "owner": "mark0smith",
                 "repo": "Maltego_with_Fofa",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -600,7 +637,8 @@
                 "owner": "criminalip",
                 "repo": "Criminalip-Volatility3-Plugins",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -615,7 +653,8 @@
                 "owner": "GreyNoise-Intelligence",
                 "repo": "greynoise-siemplify",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -630,7 +669,8 @@
                 "owner": "criminalip",
                 "repo": "zabbix",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -645,7 +685,8 @@
                 "owner": "JustinAzoff",
                 "repo": "ninfo-plugin-shodan",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -660,7 +701,8 @@
                 "owner": "simeononsecurity",
                 "repo": "ansible_shodan",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -675,7 +717,8 @@
                 "owner": "ancailliau",
                 "repo": "synapse-onyphe",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -690,7 +733,8 @@
                 "owner": "GreyNoise-Intelligence",
                 "repo": "greynoise-demisto",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -705,7 +749,8 @@
                 "owner": "criminalip",
                 "repo": "CriminalIP-Tenable-Import-Asset",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -720,7 +765,8 @@
                 "owner": "prookl",
                 "repo": "Burp-Suite-Shodan-Scanner",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -735,7 +781,8 @@
                 "owner": "GreyNoise-Intelligence",
                 "repo": "greynoise-swimlane",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -757,7 +804,8 @@
                 "owner": "pielco11",
                 "repo": "fav-up",
                 "stars": 1199
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -772,7 +820,8 @@
                 "owner": "eremit4",
                 "repo": "favihunter",
                 "stars": 255
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -787,7 +836,8 @@
                 "owner": "Ridter",
                 "repo": "get_ip_by_ico",
                 "stars": 186
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -802,7 +852,8 @@
                 "owner": "Becivells",
                 "repo": "iconhash",
                 "stars": 180
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -817,7 +868,8 @@
                 "owner": "phor3nsic",
                 "repo": "favicon_hash_shodan",
                 "stars": 100
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -832,7 +884,8 @@
                 "owner": "eternyle",
                 "repo": "ShodanIsh",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -853,8 +906,9 @@
                 "last_commit": "2026-08-05T03:17:41Z",
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4119
-              }
+                "stars": 4120
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -869,7 +923,8 @@
                 "owner": "s0md3v",
                 "repo": "Smap",
                 "stars": 3287
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -884,7 +939,8 @@
                 "owner": "s0md3v",
                 "repo": "Silver",
                 "stars": 1054
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -899,7 +955,8 @@
                 "owner": "jm33-m0",
                 "repo": "mec",
                 "stars": 615
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -914,7 +971,8 @@
                 "owner": "alechilczenko",
                 "repo": "kimi",
                 "stars": 262
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -929,7 +987,8 @@
                 "owner": "glennzw",
                 "repo": "shodan-hq-nse",
                 "stars": 158
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -944,7 +1003,8 @@
                 "owner": "0x27",
                 "repo": "ssh_keyscanner",
                 "stars": 117
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -959,7 +1019,8 @@
                 "owner": "petercunha",
                 "repo": "Knock",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -974,7 +1035,8 @@
                 "owner": "LoveCppp",
                 "repo": "Http-Proxy-Scan",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -989,7 +1051,8 @@
                 "owner": "juliocesarfort",
                 "repo": "netscreen-shodan-scanner",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1004,7 +1067,8 @@
                 "owner": "censys",
                 "repo": "nmap-censys",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1019,7 +1083,8 @@
                 "owner": "trevordavenport",
                 "repo": "MasscanAutomation",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1034,7 +1099,8 @@
                 "owner": "pathetiq",
                 "repo": "ShoScan",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1049,7 +1115,8 @@
                 "owner": "alexsilva1983",
                 "repo": "eternalseek",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -1070,8 +1137,9 @@
                 "last_commit": "2025-05-01T09:19:31Z",
                 "owner": "christophetd",
                 "repo": "censys-subdomain-finder",
-                "stars": 844
-              }
+                "stars": 845
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1086,7 +1154,8 @@
                 "owner": "incogbyte",
                 "repo": "shosubgo",
                 "stars": 577
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1101,7 +1170,8 @@
                 "owner": "nethunteros",
                 "repo": "punter",
                 "stars": 294
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1116,7 +1186,8 @@
                 "owner": "0xbharath",
                 "repo": "censys-enumeration",
                 "stars": 156
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1131,7 +1202,8 @@
                 "owner": "SmoZy92",
                 "repo": "Shodomain",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1146,7 +1218,8 @@
                 "owner": "nmmapper",
                 "repo": "censys-subdomain-finder-non-api",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -1168,7 +1241,8 @@
                 "owner": "orleven",
                 "repo": "Tentacle",
                 "stars": 374
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1183,7 +1257,8 @@
                 "owner": "jimywork",
                 "repo": "shodanwave",
                 "stars": 267
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1197,8 +1272,9 @@
                 "last_commit": "2024-03-19T18:47:57Z",
                 "owner": "TasosY2K",
                 "repo": "camera-exploit-tool",
-                "stars": 225
-              }
+                "stars": 226
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1213,7 +1289,8 @@
                 "owner": "649",
                 "repo": "Crashcast-Exploit",
                 "stars": 164
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1228,7 +1305,8 @@
                 "owner": "JLospinoso",
                 "repo": "memcachedump",
                 "stars": 141
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1243,7 +1321,8 @@
                 "owner": "649",
                 "repo": "Apache-Struts-Shodan-Exploit",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1258,7 +1337,8 @@
                 "owner": "649",
                 "repo": "Memfixed-Mitigation-Tool",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1273,7 +1353,8 @@
                 "owner": "giaplv57",
                 "repo": "redisMassExploit",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1288,7 +1369,8 @@
                 "owner": "649",
                 "repo": "Pingpon-Exploit",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1303,7 +1385,8 @@
                 "owner": "add1ct3d",
                 "repo": "Memcrashed-DDoS-Exploit-Free",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1318,7 +1401,8 @@
                 "owner": "Warflop",
                 "repo": "IOT-MQTT-Exploit",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1333,7 +1417,8 @@
                 "owner": "cys3c",
                 "repo": "redisMassExploit",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1348,7 +1433,8 @@
                 "owner": "tai-euler",
                 "repo": "Memcrashed-DDoS-Exploit_withoutShodan",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1363,7 +1449,8 @@
                 "owner": "aqhmal",
                 "repo": "CVE-2019-19781",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1378,7 +1465,8 @@
                 "owner": "andrea-mattioli",
                 "repo": "apache-exploit-CVE-2021-42013",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1393,7 +1481,8 @@
                 "owner": "aqhmal",
                 "repo": "pulsexploit",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1408,7 +1497,8 @@
                 "owner": "msterhuj",
                 "repo": "TouDoum-DDoS-Exploit",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1423,7 +1513,8 @@
                 "owner": "BlackHoleSun78",
                 "repo": "memcrashed-ddos",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1438,7 +1529,8 @@
                 "owner": "TechinsightsPro",
                 "repo": "ShodanFortiOS",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1453,7 +1545,8 @@
                 "owner": "ipsBruno",
                 "repo": "CVE-2022-40140-SCANNER",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1468,7 +1561,8 @@
                 "owner": "faisalfs10x",
                 "repo": "F5-BIG-IP-CVE-2020-5902-shodan-scanner",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1483,7 +1577,8 @@
                 "owner": "faisalfs10x",
                 "repo": "Cisco-CVE-2020-3452-shodan-scanner",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -1505,7 +1600,8 @@
                 "owner": "woj-ciech",
                 "repo": "kamerka",
                 "stars": 1269
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1520,7 +1616,8 @@
                 "owner": "Warflop",
                 "repo": "FireShodanMap",
                 "stars": 125
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1535,7 +1632,8 @@
                 "owner": "woj-ciech",
                 "repo": "Shomap",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1550,7 +1648,8 @@
                 "owner": "cbuto",
                 "repo": "greynoise-visualizer",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -1572,7 +1671,8 @@
                 "owner": "3c7",
                 "repo": "common-osint-model",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1587,7 +1687,8 @@
                 "owner": "System00-Security",
                 "repo": "GShodan",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1602,7 +1703,8 @@
                 "owner": "KrakenMSK",
                 "repo": "OSINT_Shodan_to_excel",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -1624,7 +1726,8 @@
                 "owner": "k0rnh0li0",
                 "repo": "GriefBuddy",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1639,7 +1742,8 @@
                 "owner": "KarpF1sh",
                 "repo": "shodan-minecraft-server-finder",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -1661,7 +1765,8 @@
                 "owner": "imnikola",
                 "repo": "ShodanAnomymousDirs",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1676,7 +1781,8 @@
                 "owner": "b3n4kh",
                 "repo": "shodan-ftpsearch",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -1698,7 +1804,8 @@
                 "owner": "nixintel",
                 "repo": "ShodanGeoScan",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -1719,8 +1826,9 @@
                 "last_commit": "2025-05-01T10:06:43Z",
                 "owner": "christophetd",
                 "repo": "CloudFlair",
-                "stars": 2972
-              }
+                "stars": 2974
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1735,7 +1843,8 @@
                 "owner": "Warflop",
                 "repo": "cloudbunny",
                 "stars": 376
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1750,7 +1859,8 @@
                 "owner": "karma9874",
                 "repo": "CloudFlare-IP",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -1772,7 +1882,8 @@
                 "owner": "jimywork",
                 "repo": "djangohunter",
                 "stars": 250
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1787,7 +1898,8 @@
                 "owner": "mohwahyudi",
                 "repo": "mongodb-shodan",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -1809,7 +1921,8 @@
                 "owner": "TheSpeedX",
                 "repo": "rpigrab",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1824,7 +1937,8 @@
                 "owner": "greatshi",
                 "repo": "miner_hack",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1839,7 +1953,8 @@
                 "owner": "FoxTheAlmighty",
                 "repo": "shodan_raspi",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -1861,7 +1976,8 @@
                 "owner": "montysecurity",
                 "repo": "C2-Tracker",
                 "stars": 784
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1876,7 +1992,8 @@
                 "owner": "LukeBob-zz",
                 "repo": "C2-Pwn",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -1898,7 +2015,8 @@
                 "owner": "inishantgrover",
                 "repo": "Shodmon",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1913,7 +2031,8 @@
                 "owner": "mikoiv",
                 "repo": "MicrosoftSentinel-ShodanMonitor",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1928,7 +2047,8 @@
                 "owner": "hrbrmstr",
                 "repo": "greywatch",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -1950,7 +2070,8 @@
                 "owner": "ninoseki",
                 "repo": "shimon",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -1972,7 +2093,8 @@
                 "owner": "superswan",
                 "repo": "Pirate-VPS",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -1987,7 +2109,8 @@
                 "owner": "swlacy",
                 "repo": "ShodanScreenshotAutomatorVNC",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2002,7 +2125,8 @@
                 "owner": "GitMirar",
                 "repo": "shodan-slideshow",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2017,7 +2141,8 @@
                 "owner": "gr4viton",
                 "repo": "shodaniel",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -2039,7 +2164,8 @@
                 "owner": "fofapro",
                 "repo": "fofa_view",
                 "stars": 622
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2054,7 +2180,8 @@
                 "owner": "PaulSec",
                 "repo": "Shodan-Firefox-Addon",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2069,7 +2196,8 @@
                 "owner": "knownsec",
                 "repo": "Zoomeye-Tools",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -2091,7 +2219,8 @@
                 "owner": "zaidmukaddam",
                 "repo": "greynoise-chatbot",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -2113,7 +2242,8 @@
                 "owner": "PaulSec",
                 "repo": "Shodan.io-mobile-app",
                 "stars": 221
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2128,7 +2258,8 @@
                 "owner": "fooock",
                 "repo": "shodand",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2143,7 +2274,8 @@
                 "owner": "donglua",
                 "repo": "ZoomEye-API",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2158,7 +2290,8 @@
                 "owner": "donglua",
                 "repo": "ZoomEyeAndroid",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -2180,7 +2313,8 @@
                 "owner": "RocketGod-git",
                 "repo": "shodanbot",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -2202,7 +2336,8 @@
                 "owner": "ThibaudKieffer",
                 "repo": "shodanbot",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -2224,7 +2359,8 @@
                 "owner": "geek-repo",
                 "repo": "Whatsapp-shodanBot",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -2246,7 +2382,8 @@
                 "owner": "vortexau",
                 "repo": "ShodanSlackBot",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2261,7 +2398,8 @@
                 "owner": "jgamblin",
                 "repo": "censysip-for-slack",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -2283,7 +2421,8 @@
                 "owner": "laincode",
                 "repo": "shodan-seeker",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -2305,7 +2444,8 @@
                 "owner": "Xosrov",
                 "repo": "Shodan-Generator",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -2327,7 +2467,8 @@
                 "owner": "G3et",
                 "repo": "Search_Viewer",
                 "stars": 792
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2342,7 +2483,8 @@
                 "owner": "jporter-dev",
                 "repo": "shodan-viz",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -2370,7 +2512,8 @@
                 "owner": "achillean",
                 "repo": "shodan-python",
                 "stars": 2951
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2384,8 +2527,9 @@
                 "last_commit": "2026-08-02T08:38:33Z",
                 "owner": "BullsEye0",
                 "repo": "shodan-eye",
-                "stars": 1352
-              }
+                "stars": 1353
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2400,7 +2544,8 @@
                 "owner": "random-robbie",
                 "repo": "My-Shodan-Scripts",
                 "stars": 1147
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2415,7 +2560,8 @@
                 "owner": "Cl0udG0d",
                 "repo": "Fofa-hack",
                 "stars": 883
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2430,7 +2576,8 @@
                 "owner": "asaotomo",
                 "repo": "FofaMap",
                 "stars": 708
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2445,7 +2592,8 @@
                 "owner": "KTZgraph",
                 "repo": "sarenka",
                 "stars": 674
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2460,7 +2608,8 @@
                 "owner": "xzajyjs",
                 "repo": "ThunderSearch",
                 "stars": 670
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2475,7 +2624,8 @@
                 "owner": "RevoltSecurities",
                 "repo": "ShodanX",
                 "stars": 592
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2490,7 +2640,8 @@
                 "owner": "knownsec",
                 "repo": "ZoomEye-python",
                 "stars": 572
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2501,11 +2652,12 @@
                 "archived": false,
                 "id": 43082714,
                 "language": "Python",
-                "last_commit": "2026-08-21T15:42:04Z",
+                "last_commit": "2026-08-28T16:40:59Z",
                 "owner": "censys",
                 "repo": "censys-python",
                 "stars": 469
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2520,7 +2672,8 @@
                 "owner": "atdpa4sw0rd",
                 "repo": "Search-Tools",
                 "stars": 343
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2535,7 +2688,8 @@
                 "owner": "n0x08",
                 "repo": "ShodanTools",
                 "stars": 263
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2550,7 +2704,8 @@
                 "owner": "HatBashBR",
                 "repo": "ShodanHat",
                 "stars": 235
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2565,7 +2720,8 @@
                 "owner": "j3ers3",
                 "repo": "Searpy",
                 "stars": 214
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2579,8 +2735,9 @@
                 "last_commit": "2024-10-12T08:02:34Z",
                 "owner": "H-Limbus",
                 "repo": "NoMoney",
-                "stars": 202
-              }
+                "stars": 203
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2595,7 +2752,8 @@
                 "owner": "GreyNoise-Intelligence",
                 "repo": "pygreynoise",
                 "stars": 177
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2610,7 +2768,8 @@
                 "owner": "VonStruddle",
                 "repo": "PyHunter",
                 "stars": 136
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2625,7 +2784,8 @@
                 "owner": "Xc1Ym",
                 "repo": "cyberspace_map_API",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2640,7 +2800,8 @@
                 "owner": "zev3n",
                 "repo": "Shodan_So",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2655,7 +2816,8 @@
                 "owner": "laincode",
                 "repo": "shodan-seeker",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2670,7 +2832,8 @@
                 "owner": "NullArray",
                 "repo": "Shogun",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2685,7 +2848,8 @@
                 "owner": "sv3nbeast",
                 "repo": "X-Fofa",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2700,7 +2864,8 @@
                 "owner": "netlas-io",
                 "repo": "netlas-python",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2715,7 +2880,8 @@
                 "owner": "KyxRecon",
                 "repo": "ShodanAPI",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2730,7 +2896,8 @@
                 "owner": "soxoj",
                 "repo": "netlas-email-search",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2745,7 +2912,8 @@
                 "owner": "owlonex",
                 "repo": "Shodanfy.py",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2760,7 +2928,8 @@
                 "owner": "test502git",
                 "repo": "360Quake",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2775,7 +2944,8 @@
                 "owner": "wkend",
                 "repo": "0_zone_tool",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2790,7 +2960,8 @@
                 "owner": "ChoiSG",
                 "repo": "criminalip-python",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2805,7 +2976,8 @@
                 "owner": "humblelad",
                 "repo": "neuro",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2820,7 +2992,8 @@
                 "owner": "Aidennnn33",
                 "repo": "sherlocksight",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2835,7 +3008,8 @@
                 "owner": "n4xh4ck5",
                 "repo": "pyonyphe",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2850,7 +3024,8 @@
                 "owner": "haginara",
                 "repo": "PyCriminalIP",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2865,7 +3040,8 @@
                 "owner": "koromodako",
                 "repo": "aionyphe",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2880,7 +3056,8 @@
                 "owner": "niexiaoxiao11",
                 "repo": "360quake_view",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -2902,7 +3079,8 @@
                 "owner": "shubhamrooter",
                 "repo": "ShodanSpider",
                 "stars": 210
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2917,7 +3095,8 @@
                 "owner": "netlas-io",
                 "repo": "netlas-scripts",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2932,7 +3111,8 @@
                 "owner": "Mavrepis",
                 "repo": "ShodanVulncheck",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2947,7 +3127,8 @@
                 "owner": "0x4rk0",
                 "repo": "greynoise",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -2969,7 +3150,8 @@
                 "owner": "wgpsec",
                 "repo": "fofa_viewer",
                 "stars": 1800
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2984,7 +3166,8 @@
                 "owner": "10cks",
                 "repo": "fofaEX",
                 "stars": 240
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -2999,7 +3182,8 @@
                 "owner": "fooock",
                 "repo": "jshodan",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -3014,7 +3198,8 @@
                 "owner": "fofapro",
                 "repo": "fofa-java",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -3029,7 +3214,8 @@
                 "owner": "nikos-glikis",
                 "repo": "ShodanScanner",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -3044,7 +3230,8 @@
                 "owner": "Rubby2001",
                 "repo": "QuakeViewer",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -3059,7 +3246,8 @@
                 "owner": "daviddone",
                 "repo": "ZoomEye_APP",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -3074,7 +3262,8 @@
                 "owner": "bfu4",
                 "repo": "greynoise4j",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -3096,7 +3285,8 @@
                 "owner": "evilsocket",
                 "repo": "xray",
                 "stars": 2331
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -3110,8 +3300,9 @@
                 "last_commit": "2026-03-06T05:40:27Z",
                 "owner": "xiecat",
                 "repo": "fofax",
-                "stars": 837
-              }
+                "stars": 838
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -3126,7 +3317,8 @@
                 "owner": "ns3777k",
                 "repo": "go-shodan",
                 "stars": 219
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -3141,7 +3333,8 @@
                 "owner": "kaansk",
                 "repo": "shomon",
                 "stars": 130
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -3156,7 +3349,8 @@
                 "owner": "shadowscatcher",
                 "repo": "shodan",
                 "stars": 121
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -3171,7 +3365,8 @@
                 "owner": "s4hm4d",
                 "repo": "shodanidb",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -3186,7 +3381,8 @@
                 "owner": "gyyyy",
                 "repo": "ZoomEye-go",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -3201,7 +3397,8 @@
                 "owner": "fofapro",
                 "repo": "fofa-go",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -3216,7 +3413,8 @@
                 "owner": "turbot",
                 "repo": "steampipe-plugin-shodan",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -3231,7 +3429,8 @@
                 "owner": "YetClass",
                 "repo": "QuakeAPI",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -3246,7 +3445,8 @@
                 "owner": "abadojack",
                 "repo": "gocensys",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -3261,7 +3461,8 @@
                 "owner": "tardc",
                 "repo": "fofadump",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -3276,7 +3477,8 @@
                 "owner": "securityclippy",
                 "repo": "greynoise",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -3291,7 +3493,8 @@
                 "owner": "patrobinson",
                 "repo": "go-greynoise",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -3313,7 +3516,8 @@
                 "owner": "picatz",
                 "repo": "shodanz",
                 "stars": 135
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -3328,7 +3532,8 @@
                 "owner": "achillean",
                 "repo": "shodan-ruby",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -3343,7 +3548,8 @@
                 "owner": "trailofbits",
                 "repo": "censys-ruby",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -3358,7 +3564,8 @@
                 "owner": "ninoseki",
                 "repo": "greynoise",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -3373,7 +3580,8 @@
                 "owner": "ninoseki",
                 "repo": "onyphe-rb",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -3395,7 +3603,8 @@
                 "owner": "TerribleDev",
                 "repo": "Shodan.Net",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -3410,7 +3619,8 @@
                 "owner": "yvesago",
                 "repo": "shodan-cli",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -3425,7 +3635,8 @@
                 "owner": "achillean",
                 "repo": "Shodan.NET",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -3447,7 +3658,8 @@
                 "owner": "prophetl33t",
                 "repo": "ShodanCPP",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -3469,7 +3681,8 @@
                 "owner": "jesusprubio",
                 "repo": "shodan-client",
                 "stars": 218
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -3484,7 +3697,8 @@
                 "owner": "picatz",
                 "repo": "shodan.js",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -3499,7 +3713,8 @@
                 "owner": "I2rys",
                 "repo": "easy-netlas",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -3521,7 +3736,8 @@
                 "owner": "darkoperator",
                 "repo": "Posh-Shodan",
                 "stars": 147
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -3536,7 +3752,8 @@
                 "owner": "simeononsecurity",
                 "repo": "Shodan_PS",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -3551,7 +3768,8 @@
                 "owner": "AndrewPla",
                 "repo": "GreyNoisePS",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -3566,7 +3784,8 @@
                 "owner": "MS-LUF",
                 "repo": "Use-Onyphe",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -3588,7 +3807,8 @@
                 "owner": "ScadaExposure",
                 "repo": "Shodan-PHP-REST-API",
                 "stars": 111
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -3603,7 +3823,8 @@
                 "owner": "joesmithjaffa",
                 "repo": "jenkins-shell",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -3625,7 +3846,8 @@
                 "owner": "noprompt",
                 "repo": "shodan",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -3647,7 +3869,8 @@
                 "owner": "achillean",
                 "repo": "shodan-perl",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -3662,7 +3885,8 @@
                 "owner": "onyphe",
                 "repo": "cli",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -3684,7 +3908,8 @@
                 "owner": "PercussiveElbow",
                 "repo": "Shodan",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -3706,7 +3931,8 @@
                 "owner": "hrbrmstr",
                 "repo": "shodan",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -3721,7 +3947,8 @@
                 "owner": "hrbrmstr",
                 "repo": "censys",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             },
             {
               "node_type": "item",
@@ -3736,7 +3963,8 @@
                 "owner": "hrbrmstr",
                 "repo": "greynoise",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": null,
@@ -3758,7 +3986,8 @@
                 "owner": "femiagbabiaka",
                 "repo": "shodan-rust",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
             }
           ],
           "description": "Thank you for following me! https://cybdetective.com",
@@ -3770,7 +3999,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:52:25.017Z",
+    "last_updated": "2026-08-28T17:43:53.077Z",
     "original_repository_info": {
       "archived": false,
       "id": 742781775,
