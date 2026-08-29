@@ -12,12 +12,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The goal of this guide is very simple - to teach anyone interested in cyber security, regardless of their knowledge level, how to make the most of Netlas.io.",
+                "homepage": null,
                 "id": 703597759,
                 "language": "Python",
+                "license": "CC0-1.0",
                 "last_commit": "2025-06-27T07:54:56Z",
+                "open_issues": 0,
                 "owner": "netlas-io",
                 "repo": "netlas-cookbook",
-                "stars": 888
+                "stars": 888,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "bugbounty",
+                  "cybersecurity",
+                  "osint",
+                  "pentest"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -28,12 +40,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learning Shodan through katas",
+                "homepage": null,
                 "id": 268410451,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-08-07T00:53:34Z",
+                "open_issues": 0,
                 "owner": "ninoseki",
                 "repo": "shodan-dojo",
-                "stars": 472
+                "stars": 472,
+                "topics": [
+                  "dojo",
+                  "shodan"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -44,12 +64,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The FOFA Library collects usage tips, common scenarios, F&Q, and more for FOFA.",
+                "homepage": "https://fofa.info",
                 "id": 613252543,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-11T07:40:02Z",
+                "open_issues": 0,
                 "owner": "FofaInfo",
                 "repo": "Awesome-FOFA",
-                "stars": 350
+                "stars": 350,
+                "topics": [
+                  "cybersecurity",
+                  "fofa",
+                  "osint",
+                  "search-engine",
+                  "threat-intelligence"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -60,12 +91,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code + documentation for the public GreyNoise API",
+                "homepage": "https://greynoise.io",
                 "id": 110698922,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-04-02T18:40:54Z",
+                "open_issues": 1,
                 "owner": "GreyNoise-Intelligence",
                 "repo": "api.greynoise.io",
-                "stars": 320
+                "stars": 320,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -76,12 +112,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains a mindmap for different techniques for using Censys Search",
+                "homepage": null,
                 "id": 719275776,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-09-17T13:57:51Z",
+                "open_issues": 0,
                 "owner": "censys-workshop",
                 "repo": "censys-search-mindmap",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "censys",
+                  "censys-search",
+                  "mindmap",
+                  "mindnode"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -92,12 +138,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Material related to ONYPHE",
+                "homepage": null,
                 "id": 216176105,
                 "language": "Perl",
+                "license": null,
                 "last_commit": "2025-10-16T05:38:27Z",
+                "open_issues": 0,
                 "owner": "onyphe",
                 "repo": "material",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -115,12 +166,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻",
+                "homepage": "https://jarv.is/notes/shodan-search-queries/",
                 "id": 183485617,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2024-05-27T20:36:28Z",
+                "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7679
+                "stars": 7679,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "cloud",
+                  "dorks",
+                  "hacking",
+                  "infosec",
+                  "internet-of-things",
+                  "iot",
+                  "network-infrastructure",
+                  "penetration-testing",
+                  "pentesting",
+                  "security",
+                  "security-scanner",
+                  "security-tools",
+                  "shodan",
+                  "shodan-dorks"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -131,12 +204,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of fascinating and bizarre Censys Search Queries ",
+                "homepage": null,
                 "id": 525467576,
                 "language": "Python",
+                "license": "CC0-1.0",
                 "last_commit": "2026-07-20T18:26:47Z",
+                "open_issues": 2,
                 "owner": "thehappydinoa",
                 "repo": "awesome-censys-queries",
-                "stars": 1239
+                "stars": 1239,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "censys",
+                  "censys-dorks",
+                  "dorks",
+                  "hacktoberfest",
+                  "ics",
+                  "iot",
+                  "osint",
+                  "queries",
+                  "search",
+                  "security-tools"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -147,12 +238,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shodan Dorks",
+                "homepage": null,
                 "id": 295981411,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-03-31T11:18:21Z",
+                "open_issues": 0,
                 "owner": "lothos612",
                 "repo": "shodan",
-                "stars": 593
+                "stars": 593,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -163,12 +259,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of shodan filters",
+                "homepage": null,
                 "id": 123445658,
                 "language": null,
+                "license": null,
                 "last_commit": "2018-11-25T05:31:59Z",
+                "open_issues": 2,
                 "owner": "JavierOlmedo",
                 "repo": "shodan-filters",
-                "stars": 588
+                "stars": 588,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -179,12 +280,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shodan Dorks",
+                "homepage": "https://www.shodan.io/",
                 "id": 591852519,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2026-04-21T22:47:45Z",
+                "open_issues": 0,
                 "owner": "nullfuzz-pentest",
                 "repo": "shodan-dorks",
-                "stars": 544
+                "stars": 544,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "cloud",
+                  "dorks",
+                  "hacking",
+                  "iot",
+                  "list",
+                  "penetration-testing",
+                  "security",
+                  "shodan",
+                  "shodan-dorks"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -195,12 +313,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dorks for shodan.io. Some basic shodan dorks collected from publicly available data.",
+                "homepage": null,
                 "id": 143886976,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-05-26T13:00:37Z",
+                "open_issues": 0,
                 "owner": "humblelad",
                 "repo": "Shodan-Dorks",
-                "stars": 541
+                "stars": 541,
+                "topics": [
+                  "cybersecurity",
+                  "hacking",
+                  "pentest",
+                  "shodan",
+                  "shodan-dorks"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -211,12 +340,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shodan Dorks 2023",
+                "homepage": null,
                 "id": 685340096,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-01-13T20:23:51Z",
+                "open_issues": 0,
                 "owner": "HernanRodriguez1",
                 "repo": "Dorks-Shodan-2023",
-                "stars": 247
+                "stars": 247,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -227,12 +361,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of dorks for the Netlas.io search engine, with which you can find millions of objects in the boundless IoE. Contains queries to search for IoT elements, protocols, communication tools, remote access, and more. Over time, the list will grow.",
+                "homepage": "https://app.netlas.io",
                 "id": 628956752,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-04-24T09:32:52Z",
+                "open_issues": 0,
                 "owner": "netlas-io",
                 "repo": "netlas-dorks",
-                "stars": 208
+                "stars": 208,
+                "topics": [
+                  "osint",
+                  "penetration-testing",
+                  "security-tools"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -243,12 +386,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 178151245,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-03-02T09:47:54Z",
+                "open_issues": 1,
                 "owner": "AustrianEnergyCERT",
                 "repo": "ICS_IoT_Shodan_Dorks",
-                "stars": 111
+                "stars": 111,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -259,12 +407,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Here are the most interesting Shodan dorks (according to me)",
+                "homepage": null,
                 "id": 407226138,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-12-10T13:07:42Z",
+                "open_issues": 0,
                 "owner": "mr-exo",
                 "repo": "shodan-dorks",
-                "stars": 110
+                "stars": 110,
+                "topics": [
+                  "devices",
+                  "dorks",
+                  "iot",
+                  "shodan",
+                  "shodan-dorks",
+                  "shodandorks"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -275,12 +435,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 278917052,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-08-27T23:00:33Z",
+                "open_issues": 0,
                 "owner": "shifa123",
                 "repo": "shodandorks",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -291,12 +456,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "List of Shodan/Censys queries and DDNS services locating/hosting camera/IPcam/CCTV/DVR/NVR/VSS systems.",
+                "homepage": null,
                 "id": 69545002,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2016-09-29T08:25:42Z",
+                "open_issues": 0,
                 "owner": "zveriu",
                 "repo": "cctv-ddns-shodan-censys",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -307,12 +477,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "https://github.com/jakejarvis/awesome-shodan-queries",
+                "homepage": null,
                 "id": 331421051,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-01-20T20:32:18Z",
+                "open_issues": 0,
                 "owner": "SoumyaJas2324",
                 "repo": "-jakejarvis-awesome-shodan-queries-",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -323,12 +498,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Useful dorks from google,shodan,zoomeye,onphye",
+                "homepage": null,
                 "id": 257519525,
                 "language": null,
+                "license": "GPL-2.0",
                 "last_commit": "2020-10-11T04:11:15Z",
+                "open_issues": 0,
                 "owner": "IoT-PTv",
                 "repo": "IoT-Dorks",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -346,12 +526,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Write-ups // SHODAN CTF",
+                "homepage": null,
                 "id": 272535810,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2020-06-23T21:24:47Z",
+                "open_issues": 0,
                 "owner": "atz-spe",
                 "repo": "SHODAN-CTF",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -362,12 +547,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PCAPs and prompts from GreyNoise's 2023 CTF at NoiseFest",
+                "homepage": null,
                 "id": 681167922,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-08-21T12:44:18Z",
+                "open_issues": 0,
                 "owner": "GreyNoise-Intelligence",
                 "repo": "NoiseFest-CTF-2023",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -391,12 +581,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "一款将xray和fofa完美结合的自动化工具,调用fofaAPI进行查询扫描,新增爬虫爬取扫描(懒人必备)",
+                "homepage": null,
                 "id": 292150807,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-09-04T08:59:37Z",
+                "open_issues": 9,
                 "owner": "Miagz",
                 "repo": "XrayFofa",
-                "stars": 247
+                "stars": 247,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -407,12 +602,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Visualize networks of phishing by querying the phishstats.info API",
+                "homepage": "https://phishstats.info/",
                 "id": 222598934,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-08-12T18:20:03Z",
+                "open_issues": 1,
                 "owner": "eschultze",
                 "repo": "phishstats-api-network",
-                "stars": 78
+                "stars": 78,
+                "topics": [
+                  "api",
+                  "graph",
+                  "incident-response",
+                  "osint",
+                  "phishing",
+                  "pyvis",
+                  "shodan",
+                  "threat-intelligence",
+                  "virustotal"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -423,12 +633,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Actively hunt for attacker infrastructure by filtering Shodan results with URLScan data.",
+                "homepage": null,
                 "id": 584551768,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-07-18T15:24:38Z",
+                "open_issues": 0,
                 "owner": "montysecurity",
                 "repo": "InfraHunter",
-                "stars": 64
+                "stars": 64,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -439,12 +654,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Threatfox Censys is a tool to query Censys Search for IP addresses and domains and then parses the JSON and submits the results to Threatfox.",
+                "homepage": "http://workshop.censys.io/threatfox-censys/",
                 "id": 703776515,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-30T16:31:09Z",
+                "open_issues": 8,
                 "owner": "censys-workshop",
                 "repo": "threatfox-censys",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "c2",
+                  "censys",
+                  "censys-search",
+                  "iocs",
+                  "threatfox"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -455,12 +681,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Censys Maltego transforms! Take advantage of Censys transforms for Maltego to back your investigations with the most trusted Internet data available.",
+                "homepage": null,
                 "id": 44463521,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-07-11T12:06:18Z",
+                "open_issues": 5,
                 "owner": "censys",
                 "repo": "censys-maltego",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "censys",
+                  "maltego",
+                  "osint",
+                  "python3"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -471,12 +707,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Basic Maltego Transforms for looking up SSL certs and IP info from censys.io",
+                "homepage": null,
                 "id": 48459680,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-03-14T22:34:00Z",
+                "open_issues": 1,
                 "owner": "mpars0ns",
                 "repo": "maltego_censys",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -487,12 +728,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "recon-ng modules for Censys",
+                "homepage": null,
                 "id": 182835857,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-10-23T19:07:16Z",
+                "open_issues": 2,
                 "owner": "censys",
                 "repo": "censys-recon-ng",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "censys-api",
+                  "cybersecurity",
+                  "osint",
+                  "osint-reconnaissance",
+                  "osinttool",
+                  "penetration-testing",
+                  "pentesting",
+                  "python",
+                  "recon-ng",
+                  "recon-ng-modules",
+                  "threat-hunting",
+                  "threat-intelligence",
+                  "threatintel"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -503,12 +763,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Postman collection for the Censys Search APIs.",
+                "homepage": null,
                 "id": 178752755,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2023-03-09T16:06:31Z",
+                "open_issues": 0,
                 "owner": "censys",
                 "repo": "censys-postman",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "censys",
+                  "postman-collection",
+                  "search"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -519,12 +788,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Postman collection to interact with the Shodan API",
+                "homepage": null,
                 "id": 222574449,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2023-11-08T21:03:39Z",
+                "open_issues": 0,
                 "owner": "bitnesswise",
                 "repo": "shodan-postman-collection",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -535,12 +809,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GreyNoise Maltego integration and transforms",
+                "homepage": null,
                 "id": 246718045,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-12T14:46:12Z",
+                "open_issues": 0,
                 "owner": "GreyNoise-Intelligence",
                 "repo": "greynoise-maltego",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -551,12 +830,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The NSE Script plugin integrates with Criminal IP CTI search engine for network scanning, showing IP details like WHOIS, running products, versions, CVEs, etc.",
+                "homepage": "https://www.criminalip.io",
                 "id": 578193216,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2023-11-29T03:58:34Z",
+                "open_issues": 3,
                 "owner": "criminalip",
                 "repo": "CIP-NSE-Script",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "criminalip-api",
+                  "cve",
+                  "cyberthreatintelligence",
+                  "ip",
+                  "portscan"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -567,12 +857,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The repository contains Criminal IP Asset Search data in STIX 2.1 JSON format, enabling a quick understanding of threat information for specific IPs.",
+                "homepage": null,
                 "id": 672796890,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-01-29T08:07:14Z",
+                "open_issues": 0,
                 "owner": "criminalip",
                 "repo": "CriminalIP-data-STIX",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -583,12 +878,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ansible modules for the GreyNoise API",
+                "homepage": null,
                 "id": 181800476,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2020-02-24T16:47:56Z",
+                "open_issues": 0,
                 "owner": "ReconInfoSec",
                 "repo": "ansible-greynoise",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -599,12 +899,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 321753669,
                 "language": "Ruby",
+                "license": "NOASSERTION",
                 "last_commit": "2023-02-23T22:21:24Z",
+                "open_issues": 4,
                 "owner": "GreyNoise-Intelligence",
                 "repo": "logstash-filter-greynoise",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -615,12 +920,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 272122650,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-06-14T06:38:49Z",
+                "open_issues": 0,
                 "owner": "mark0smith",
                 "repo": "Maltego_with_Fofa",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -631,12 +941,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "These plugins integrate Volatility with the Criminal IP CTI search engine, enabling users to execute Asset Search and Domain Search queries to identify potentially malicious IPs and domains. ",
+                "homepage": null,
                 "id": 657076697,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-01-26T06:12:59Z",
+                "open_issues": 1,
                 "owner": "criminalip",
                 "repo": "Criminalip-Volatility3-Plugins",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -647,12 +962,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Integration code for Siemplify Integration",
+                "homepage": null,
                 "id": 333822982,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-08-30T18:17:25Z",
+                "open_issues": 0,
                 "owner": "GreyNoise-Intelligence",
                 "repo": "greynoise-siemplify",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -663,12 +983,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Criminal IP is a comprehensive OSINT-based Cyber Threat Intelligence (CTI) search engine that can be used as an automated Attack Surface Management solution.",
+                "homepage": "https://www.criminalip.io",
                 "id": 626710834,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-04-12T06:32:33Z",
+                "open_issues": 0,
                 "owner": "criminalip",
                 "repo": "zabbix",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "criminalip",
+                  "cyberthreatintelligence",
+                  "malicious-ips",
+                  "search-engine",
+                  "zabbix"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -679,12 +1010,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "nInfo plugin for shodan",
+                "homepage": null,
                 "id": 9961434,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2013-12-23T15:48:34Z",
+                "open_issues": 0,
                 "owner": "JustinAzoff",
                 "repo": "ninfo-plugin-shodan",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -695,12 +1031,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of shodan modules for ansible",
+                "homepage": "https://simeononsecurity.com",
                 "id": 679500076,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-26T23:02:23Z",
+                "open_issues": 0,
                 "owner": "simeononsecurity",
                 "repo": "ansible_shodan",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "ansible",
+                  "ansible-collection",
+                  "ansible-galaxy",
+                  "ansible-modules",
+                  "ansible-playbook",
+                  "ansible-role",
+                  "ansible-roles",
+                  "shodan",
+                  "shodan-api",
+                  "shodan-cli",
+                  "shodan-python"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -711,12 +1064,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Synapse-Onyphe is a Rapid Power-Up for the Onyphe platform",
+                "homepage": null,
                 "id": 688983931,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-09-12T10:47:26Z",
+                "open_issues": 0,
                 "owner": "ancailliau",
                 "repo": "synapse-onyphe",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "cti",
+                  "cybersecurity",
+                  "onyphe",
+                  "threatintelligence",
+                  "vertex-synapse"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -727,12 +1091,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GreyNoise Demisto integration",
+                "homepage": null,
                 "id": 223991008,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-11-25T16:29:06Z",
+                "open_issues": 0,
                 "owner": "GreyNoise-Intelligence",
                 "repo": "greynoise-demisto",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -743,12 +1112,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 728120979,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-01-29T08:11:14Z",
+                "open_issues": 0,
                 "owner": "criminalip",
                 "repo": "CriminalIP-Tenable-Import-Asset",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -759,12 +1133,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 291843829,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-08-31T23:14:33Z",
+                "open_issues": 0,
                 "owner": "prookl",
                 "repo": "Burp-Suite-Shodan-Scanner",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -775,12 +1154,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GreyNoise Integration code for Swimlane SOAR Platform",
+                "homepage": null,
                 "id": 338132148,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-11T14:13:29Z",
+                "open_issues": 0,
                 "owner": "GreyNoise-Intelligence",
                 "repo": "greynoise-swimlane",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -798,12 +1182,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "IP lookup by favicon using Shodan",
+                "homepage": null,
                 "id": 211358307,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-02-05T05:20:00Z",
+                "open_issues": 3,
                 "owner": "pielco11",
                 "repo": "fav-up",
-                "stars": 1199
+                "stars": 1199,
+                "topics": [
+                  "cloudflare",
+                  "cloudflare-bypass",
+                  "favicon-icon",
+                  "lookup",
+                  "lookup-ip",
+                  "murmur3",
+                  "osint",
+                  "phising",
+                  "shodan",
+                  "shodan-api"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -814,12 +1214,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Discover and monitor internet assets using favicon hashes across search engines.",
+                "homepage": "https://pypi.org/project/favihunter/",
                 "id": 737028347,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-14T11:58:21Z",
+                "open_issues": 1,
                 "owner": "eremit4",
                 "repo": "favihunter",
-                "stars": 255
+                "stars": 255,
+                "topics": [
+                  "censys",
+                  "criminalip",
+                  "favicon",
+                  "favicon-hash",
+                  "fofa",
+                  "fofa-search",
+                  "getodin",
+                  "odin",
+                  "osint",
+                  "osint-python",
+                  "osint-tool",
+                  "python3",
+                  "shodan",
+                  "silentpush",
+                  "theat-intel",
+                  "threat-hunting",
+                  "threat-intelligence",
+                  "validin",
+                  "zoomeye"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -830,12 +1255,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " 从shodan获取使用了相同favicon.ico的网站",
+                "homepage": null,
                 "id": 170898157,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-02-16T03:42:23Z",
+                "open_issues": 1,
                 "owner": "Ridter",
                 "repo": "get_ip_by_ico",
-                "stars": 186
+                "stars": 186,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -846,12 +1276,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "fofa shodan favicon.ico hash icon ico 计算器",
+                "homepage": null,
                 "id": 266522915,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2021-05-13T06:57:42Z",
+                "open_issues": 0,
                 "owner": "Becivells",
                 "repo": "iconhash",
-                "stars": 180
+                "stars": 180,
+                "topics": [
+                  "fofa",
+                  "hash",
+                  "ico",
+                  "icon",
+                  "iconhash",
+                  "mmh3",
+                  "shodan"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -862,12 +1305,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Calculate a site's favicon hash (MMH3) and pivot to every host sharing it on Shodan/Uncover",
+                "homepage": null,
                 "id": 261880170,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-24T16:32:04Z",
+                "open_issues": 1,
                 "owner": "phor3nsic",
                 "repo": "favicon_hash_shodan",
-                "stars": 100
+                "stars": 100,
+                "topics": [
+                  "bug-bounty",
+                  "favicon",
+                  "favicon-hash",
+                  "mmh3",
+                  "osint",
+                  "pentesting",
+                  "python",
+                  "reconnaissance",
+                  "shodan",
+                  "uncover"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -878,12 +1337,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shodan Favicon Hash Generator By Aziz Hakim @eternyle",
+                "homepage": "https://www.azizhakim.com/2020/05/shodan-favicon-hash-filter-to-get-juicy.html",
                 "id": 261506160,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-05-25T02:53:59Z",
+                "open_issues": 0,
                 "owner": "eternyle",
                 "repo": "ShodanIsh",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -901,12 +1365,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, build your taylor-made EASM tool, collect and analyse network intelligence from your sensors, and much more! Uses Nmap, Masscan, Zeek, p0f, ProjectDiscovery tools, etc.",
+                "homepage": "https://ivre.rocks/",
                 "id": 23961941,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-05T03:17:41Z",
+                "open_issues": 55,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4120
+                "stars": 4120,
+                "topics": [
+                  "bro",
+                  "easm",
+                  "external-attack-surface-management",
+                  "hacktoberfest",
+                  "masscan",
+                  "network",
+                  "network-discovery",
+                  "network-recon",
+                  "network-reconnaissance",
+                  "network-security",
+                  "nmap",
+                  "nmap-parser",
+                  "nmap-results-analyse",
+                  "nmap-scripts",
+                  "osint",
+                  "projectdiscovery",
+                  "scan-ports",
+                  "scans",
+                  "security",
+                  "zeek"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -917,12 +1407,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a drop-in replacement for Nmap powered by shodan.io",
+                "homepage": null,
                 "id": 471627548,
                 "language": "Go",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-15T20:03:02Z",
+                "open_issues": 1,
                 "owner": "s0md3v",
                 "repo": "Smap",
-                "stars": 3287
+                "stars": 3287,
+                "topics": [
+                  "network-scanner",
+                  "network-security",
+                  "nmap",
+                  "nmap-alternative",
+                  "port-scanner",
+                  "port-scanning",
+                  "scanner",
+                  "scanning"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -933,12 +1437,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mass scan IPs for vulnerable services",
+                "homepage": null,
                 "id": 228459092,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-04-26T22:10:56Z",
+                "open_issues": 0,
                 "owner": "s0md3v",
                 "repo": "Silver",
-                "stars": 1054
+                "stars": 1054,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -949,12 +1458,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "for mass exploiting",
+                "homepage": "https://jm33.me",
                 "id": 84415115,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-07-14T14:35:25Z",
+                "open_issues": 0,
                 "owner": "jm33-m0",
                 "repo": "mec",
-                "stars": 615
+                "stars": 615,
+                "topics": [
+                  "adapted-exploits",
+                  "baidu-search",
+                  "censys",
+                  "exploits",
+                  "google-search",
+                  "hacking-tool",
+                  "linux",
+                  "masscan",
+                  "mec",
+                  "parallelization",
+                  "prompt-toolkit",
+                  "python",
+                  "rce",
+                  "ssh-bruteforce",
+                  "weblogic",
+                  "zoomeye"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -965,12 +1496,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Attack Surface Discovery tool built on a microservice approach, utilizing multi-threading for fast, internet-scale asset indexing",
+                "homepage": null,
                 "id": 411881083,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-12T18:40:32Z",
+                "open_issues": 0,
                 "owner": "alechilczenko",
                 "repo": "kimi",
-                "stars": 262
+                "stars": 262,
+                "topics": [
+                  "banner-grabbing",
+                  "censys",
+                  "command-line-tool",
+                  "internet-of-things",
+                  "iot",
+                  "pentesting",
+                  "port-scanner",
+                  "port-scanning",
+                  "python3",
+                  "scraping",
+                  "search-engine",
+                  "security",
+                  "security-tools",
+                  "shodan",
+                  "zoomeye"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -981,12 +1533,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shodan HQ nmap plugin - passively scan targets",
+                "homepage": null,
                 "id": 53062075,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2016-03-14T14:20:07Z",
+                "open_issues": 0,
                 "owner": "glennzw",
                 "repo": "shodan-hq-nse",
-                "stars": 158
+                "stars": 158,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -997,12 +1554,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ssh public host key scanner using shodan",
+                "homepage": "http://0x27.me",
                 "id": 49842746,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-03-11T05:34:58Z",
+                "open_issues": 1,
                 "owner": "0x27",
                 "repo": "ssh_keyscanner",
-                "stars": 117
+                "stars": 117,
+                "topics": [
+                  "fingerprint",
+                  "hidden-services",
+                  "scanner",
+                  "shodan",
+                  "ssh",
+                  "tor"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1013,12 +1582,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":key: Scan the entire internet for SSH and Telnet services. Then hack them.",
+                "homepage": null,
                 "id": 176432772,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-08-30T22:34:28Z",
+                "open_issues": 5,
                 "owner": "petercunha",
                 "repo": "Knock",
-                "stars": 79
+                "stars": 79,
+                "topics": [
+                  "automatic",
+                  "brute-force",
+                  "hacking",
+                  "internet",
+                  "password-cracker",
+                  "shodan",
+                  "ssh",
+                  "telnet",
+                  "worm"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1029,12 +1613,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Use Censys.io Scan Http Proxy",
+                "homepage": null,
                 "id": 56206883,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-06-17T09:01:06Z",
+                "open_issues": 0,
                 "owner": "LoveCppp",
                 "repo": "Http-Proxy-Scan",
-                "stars": 72
+                "stars": 72,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1045,12 +1634,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A SHODAN/Censys + Paramiko scanner to check for backdoored Internet-facing Juniper ScreenOS devices",
+                "homepage": null,
                 "id": 48379076,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2015-12-21T15:34:01Z",
+                "open_issues": 1,
                 "owner": "juliocesarfort",
                 "repo": "netscreen-shodan-scanner",
-                "stars": 69
+                "stars": 69,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1061,12 +1655,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NSE script which leverages the Censys Search API for passive data collection",
+                "homepage": null,
                 "id": 165397760,
                 "language": "Lua",
+                "license": "GPL-3.0",
                 "last_commit": "2021-12-03T17:14:45Z",
+                "open_issues": 0,
                 "owner": "censys",
                 "repo": "nmap-censys",
-                "stars": 60
+                "stars": 60,
+                "topics": [
+                  "censys",
+                  "nmap"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1077,12 +1679,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Masscan integrated with Shodan API",
+                "homepage": null,
                 "id": 41187676,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-07-12T20:04:32Z",
+                "open_issues": 2,
                 "owner": "trevordavenport",
                 "repo": "MasscanAutomation",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1093,12 +1700,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shodan Port Scanner",
+                "homepage": null,
                 "id": 177696348,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2020-09-30T21:10:52Z",
+                "open_issues": 0,
                 "owner": "pathetiq",
                 "repo": "ShoScan",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "hacking",
+                  "portscanner",
+                  "portscanning",
+                  "shodan",
+                  "shodan-api"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1109,12 +1727,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Eternal Blue Scan using Masscan, Netcat or Shodan",
+                "homepage": null,
                 "id": 154239282,
                 "language": "Shell",
+                "license": "NOASSERTION",
                 "last_commit": "2018-08-08T23:20:59Z",
+                "open_issues": 0,
                 "owner": "alexsilva1983",
                 "repo": "eternalseek",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -1132,12 +1755,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚡ Perform subdomain enumeration using the certificate transparency logs from Censys.",
+                "homepage": null,
                 "id": 117537050,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-05-01T09:19:31Z",
+                "open_issues": 4,
                 "owner": "christophetd",
                 "repo": "censys-subdomain-finder",
-                "stars": 845
+                "stars": 845,
+                "topics": [
+                  "bugbounty",
+                  "certificate-transparency-logs",
+                  "enumerate-subdomains",
+                  "osint",
+                  "pentest-tool",
+                  "pentesting",
+                  "recon",
+                  "subdomain-enumeration",
+                  "subdomain-scanner",
+                  "subdomains"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1148,12 +1787,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Small tool to Grab subdomains using Shodan api.",
+                "homepage": null,
                 "id": 238991093,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2025-09-01T21:13:46Z",
+                "open_issues": 1,
                 "owner": "incogbyte",
                 "repo": "shosubgo",
-                "stars": 577
+                "stars": 577,
+                "topics": [
+                  "golang",
+                  "grab-subdomains",
+                  "shodan",
+                  "shodan-api"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1164,12 +1813,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hunt domain names using DNSDumpster, WHOIS, Reverse WHOIS, Shodan, Crimeflare",
+                "homepage": null,
                 "id": 87359604,
                 "language": "Python",
+                "license": "Unlicense",
                 "last_commit": "2019-02-07T03:11:18Z",
+                "open_issues": 6,
                 "owner": "nethunteros",
                 "repo": "punter",
-                "stars": 294
+                "stars": 294,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1180,12 +1834,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A script to extract subdomains/emails for a given domain using SSL/TLS certificate dataset on Censys",
+                "homepage": null,
                 "id": 120485364,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-12-07T23:44:52Z",
+                "open_issues": 5,
                 "owner": "0xbharath",
                 "repo": "censys-enumeration",
-                "stars": 156
+                "stars": 156,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1196,12 +1855,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shodan subdomain finder",
+                "homepage": null,
                 "id": 236862489,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-03-07T13:22:36Z",
+                "open_issues": 3,
                 "owner": "SmoZy92",
                 "repo": "Shodomain",
-                "stars": 66
+                "stars": 66,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1212,12 +1876,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Using censys to find subdomains but without the APIs just scrapping",
+                "homepage": "https://www.nmmapper.com",
                 "id": 221700185,
                 "language": "Python",
+                "license": "MPL-2.0",
                 "last_commit": "2020-05-13T20:08:17Z",
+                "open_issues": 1,
                 "owner": "nmmapper",
                 "repo": "censys-subdomain-finder-non-api",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "censys",
+                  "censys-subdomain-finder",
+                  "find-subdomains",
+                  "theharvester"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -1235,12 +1909,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tentacle is a POC vulnerability verification and exploit framework. It supports free extension of exploits and uses POC scripts. It supports calls to zoomeye, fofa, shodan and other APIs to perform bulk vulnerability verification for multiple targets.",
+                "homepage": null,
                 "id": 85373049,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-03-06T06:57:37Z",
+                "open_issues": 4,
                 "owner": "orleven",
                 "repo": "Tentacle",
-                "stars": 374
+                "stars": 374,
+                "topics": [
+                  "exploit-framework",
+                  "fofa",
+                  "poc",
+                  "poc-script",
+                  "poc-vulnerability-verification",
+                  "shodan",
+                  "tentacle"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1251,12 +1938,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shodanwave is a tool for exploring and obtaining information from Netwave IP Camera. ",
+                "homepage": "https://twitter.com/6IX7ine",
                 "id": 95827748,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-11-15T09:47:59Z",
+                "open_issues": 3,
                 "owner": "jimywork",
                 "repo": "shodanwave",
-                "stars": 267
+                "stars": 267,
+                "topics": [
+                  "camera",
+                  "exploit",
+                  "ipcamera",
+                  "netwave-ip-cameras",
+                  "python",
+                  "shodan",
+                  "shodan-api",
+                  "vulnerability-scanners"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1267,12 +1968,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automated exploit scanner for cameras on the internet",
+                "homepage": "https://blog.tmeletlidis.tech/ilovecameras/",
                 "id": 578802860,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-03-19T18:47:57Z",
+                "open_issues": 3,
                 "owner": "TasosY2K",
                 "repo": "camera-exploit-tool",
-                "stars": 226
+                "stars": 226,
+                "topics": [
+                  "camera",
+                  "camera-exploitation",
+                  "camera-hacking",
+                  "exploit",
+                  "iot",
+                  "scanner",
+                  "shodan",
+                  "vulnerability"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1283,12 +1998,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This tool allows you mass play any YouTube video, terminate apps and rename Chromecast device(s) obtained from Shodan.io",
+                "homepage": null,
                 "id": 164022706,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-08-28T07:08:56Z",
+                "open_issues": 2,
                 "owner": "649",
                 "repo": "Crashcast-Exploit",
-                "stars": 164
+                "stars": 164,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1299,12 +2019,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python/Shodan tool for dumping exposed memcached server contents into local text files.",
+                "homepage": null,
                 "id": 124427138,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2018-03-12T17:10:36Z",
+                "open_issues": 0,
                 "owner": "JLospinoso",
                 "repo": "memcachedump",
-                "stars": 141
+                "stars": 141,
+                "topics": [
+                  "cache-dump",
+                  "cli",
+                  "educational",
+                  "exposed-services",
+                  "infosec",
+                  "jlospinoso",
+                  "memcached",
+                  "network-security",
+                  "python",
+                  "reconnaissance",
+                  "security-research",
+                  "shodan"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1315,12 +2053,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This tool takes advantage of CVE-2018-11776 and Shodan to perform mass exploitation of verified and vulnerable Apache Struts servers.",
+                "homepage": null,
                 "id": 146650579,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-08-30T00:16:01Z",
+                "open_issues": 1,
                 "owner": "649",
                 "repo": "Apache-Struts-Shodan-Exploit",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1331,12 +2074,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DDoS mitigation tool for sending flush or shutdown commands to vulnerable Memcached servers obtained using Shodan API",
+                "homepage": null,
                 "id": 124335822,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-03-21T23:09:26Z",
+                "open_issues": 0,
                 "owner": "649",
                 "repo": "Memfixed-Mitigation-Tool",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1347,12 +2095,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Some handy scripts to collect hosts installed redis (using Shodan search engine) and exploit them",
+                "homepage": null,
                 "id": 66393263,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2016-09-04T10:46:29Z",
+                "open_issues": 0,
                 "owner": "giaplv57",
                 "repo": "redisMassExploit",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1363,12 +2116,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Exploit for Mass Remote Code Execution on GPON home routers (CVE-2018-10562) obtained from Shodan.",
+                "homepage": null,
                 "id": 133550928,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-05-26T06:44:44Z",
+                "open_issues": 0,
                 "owner": "649",
                 "repo": "Pingpon-Exploit",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1379,12 +2137,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DDoS attack tool for sending forged UDP packets to vulnerable Memcached servers obtained without Shodan API",
+                "homepage": "https://r00ts3c.github.io/",
                 "id": 175116383,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2019-03-11T22:53:10Z",
+                "open_issues": 0,
                 "owner": "add1ct3d",
                 "repo": "Memcrashed-DDoS-Exploit-Free",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1395,12 +2158,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An tool for search IOT MQTT vulnerable with shodan",
+                "homepage": null,
                 "id": 103689431,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-09-15T18:39:10Z",
+                "open_issues": 0,
                 "owner": "Warflop",
                 "repo": "IOT-MQTT-Exploit",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "exploit",
+                  "iot",
+                  "mqtt",
+                  "shodan"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1411,12 +2184,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Some handy script to collect hosts installed redis (using Shodan search engine) and exploit them",
+                "homepage": null,
                 "id": 66128361,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2016-08-20T03:19:08Z",
+                "open_issues": 0,
                 "owner": "cys3c",
                 "repo": "redisMassExploit",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1427,12 +2205,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DDoS attack tool for sending forged UDP packets to vulnerable Memcached servers without Shodan Api",
+                "homepage": null,
                 "id": 124791693,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-05-05T14:41:36Z",
+                "open_issues": 0,
                 "owner": "tai-euler",
                 "repo": "Memcrashed-DDoS-Exploit_withoutShodan",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1443,12 +2226,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automated script for Citrix ADC scanner (CVE-2019-19781) using hosts retrieved from Shodan API. You must have a Shodan account to use this script.",
+                "homepage": null,
                 "id": 233538988,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-01-14T15:53:14Z",
+                "open_issues": 0,
                 "owner": "aqhmal",
                 "repo": "CVE-2019-19781",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "automated-testing",
+                  "citrix-netscaler",
+                  "information-extraction",
+                  "pentest-script",
+                  "python3",
+                  "shodan"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1459,12 +2254,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Exploit with  integrated shodan search",
+                "homepage": null,
                 "id": 414715774,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-10-08T13:18:55Z",
+                "open_issues": 0,
                 "owner": "andrea-mattioli",
                 "repo": "apache-exploit-CVE-2021-42013",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1475,12 +2275,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automated script for Pulse Secure SSL VPN exploit (CVE-2019-11510) using hosts retrieved from Shodan API. You must have a Shodan account to use this script.",
+                "homepage": null,
                 "id": 226548291,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-04-25T05:06:45Z",
+                "open_issues": 0,
                 "owner": "aqhmal",
                 "repo": "pulsexploit",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "exploit",
+                  "information-extraction",
+                  "infosec",
+                  "offset",
+                  "pentest-script",
+                  "python3"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1491,12 +2303,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Migrated and renamed to TouDoum-Framework on the Netbytes organization",
+                "homepage": "https://github.com/NetBytes-space/TouDoum-Framework",
                 "id": 237633113,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-02-25T12:02:46Z",
+                "open_issues": 0,
                 "owner": "msterhuj",
                 "repo": "TouDoum-DDoS-Exploit",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "ddos",
+                  "ddos-attacks",
+                  "dns",
+                  "memcached",
+                  "ntp",
+                  "scanner",
+                  "shodan",
+                  "udp"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1507,12 +2333,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Memcrashed ddos exploit - auto install with api shodan  :  PSKINdQe1GyxGgecYz2191H2JoS9qvgD",
+                "homepage": null,
                 "id": 203035820,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-08-17T12:57:06Z",
+                "open_issues": 0,
                 "owner": "BlackHoleSun78",
                 "repo": "memcrashed-ddos",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1523,12 +2354,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Search vulnerable FortiOS devices via Shodan (CVE-2023-27997)",
+                "homepage": null,
                 "id": 665271629,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-07-11T20:41:54Z",
+                "open_issues": 0,
                 "owner": "TechinsightsPro",
                 "repo": "ShodanFortiOS",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1539,12 +2375,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Shodan hunter for CVE-2022-40140 ",
+                "homepage": null,
                 "id": 564844236,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-11-13T23:27:02Z",
+                "open_issues": 0,
                 "owner": "ipsBruno",
                 "repo": "CVE-2022-40140-SCANNER",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1555,12 +2396,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "simple bash script of F5 BIG-IP TMUI Vulnerability CVE-2020-5902 checker",
+                "homepage": null,
                 "id": 336016319,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2021-02-04T17:38:40Z",
+                "open_issues": 0,
                 "owner": "faisalfs10x",
                 "repo": "F5-BIG-IP-CVE-2020-5902-shodan-scanner",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "bigip",
+                  "cve-2020-5902",
+                  "exploit",
+                  "poc"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1571,12 +2422,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "simple bash script of CVE-2020-3452 Cisco ASA / Firepower Read-Only Path Traversal Vulnerability checker ",
+                "homepage": null,
                 "id": 336020236,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2021-02-04T17:38:25Z",
+                "open_issues": 0,
                 "owner": "faisalfs10x",
                 "repo": "Cisco-CVE-2020-3452-shodan-scanner",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "cve-2020-3452",
+                  "exploit",
+                  "poc",
+                  "shodan-dorks"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -1594,12 +2455,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Build interactive map of cameras from Shodan",
+                "homepage": null,
                 "id": 156099083,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-06-28T08:42:06Z",
+                "open_issues": 14,
                 "owner": "woj-ciech",
                 "repo": "kamerka",
-                "stars": 1269
+                "stars": 1269,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1610,12 +2476,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FireShodanMap is a Realtime map that integrates Firebase, Google Maps and Shodan. A search is carried out using Shodan searching vulnerable devices and they are showed on the map for analysis. All data updated in Firebase are Realtime.",
+                "homepage": null,
                 "id": 114155074,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-05-25T00:20:15Z",
+                "open_issues": 0,
                 "owner": "Warflop",
                 "repo": "FireShodanMap",
-                "stars": 125
+                "stars": 125,
+                "topics": [
+                  "firebase",
+                  "javascript",
+                  "maps",
+                  "python",
+                  "shodan"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1626,12 +2503,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create visualization from Shodan query",
+                "homepage": null,
                 "id": 370743862,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2021-05-25T16:26:24Z",
+                "open_issues": 0,
                 "owner": "woj-ciech",
                 "repo": "Shomap",
-                "stars": 75
+                "stars": 75,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1642,12 +2524,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Web application to visualize GreyNoise API data",
+                "homepage": null,
                 "id": 116453399,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2018-12-04T19:11:14Z",
+                "open_issues": 0,
                 "owner": "cbuto",
                 "repo": "greynoise-visualizer",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "angular",
+                  "docker",
+                  "greynoise"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -1665,12 +2556,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Converting data from services like Censys and Shodan to a common data model",
+                "homepage": null,
                 "id": 269781974,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-04T18:41:32Z",
+                "open_issues": 8,
                 "owner": "3c7",
                 "repo": "common-osint-model",
-                "stars": 53
+                "stars": 53,
+                "topics": [
+                  "analysis",
+                  "censys",
+                  "data",
+                  "infrastructure",
+                  "model",
+                  "osint",
+                  "shodan"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1681,12 +2585,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert Your Shodan Query result to html tables",
+                "homepage": null,
                 "id": 356159176,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-04-09T06:27:52Z",
+                "open_issues": 0,
                 "owner": "System00-Security",
                 "repo": "GShodan",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1697,12 +2606,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OSINT tool to collect info about organisation's networks and present it in .xlsx format",
+                "homepage": null,
                 "id": 251655437,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-07-07T10:33:53Z",
+                "open_issues": 0,
                 "owner": "KrakenMSK",
                 "repo": "OSINT_Shodan_to_excel",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -1720,12 +2634,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Search Shodan for Minecraft server IPs to grief",
+                "homepage": null,
                 "id": 423002268,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-07-07T08:42:59Z",
+                "open_issues": 1,
                 "owner": "k0rnh0li0",
                 "repo": "GriefBuddy",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "minecraft",
+                  "python",
+                  "python-requests",
+                  "shodan",
+                  "shodan-api"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1736,12 +2661,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Winforms application for easily finding and importing minecraft servers from shodan.io",
+                "homepage": null,
                 "id": 510525879,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2023-01-29T21:51:21Z",
+                "open_issues": 0,
                 "owner": "KarpF1sh",
                 "repo": "shodan-minecraft-server-finder",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -1759,12 +2689,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FTP server crawler for anonymous login based on shodan",
+                "homepage": null,
                 "id": 159515016,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-08-07T19:38:43Z",
+                "open_issues": 0,
                 "owner": "imnikola",
                 "repo": "ShodanAnomymousDirs",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1775,12 +2710,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Search for read/writeable FTP-Servers on shodan",
+                "homepage": null,
                 "id": 303794156,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-02-15T18:26:15Z",
+                "open_issues": 0,
                 "owner": "b3n4kh",
                 "repo": "shodan-ftpsearch",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "ftp",
+                  "security-tools",
+                  "shodan",
+                  "shodan-api",
+                  "shodan-python"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -1798,12 +2744,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Uses Shodan and AbuseIPDB to find vulnerable IPs in a given geographic area.",
+                "homepage": null,
                 "id": 306611782,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-10-23T11:50:27Z",
+                "open_issues": 0,
                 "owner": "nixintel",
                 "repo": "ShodanGeoScan",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -1821,12 +2772,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔎 Find origin servers of websites behind CloudFlare by using Internet-wide scan data from Censys.",
+                "homepage": "https://blog.christophetd.fr/bypassing-cloudflare-using-internet-wide-scan-data/",
                 "id": 117250625,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-05-01T10:06:43Z",
+                "open_issues": 11,
                 "owner": "christophetd",
                 "repo": "CloudFlair",
-                "stars": 2974
+                "stars": 2974,
+                "topics": [
+                  "censys",
+                  "cloudflare",
+                  "pentest",
+                  "pentest-tool"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1837,12 +2798,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CloudBunny is a tool to capture the real IP of the server that uses a WAF as a proxy or protection. In this tool we used three search engines to search domain information: Shodan, Censys and Zoomeye.",
+                "homepage": null,
                 "id": 156903385,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-02-04T19:26:40Z",
+                "open_issues": 0,
                 "owner": "Warflop",
                 "repo": "cloudbunny",
-                "stars": 376
+                "stars": 376,
+                "topics": [
+                  "bypass",
+                  "censys",
+                  "pentest",
+                  "pentest-tools",
+                  "proxy",
+                  "shodan",
+                  "waf",
+                  "zoomeye"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1853,12 +2828,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CloudFlare-IP is a tool which aims to gather origin IP of the website protected by Cloudflare from the website's favicon icon using Shodan api",
+                "homepage": null,
                 "id": 211933647,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-10-02T06:29:10Z",
+                "open_issues": 1,
                 "owner": "karma9874",
                 "repo": "CloudFlare-IP",
-                "stars": 68
+                "stars": 68,
+                "topics": [
+                  "cloudflare",
+                  "favicon-icon",
+                  "ip-lookup",
+                  "python",
+                  "shodan",
+                  "shodan-api"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -1876,12 +2863,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tool designed to help identify incorrectly configured Django applications that are exposing sensitive information.",
+                "homepage": null,
                 "id": 156589538,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-01-01T18:11:01Z",
+                "open_issues": 1,
                 "owner": "jimywork",
                 "repo": "djangohunter",
-                "stars": 250
+                "stars": 250,
+                "topics": [
+                  "beautifulsoup",
+                  "bs4",
+                  "django",
+                  "hacking",
+                  "python",
+                  "python3",
+                  "shodan",
+                  "tool"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1892,12 +2893,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "simple tool to get unauth mongodb server",
+                "homepage": null,
                 "id": 220640583,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-11-09T13:56:35Z",
+                "open_issues": 0,
                 "owner": "mohwahyudi",
                 "repo": "mongodb-shodan",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -1915,12 +2921,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hack Raspberry Pi(s) across the world using Shodan !!",
+                "homepage": null,
                 "id": 169285102,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-04-12T01:15:55Z",
+                "open_issues": 1,
                 "owner": "TheSpeedX",
                 "repo": "rpigrab",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "auto-exploiter",
+                  "hacking",
+                  "python",
+                  "python3",
+                  "raspberry-pi",
+                  "shodan",
+                  "shodan-api",
+                  "speedx"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1931,12 +2951,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "search shodan and test the antminer password",
+                "homepage": null,
                 "id": 144480273,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-08-12T16:03:53Z",
+                "open_issues": 0,
                 "owner": "greatshi",
                 "repo": "miner_hack",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1947,12 +2972,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hack Raspberry Pi(s) across the world !",
+                "homepage": null,
                 "id": 89750717,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-04-28T09:14:29Z",
+                "open_issues": 0,
                 "owner": "FoxTheAlmighty",
                 "repo": "shodan_raspi",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -1970,12 +3000,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Live Feed of C2 servers, tools, and botnets",
+                "homepage": null,
                 "id": 570044007,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-04-13T01:20:16Z",
+                "open_issues": 2,
                 "owner": "montysecurity",
                 "repo": "C2-Tracker",
-                "stars": 784
+                "stars": 784,
+                "topics": [
+                  "cybersecurity",
+                  "infosec",
+                  "osint",
+                  "shodan",
+                  "threat-hunting",
+                  "threat-intelligence"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1986,12 +3028,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Uses Shodan API to pull down C2 servers to run known exploits on them.",
+                "homepage": null,
                 "id": 111359680,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-12-09T13:53:22Z",
+                "open_issues": 0,
                 "owner": "LukeBob-zz",
                 "repo": "C2-Pwn",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "c2",
+                  "exploit",
+                  "python",
+                  "rat",
+                  "shodan-api"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -2009,12 +3062,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Shodan monitoring tools allows you to monitor shodan listed servers basis on the filter you provided",
+                "homepage": null,
                 "id": 166510948,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-06-14T17:31:22Z",
+                "open_issues": 0,
                 "owner": "inishantgrover",
                 "repo": "Shodmon",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -2025,12 +3083,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ingesting Shodan Monitor Alerts to Microsoft Sentinel",
+                "homepage": "https://secopslab.substack.com/p/shodan-monitor-alerts-to-microsoft",
                 "id": 346405646,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-09-19T05:59:54Z",
+                "open_issues": 0,
                 "owner": "mikoiv",
                 "repo": "MicrosoftSentinel-ShodanMonitor",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -2041,12 +3104,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🕵🏽 macOS Big Sur desktop app to monitor active TCP connections through the lens of GreyNoise",
+                "homepage": null,
                 "id": 352353758,
                 "language": "Swift",
+                "license": "AGPL-3.0",
                 "last_commit": "2022-06-11T16:23:31Z",
+                "open_issues": 0,
                 "owner": "hrbrmstr",
                 "repo": "greywatch",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -2064,12 +3132,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "URL fingerprinting made easy",
+                "homepage": "https://shimon-6983d71a338d.herokuapp.com/",
                 "id": 214900540,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-13T22:56:08Z",
+                "open_issues": 2,
                 "owner": "ninoseki",
                 "repo": "shimon",
-                "stars": 88
+                "stars": 88,
+                "topics": [
+                  "censys",
+                  "osint",
+                  "shodan"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -2087,12 +3164,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VNC scanner and screenshot tool using Censys API",
+                "homepage": null,
                 "id": 410439648,
                 "language": "Python",
+                "license": "Unlicense",
                 "last_commit": "2021-11-28T03:42:31Z",
+                "open_issues": 2,
                 "owner": "superswan",
                 "repo": "Pirate-VPS",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "scanner",
+                  "security",
+                  "vnc"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -2103,12 +3189,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatically grabs screenshots from open VNC servers discovered on Shodan",
+                "homepage": null,
                 "id": 473121797,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2022-03-26T08:15:40Z",
+                "open_issues": 0,
                 "owner": "swlacy",
                 "repo": "ShodanScreenshotAutomatorVNC",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "automation",
+                  "python",
+                  "scanning",
+                  "shodan",
+                  "vnc"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -2119,12 +3216,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Utilizes the shodan streaming API to make screenshot of newly discovered open access VNC servers",
+                "homepage": null,
                 "id": 169857062,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2019-02-10T16:54:35Z",
+                "open_issues": 0,
                 "owner": "GitMirar",
                 "repo": "shodan-slideshow",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -2135,12 +3237,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Docker based shodan webcam screensaver",
+                "homepage": null,
                 "id": 233469424,
                 "language": "Python",
+                "license": "LGPL-3.0",
                 "last_commit": "2022-12-08T03:55:16Z",
+                "open_issues": 2,
                 "owner": "gr4viton",
                 "repo": "shodaniel",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -2158,12 +3265,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FOFA Pro view 是一款FOFA Pro 资产展示浏览器插件，目前兼容  Chrome、Firefox、Opera。",
+                "homepage": null,
                 "id": 230639208,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2022-02-16T17:26:12Z",
+                "open_issues": 5,
                 "owner": "fofapro",
                 "repo": "fofa_view",
-                "stars": 622
+                "stars": 622,
+                "topics": [
+                  "chrome",
+                  "firefox",
+                  "fofa",
+                  "opera"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -2174,12 +3291,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Shodan Firefox Add-on ",
+                "homepage": null,
                 "id": 26269339,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-06-10T12:57:50Z",
+                "open_issues": 1,
                 "owner": "PaulSec",
                 "repo": "Shodan-Firefox-Addon",
-                "stars": 151
+                "stars": 151,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -2190,12 +3312,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zoomeye Tools是配合Zoomeye使用的Chrome插件",
+                "homepage": null,
                 "id": 289194171,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-01-18T03:38:53Z",
+                "open_issues": 1,
                 "owner": "knownsec",
                 "repo": "Zoomeye-Tools",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "chrome-extension",
+                  "zoomeye"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -2213,12 +3343,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chat with AI get info about any IP address. Powered by GreyNoise Enterprise API and OpenAI's GPT-4 Turbo x Function Calling.",
+                "homepage": "https://greynoiseai-chat.za16.fyi/",
                 "id": 729923328,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-12-13T13:48:36Z",
+                "open_issues": 0,
                 "owner": "zaidmukaddam",
                 "repo": "greynoise-chatbot",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "chainlit",
+                  "function-calling",
+                  "gpt-4-turbo",
+                  "greynoise"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -2236,12 +3376,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official repository for the Shodan.io mobile Application",
+                "homepage": null,
                 "id": 37527132,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-06-05T16:54:23Z",
+                "open_issues": 7,
                 "owner": "PaulSec",
                 "repo": "Shodan.io-mobile-app",
-                "stars": 221
+                "stars": 222,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -2252,12 +3397,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Console and Android native Shodan application. Developed using MVP architecture, RxJava, Butterknife, zxing and more! Looking for collaborators, join now! :metal:",
+                "homepage": null,
                 "id": 86372351,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2017-08-03T21:38:17Z",
+                "open_issues": 0,
                 "owner": "fooock",
                 "repo": "shodand",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "android",
+                  "android-application",
+                  "butterknife",
+                  "mvp",
+                  "mvp-android",
+                  "mvp-architecture",
+                  "retrofit2",
+                  "rxjava-android",
+                  "rxjava2",
+                  "shodan",
+                  "shodan-api"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -2268,12 +3430,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ZoomEye Android API SDK.",
+                "homepage": "https://www.zoomeye.org/api/doc",
                 "id": 56783853,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2016-05-05T10:22:46Z",
+                "open_issues": 0,
                 "owner": "donglua",
                 "repo": "ZoomEye-API",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -2284,12 +3451,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ZoomEye for Android",
+                "homepage": "http://fir.im/wk6m",
                 "id": 57400828,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2016-05-05T15:09:00Z",
+                "open_issues": 0,
                 "owner": "donglua",
                 "repo": "ZoomEyeAndroid",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -2307,12 +3479,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Discord bot for the Shodan API - OSINT tool",
+                "homepage": null,
                 "id": 684772447,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-03-08T15:56:35Z",
+                "open_issues": 0,
                 "owner": "RocketGod-git",
                 "repo": "shodanbot",
-                "stars": 92
+                "stars": 92,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -2330,12 +3507,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An IRC bot who execute shodan queries",
+                "homepage": null,
                 "id": 31337317,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2015-02-25T21:49:17Z",
+                "open_issues": 1,
                 "owner": "ThibaudKieffer",
                 "repo": "shodanbot",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -2353,12 +3535,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "shodan bot on whatsapp",
+                "homepage": null,
                 "id": 226166623,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-12-13T16:40:24Z",
+                "open_issues": 0,
                 "owner": "geek-repo",
                 "repo": "Whatsapp-shodanBot",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -2376,12 +3563,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Slack Bot to query Shodan.",
+                "homepage": null,
                 "id": 65590055,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2016-08-12T23:59:48Z",
+                "open_issues": 0,
                 "owner": "vortexau",
                 "repo": "ShodanSlackBot",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -2392,12 +3584,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Custom slash command to do censys.io IP lookups from within Slack",
+                "homepage": null,
                 "id": 58775994,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2016-05-14T12:45:27Z",
+                "open_issues": 0,
                 "owner": "jgamblin",
                 "repo": "censysip-for-slack",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -2415,12 +3612,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Command-line tool using Shodan API. Generates and downloads CSV results, diffing of historic scanning results, alerts and monitoring of specific ports/IPs, etc.",
+                "homepage": null,
                 "id": 178603477,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2019-08-09T07:48:52Z",
+                "open_issues": 0,
                 "owner": "laincode",
                 "repo": "shodan-seeker",
-                "stars": 65
+                "stars": 65,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -2438,12 +3640,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "generate shodan accounts using a temporary mail service",
+                "homepage": null,
                 "id": 202610371,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-12-28T06:03:04Z",
+                "open_issues": 2,
                 "owner": "Xosrov",
                 "repo": "Shodan-Generator",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "shodan-accounts",
+                  "shodan-generator"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -2461,12 +3671,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "集Fofa、Hunter鹰图、Shodan、360 quake、Zoomeye 钟馗之眼、censys 为一体的空间测绘gui图形界面化工具，支持一键采集爬取和导出fofa、shodan等数据，方便快捷查看",
+                "homepage": null,
                 "id": 565159068,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-02-06T11:04:19Z",
+                "open_issues": 5,
                 "owner": "G3et",
                 "repo": "Search_Viewer",
-                "stars": 792
+                "stars": 792,
+                "topics": [
+                  "censys",
+                  "fofa",
+                  "gui",
+                  "quake",
+                  "shodan",
+                  "zoomeye"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -2477,12 +3699,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Shodan.io browser built with Vue.js",
+                "homepage": null,
                 "id": 58750568,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-07-10T14:31:03Z",
+                "open_issues": 0,
                 "owner": "jporter-dev",
                 "repo": "shodan-viz",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -2506,12 +3733,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official Python library for Shodan",
+                "homepage": "https://developer.shodan.io",
                 "id": 892815,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-05T13:11:50Z",
+                "open_issues": 62,
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 2951
+                "stars": 2951,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -2522,12 +3754,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shodan Eye This tool collects all the information about all devices directly connected to the internet using the specified keywords that you enter. Author: Jolanda de Koff",
+                "homepage": null,
                 "id": 180435148,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-02T08:38:33Z",
+                "open_issues": 4,
                 "owner": "BullsEye0",
                 "repo": "shodan-eye",
-                "stars": 1353
+                "stars": 1353,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -2538,12 +3775,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of Scripts for shodan searching stuff.",
+                "homepage": null,
                 "id": 94450338,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-14T23:47:03Z",
+                "open_issues": 5,
                 "owner": "random-robbie",
                 "repo": "My-Shodan-Scripts",
-                "stars": 1147
+                "stars": 1147,
+                "topics": [
+                  "shodan",
+                  "shodan-scripts"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -2554,12 +3799,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "非付费会员，fofa数据采集工具",
+                "homepage": null,
                 "id": 537091259,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2025-10-28T08:50:20Z",
+                "open_issues": 6,
                 "owner": "Cl0udG0d",
                 "repo": "Fofa-hack",
-                "stars": 883
+                "stars": 883,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -2570,12 +3820,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "一款证据驱动的 FOFA 资产测绘智能体：支持自然语言侦察、AI 反思、CLI / MCP / Skill / REST API，以及经人工审批的 Nuclei 扫描。",
+                "homepage": "https://www.hx0.store/products/fofamap",
                 "id": 442706416,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-16T17:44:59Z",
+                "open_issues": 32,
                 "owner": "asaotomo",
                 "repo": "FofaMap",
-                "stars": 708
+                "stars": 708,
+                "topics": [
+                  "ai-agent",
+                  "asset-discovery",
+                  "asset-mapping",
+                  "attack-surface-management",
+                  "cybersecurity",
+                  "fastapi",
+                  "fofa",
+                  "fofa-api",
+                  "mcp",
+                  "model-context-protocol",
+                  "nuclei",
+                  "osint",
+                  "python",
+                  "red-team",
+                  "security-tools"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -2586,12 +3857,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OSINT tool - gets data from services like shodan, censys etc. in one app",
+                "homepage": "https://pawlaczyk.github.io/sarenka/",
                 "id": 235397821,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-05-04T15:42:26Z",
+                "open_issues": 52,
                 "owner": "KTZgraph",
                 "repo": "sarenka",
-                "stars": 674
+                "stars": 674,
+                "topics": [
+                  "censys-api",
+                  "cve",
+                  "cve-databases",
+                  "cve-search",
+                  "cwe",
+                  "cwe-search",
+                  "django",
+                  "django-rest-framework",
+                  "docker",
+                  "osint",
+                  "osint-python",
+                  "python3",
+                  "react",
+                  "react-persist",
+                  "react-redux",
+                  "react-thunk",
+                  "reactjs",
+                  "reconnaissance",
+                  "scraping-websites",
+                  "shodan-api"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -2602,12 +3899,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "macOS上的小而美【Fofa、Shodan、Hunter、Zoomeye、Quake网络空间搜索引擎】闪电搜索器；GUI图形化(Mac/Windows)渗透测试信息搜集工具；资产搜集引擎；hw红队工具hvv",
+                "homepage": null,
                 "id": 448003896,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-12-06T02:09:33Z",
+                "open_issues": 1,
                 "owner": "xzajyjs",
                 "repo": "ThunderSearch",
-                "stars": 670
+                "stars": 670,
+                "topics": [
+                  "cyberspace-search-engine",
+                  "fofa",
+                  "hunter",
+                  "information-gathering",
+                  "penetration-testing",
+                  "quake",
+                  "shodan",
+                  "shodan-api",
+                  "shodan-search",
+                  "zoomeye"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -2618,12 +3931,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ShodanX is a tool to gather information of targets using shodan dorks⚡.",
+                "homepage": null,
                 "id": 772992628,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-05-14T17:56:33Z",
+                "open_issues": 12,
                 "owner": "RevoltSecurities",
                 "repo": "ShodanX",
-                "stars": 592
+                "stars": 592,
+                "topics": [
+                  "shodan",
+                  "shodan-api",
+                  "shodan-cli",
+                  "shodan-dorking",
+                  "shodan-dorks",
+                  "shodan-free",
+                  "shodan-python",
+                  "shodan-recon",
+                  "shodan-scripts",
+                  "shodan-search",
+                  "shodan-search-python",
+                  "shodan-search-python3",
+                  "shodan-tool"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -2634,12 +3966,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ZoomEye-python: The official Python library and CLI by Knownsec 404 Team.",
+                "homepage": "https://www.zoomeye.org/doc",
                 "id": 59262960,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2026-01-08T00:18:29Z",
+                "open_issues": 22,
                 "owner": "knownsec",
                 "repo": "ZoomEye-python",
-                "stars": 572
+                "stars": 572,
+                "topics": [
+                  "zoomeye",
+                  "zoomeye-api",
+                  "zoomeye-sdk"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -2650,12 +3991,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An easy-to-use and lightweight API wrapper for Censys APIs.",
+                "homepage": "https://censys-python.rtfd.io/",
                 "id": 43082714,
                 "language": "Python",
-                "last_commit": "2026-08-28T16:40:59Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T20:41:18Z",
+                "open_issues": 1,
                 "owner": "censys",
                 "repo": "censys-python",
-                "stars": 469
+                "stars": 469,
+                "topics": [
+                  "api",
+                  "attack-surface-management",
+                  "censys",
+                  "hacktoberfest",
+                  "pypi",
+                  "python",
+                  "python3",
+                  "search"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -2666,12 +4021,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "聚合空间测绘搜索（Fofa,Zoomeye,Quake,Shodan,Censys,BinaryEdge）",
+                "homepage": null,
                 "id": 345103232,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-04-09T00:03:41Z",
+                "open_issues": 5,
                 "owner": "atdpa4sw0rd",
                 "repo": "Search-Tools",
-                "stars": 343
+                "stars": 343,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -2682,12 +4042,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of scripts & fingerprinting tricks for Shodan.io",
+                "homepage": null,
                 "id": 242000561,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-07-08T17:04:50Z",
+                "open_issues": 2,
                 "owner": "n0x08",
                 "repo": "ShodanTools",
-                "stars": 263
+                "stars": 263,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -2698,12 +4063,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "search for hosts info with shodan",
+                "homepage": null,
                 "id": 86171416,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-06-14T09:33:52Z",
+                "open_issues": 2,
                 "owner": "HatBashBR",
                 "repo": "ShodanHat",
-                "stars": 235
+                "stars": 235,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -2714,12 +4084,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🥀 Search Engine Tookit，URL采集、Favicon哈希值查找真实IP、子域名查找",
+                "homepage": null,
                 "id": 129848512,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-05-17T09:59:18Z",
+                "open_issues": 1,
                 "owner": "j3ers3",
                 "repo": "Searpy",
-                "stars": 214
+                "stars": 214,
+                "topics": [
+                  "fofa",
+                  "google",
+                  "pentest",
+                  "shodan",
+                  "zoomeye"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -2730,12 +4111,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NoMoney 是一款集成了fofa，奇安信的鹰图平台，360quake，且完全免费的信息收集工具。fofa 借助爬虫实现，其余平台利用各自的api进行信息收集。",
+                "homepage": "https://github.com/H-Limbus/NoMoney",
                 "id": 609742133,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-10-12T08:02:34Z",
+                "open_issues": 3,
                 "owner": "H-Limbus",
                 "repo": "NoMoney",
-                "stars": 203
+                "stars": 203,
+                "topics": [
+                  "360-quake",
+                  "fofa-search",
+                  "hunter",
+                  "python3"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -2746,12 +4137,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python3 library and command line for GreyNoise",
+                "homepage": null,
                 "id": 113500389,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-09T20:06:40Z",
+                "open_issues": 17,
                 "owner": "GreyNoise-Intelligence",
                 "repo": "pygreynoise",
-                "stars": 177
+                "stars": 177,
+                "topics": [
+                  "internet",
+                  "scanning",
+                  "security",
+                  "threat-intelligence"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -2762,12 +4163,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python wrapper for the Hunter.io v2 API",
+                "homepage": "https://vonstruddle.github.io/PyHunter/",
                 "id": 92219007,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-09T17:34:43Z",
+                "open_issues": 0,
                 "owner": "VonStruddle",
                 "repo": "PyHunter",
-                "stars": 136
+                "stars": 136,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -2778,12 +4184,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Use Fofa、shodan、zoomeye、360quake to collect information(e.g:domain,IP,CMS,OS)同时调用Fofa、shodan、zoomeye、360quake四个网络空间测绘API完成红队信息收集",
+                "homepage": null,
                 "id": 388306331,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-11-13T07:31:05Z",
+                "open_issues": 0,
                 "owner": "Xc1Ym",
                 "repo": "cyberspace_map_API",
-                "stars": 72
+                "stars": 72,
+                "topics": [
+                  "python",
+                  "red-team"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -2794,12 +4208,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Search Assistant: Searching shodan via API.",
+                "homepage": null,
                 "id": 122934776,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-12-18T14:00:02Z",
+                "open_issues": 4,
                 "owner": "zev3n",
                 "repo": "Shodan_So",
-                "stars": 65
+                "stars": 65,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -2810,12 +4229,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Command-line tool using Shodan API. Generates and downloads CSV results, diffing of historic scanning results, alerts and monitoring of specific ports/IPs, etc.",
+                "homepage": null,
                 "id": 178603477,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2019-08-09T07:48:52Z",
+                "open_issues": 0,
                 "owner": "laincode",
                 "repo": "shodan-seeker",
-                "stars": 65
+                "stars": 65,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -2826,12 +4250,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shodan.io Command Line Interface",
+                "homepage": null,
                 "id": 86350721,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2021-07-10T23:32:22Z",
+                "open_issues": 3,
                 "owner": "NullArray",
                 "repo": "Shogun",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "cli",
+                  "command-line",
+                  "command-line-interface",
+                  "command-line-tool",
+                  "intelligence-gathering",
+                  "interactive",
+                  "interface",
+                  "osint",
+                  "shodan"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -2842,12 +4281,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fofa的API快速调用，使用了一些小Tips，自用勿传",
+                "homepage": null,
                 "id": 284942882,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-06-20T03:15:59Z",
+                "open_issues": 0,
                 "owner": "sv3nbeast",
                 "repo": "X-Fofa",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -2858,12 +4302,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Netlas.io Python SDK & CLI  Tool",
+                "homepage": "https://netlas.io",
                 "id": 362175635,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-22T08:49:32Z",
+                "open_issues": 0,
                 "owner": "netlas-io",
                 "repo": "netlas-python",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "bugbounty",
+                  "reconnaissance",
+                  "sdk-python"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -2874,28 +4327,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 30834962,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-04-16T21:39:19Z",
+                "open_issues": 0,
                 "owner": "KyxRecon",
                 "repo": "ShodanAPI",
-                "stars": 27
-              },
-              "first_seen": "2026-08-28T17:43:53.077Z"
-            },
-            {
-              "node_type": "item",
-              "title": ":heartpulse:Netlas Email Search Python:heartpulse:",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 403059386,
-                "language": "Python",
-                "last_commit": "2023-08-04T02:18:34Z",
-                "owner": "soxoj",
-                "repo": "netlas-email-search",
-                "stars": 25
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -2906,12 +4348,43 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get ports,vulnerabilities,informations,banners,..etc for any IP with Shodan (no apikey! no rate-limit!)",
+                "homepage": null,
                 "id": 269232750,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2020-06-03T20:32:11Z",
+                "open_issues": 0,
                 "owner": "owlonex",
                 "repo": "Shodanfy.py",
-                "stars": 25
+                "stars": 26,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
+            },
+            {
+              "node_type": "item",
+              "title": ":heartpulse:Netlas Email Search Python:heartpulse:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Search emails with Netlas.io",
+                "homepage": null,
+                "id": 403059386,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2023-08-04T02:18:34Z",
+                "open_issues": 0,
+                "owner": "soxoj",
+                "repo": "netlas-email-search",
+                "stars": 25,
+                "topics": [
+                  "email",
+                  "osint",
+                  "scraper",
+                  "search"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -2922,12 +4395,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "360 QuakeAPI批量查询工具",
+                "homepage": null,
                 "id": 387813170,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-07-20T14:22:03Z",
+                "open_issues": 1,
                 "owner": "test502git",
                 "repo": "360Quake",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -2938,12 +4416,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "零零信安api信息系统查询脚本",
+                "homepage": null,
                 "id": 608290318,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-09-22T06:48:26Z",
+                "open_issues": 0,
                 "owner": "wkend",
                 "repo": "0_zone_tool",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -2954,12 +4437,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Unofficial python CLI for CriminalIp.io from AI Spera",
+                "homepage": null,
                 "id": 541332020,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-03-28T03:39:13Z",
+                "open_issues": 1,
                 "owner": "ChoiSG",
                 "repo": "criminalip-python",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -2970,12 +4458,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Netlas automation to scan for vulnerabilities using nuclei templates.",
+                "homepage": null,
                 "id": 715854129,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-11-08T02:44:16Z",
+                "open_issues": 0,
                 "owner": "humblelad",
                 "repo": "neuro",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "netlas",
+                  "security",
+                  "security-automation"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -2986,12 +4483,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Use security OSINT tool Criminal IP (criminalip.io) to identify IoT equipment connected to the internet.",
+                "homepage": null,
                 "id": 577688413,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-08-23T03:50:46Z",
+                "open_issues": 0,
                 "owner": "Aidennnn33",
                 "repo": "sherlocksight",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "criminalip",
+                  "criminalip-api",
+                  "iot",
+                  "osint",
+                  "osint-python",
+                  "security-scanner",
+                  "security-tools"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -3002,12 +4512,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tool to obtain information about the open ports throught API's onyphe (https://www.onyphe.io/)",
+                "homepage": null,
                 "id": 204533780,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-05-22T22:16:59Z",
+                "open_issues": 1,
                 "owner": "n4xh4ck5",
                 "repo": "pyonyphe",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -3018,12 +4533,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python library for CriminalIP(https://www.criminalip.io/)",
+                "homepage": null,
                 "id": 588333472,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-03-06T06:54:17Z",
+                "open_issues": 1,
                 "owner": "haginara",
                 "repo": "PyCriminalIP",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "criminalip",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -3034,12 +4557,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Asynchronous Onyphe API Client",
+                "homepage": null,
                 "id": 464658380,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-15T07:05:37Z",
+                "open_issues": 0,
                 "owner": "koromodako",
                 "repo": "aionyphe",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "asyncio",
+                  "onyphe"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -3050,12 +4581,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "360quake",
+                "homepage": null,
                 "id": 644692575,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-04-21T08:31:00Z",
+                "open_issues": 0,
                 "owner": "niexiaoxiao11",
                 "repo": "360quake_view",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -3073,12 +4609,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ShodanSpider is an open-source tool for interacting with Shodan. It lets you search and extract data from Shodan without an API key, offering a simple command-line interface. Premium users can integrate their API key for more results. Ideal for penetration testers and cybersecurity researchers.",
+                "homepage": null,
                 "id": 892551392,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2025-03-17T10:30:32Z",
+                "open_issues": 2,
                 "owner": "shubhamrooter",
                 "repo": "ShodanSpider",
-                "stars": 210
+                "stars": 210,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -3089,12 +4630,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Several scripts are based on the Netlas.io search engine. They will allow you to carry out the reconnaissance phase before the pen test in a semi-automatic mode: collect all the domains and IP addresses associated with the target and save the responses received after contacting these hosts in HTML format. Over time, new scripts will appear here.",
+                "homepage": "https://app.netlas.io",
                 "id": 624928954,
                 "language": "Python",
+                "license": "CC0-1.0",
                 "last_commit": "2025-05-22T11:23:48Z",
+                "open_issues": 0,
                 "owner": "netlas-io",
                 "repo": "netlas-scripts",
-                "stars": 51
+                "stars": 51,
+                "topics": [
+                  "netlas",
+                  "osint",
+                  "penetration-testing-tools",
+                  "security-tools"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -3105,12 +4656,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "bash script to enumerate vulnerabilities on specific year through Shodan API ",
+                "homepage": null,
                 "id": 117473963,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2018-12-05T17:48:19Z",
+                "open_issues": 0,
                 "owner": "Mavrepis",
                 "repo": "ShodanVulncheck",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -3121,12 +4677,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Various scripts and findings on Greynoise.io",
+                "homepage": null,
                 "id": 464684529,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2022-03-02T18:34:10Z",
+                "open_issues": 0,
                 "owner": "0x4rk0",
                 "repo": "greynoise",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -3144,12 +4705,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple FOFA client written in JavaFX.  Made by WgpSec, Maintained by f1ashine.",
+                "homepage": "https://opensource.wgpsec.org",
                 "id": 357782569,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2025-12-26T12:19:11Z",
+                "open_issues": 20,
                 "owner": "wgpsec",
                 "repo": "fofa_viewer",
-                "stars": 1800
+                "stars": 1800,
+                "topics": [
+                  "cybersecurity",
+                  "fofa",
+                  "fofa-api",
+                  "fofa-search",
+                  "redteam",
+                  "security-tools"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -3160,12 +4733,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FOFA EX 是一款基于fofa api（也可导入鹰图、夸克文件）实现的红队综合利用工具，可基于模板把工具作为插件进行集成，自动化进行资产探测，目前提供的插件功能如下：探活、 nuclei 模板扫描、IP反查域名、域名反查 ICP 备案、dismap 指纹扫描",
+                "homepage": "https://github.com/10cks/fofaEX",
                 "id": 728693846,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2024-07-24T11:18:52Z",
+                "open_issues": 6,
                 "owner": "10cks",
                 "repo": "fofaEX",
-                "stars": 240
+                "stars": 240,
+                "topics": [
+                  "cybersecurity",
+                  "fofa",
+                  "fofa-api",
+                  "fofa-client",
+                  "redteam"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -3176,12 +4760,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Powerful Shodan API client using RxJava and Retrofit",
+                "homepage": null,
                 "id": 80363192,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2024-08-05T13:17:53Z",
+                "open_issues": 3,
                 "owner": "fooock",
                 "repo": "jshodan",
-                "stars": 77
+                "stars": 77,
+                "topics": [
+                  "android",
+                  "android-development",
+                  "android-library",
+                  "exploits",
+                  "rest",
+                  "retrofit2",
+                  "rxjava",
+                  "security",
+                  "security-scanner",
+                  "shodan",
+                  "shodan-client"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -3192,12 +4793,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Java version of the SDK, based on the FOFA Pro API, makes it easy for Java developers to quickly integrate FOFA Pro into their projects.",
+                "homepage": null,
                 "id": 190498060,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2023-08-27T14:46:16Z",
+                "open_issues": 3,
                 "owner": "fofapro",
                 "repo": "fofa-java",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "fofa",
+                  "java"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -3208,12 +4817,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ShodanScanner searches Shodan for a specific keyword and returns all ips in the results.",
+                "homepage": null,
                 "id": 53724712,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2023-06-27T11:17:18Z",
+                "open_issues": 0,
                 "owner": "nikos-glikis",
                 "repo": "ShodanScanner",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -3224,12 +4838,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "360 Quake API 图形化客户端",
+                "homepage": null,
                 "id": 730583420,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2024-09-13T03:29:14Z",
+                "open_issues": 0,
                 "owner": "Rubby2001",
                 "repo": "QuakeViewer",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -3240,12 +4859,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is an app for ZoomEye ",
+                "homepage": null,
                 "id": 56952161,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2016-04-24T03:43:40Z",
+                "open_issues": 0,
                 "owner": "daviddone",
                 "repo": "ZoomEye_APP",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -3256,12 +4880,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "greynoise api in java but not that good but fun for learning (sort of)",
+                "homepage": null,
                 "id": 476829631,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2022-04-07T23:17:52Z",
+                "open_issues": 0,
                 "owner": "bfu4",
                 "repo": "greynoise4j",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -3279,12 +4908,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "XRay is a tool for recon, mapping and OSINT gathering from public networks.",
+                "homepage": null,
                 "id": 96643394,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-10T09:43:56Z",
+                "open_issues": 5,
                 "owner": "evilsocket",
                 "repo": "xray",
-                "stars": 2331
+                "stars": 2331,
+                "topics": [
+                  "intelligence",
+                  "mapping",
+                  "network",
+                  "osint",
+                  "security",
+                  "shodan"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -3295,12 +4936,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FOFAX是一个基于fofa.info的API命令行查询工具",
+                "homepage": "https://fofax.xiecat.fun/",
                 "id": 438202350,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2026-03-06T05:40:27Z",
+                "open_issues": 2,
                 "owner": "xiecat",
                 "repo": "fofax",
-                "stars": 838
+                "stars": 838,
+                "topics": [
+                  "fofa",
+                  "fofa-cli",
+                  "rule",
+                  "survey"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -3311,12 +4962,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shodan API client",
+                "homepage": null,
                 "id": 41859480,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2022-01-12T22:49:02Z",
+                "open_issues": 0,
                 "owner": "ns3777k",
                 "repo": "go-shodan",
-                "stars": 219
+                "stars": 219,
+                "topics": [
+                  "exploits",
+                  "security",
+                  "security-scanner",
+                  "shodan",
+                  "shodan-api",
+                  "shodan-client"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -3327,12 +4990,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shodan Monitoring integration for TheHive.",
+                "homepage": null,
                 "id": 267926571,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-12-12T20:10:24Z",
+                "open_issues": 0,
                 "owner": "kaansk",
                 "repo": "shomon",
-                "stars": 130
+                "stars": 130,
+                "topics": [
+                  "golang",
+                  "incident-management",
+                  "incident-response",
+                  "incident-response-tooling",
+                  "security",
+                  "security-tools",
+                  "shodan",
+                  "thehive"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -3343,12 +5020,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "yet another Shodan.io client",
+                "homepage": null,
                 "id": 190069426,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-12-15T10:53:24Z",
+                "open_issues": 1,
                 "owner": "shadowscatcher",
                 "repo": "shodan",
-                "stars": 121
+                "stars": 121,
+                "topics": [
+                  "golang",
+                  "intelligence-gathering",
+                  "osint",
+                  "reconnaissance",
+                  "security-development",
+                  "shodan"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -3359,12 +5048,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fetch data (open ports, CVEs, CPEs, ...) from shodan internetDB API ",
+                "homepage": null,
                 "id": 461310091,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2023-01-09T08:08:42Z",
+                "open_issues": 0,
                 "owner": "s4hm4d",
                 "repo": "shodanidb",
-                "stars": 92
+                "stars": 92,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -3375,12 +5069,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Golang SDK and CLI of ZoomEye@Knownsec by gyyyy.",
+                "homepage": null,
                 "id": 331591272,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2021-03-31T08:51:39Z",
+                "open_issues": 1,
                 "owner": "gyyyy",
                 "repo": "ZoomEye-go",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -3391,12 +5090,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "fofa pro的sdk，go语言版本",
+                "homepage": null,
                 "id": 73275995,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2020-03-17T09:52:00Z",
+                "open_issues": 2,
                 "owner": "fofapro",
                 "repo": "fofa-go",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -3407,12 +5111,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Use SQL to instantly query host, DNS and exploit information using Shodan. Open source CLI. No DB required.",
+                "homepage": "https://hub.steampipe.io/plugins/turbot/shodan",
                 "id": 348544027,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-10T23:44:46Z",
+                "open_issues": 3,
                 "owner": "turbot",
                 "repo": "steampipe-plugin-shodan",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "backup",
+                  "etl",
+                  "go",
+                  "golang",
+                  "hacktoberfest",
+                  "postgres",
+                  "postgres-fdw",
+                  "postgresql",
+                  "postgresql-fdw",
+                  "shodan",
+                  "shodan-plugin",
+                  "sql",
+                  "sqlite",
+                  "steampipe",
+                  "steampipe-community",
+                  "steampipe-plugin",
+                  "zero-etl"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -3423,12 +5150,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "360网络空间测绘系统（Quake）API",
+                "homepage": null,
                 "id": 339054077,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-02-15T06:53:18Z",
+                "open_issues": 1,
                 "owner": "YetClass",
                 "repo": "QuakeAPI",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -3439,12 +5171,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go library for interacting with Censys",
+                "homepage": null,
                 "id": 62175511,
                 "language": "Go",
+                "license": "LGPL-3.0",
                 "last_commit": "2016-10-25T19:22:49Z",
+                "open_issues": 1,
                 "owner": "abadojack",
                 "repo": "gocensys",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -3455,12 +5192,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A small utility that calls fofa api to download data.",
+                "homepage": null,
                 "id": 368905524,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2022-07-27T15:00:37Z",
+                "open_issues": 0,
                 "owner": "tardc",
                 "repo": "fofadump",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "fofa"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -3471,12 +5215,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unofficial greynoise.io go client.  WIP.",
+                "homepage": null,
                 "id": 138548142,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2018-09-13T21:22:01Z",
+                "open_issues": 0,
                 "owner": "securityclippy",
                 "repo": "greynoise",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -3487,12 +5236,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library to use the Greynoise API",
+                "homepage": null,
                 "id": 110778055,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2017-11-15T03:21:33Z",
+                "open_issues": 0,
                 "owner": "patrobinson",
                 "repo": "go-greynoise",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -3510,12 +5264,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔭 A modern, async Ruby gem for Shodan.",
+                "homepage": null,
                 "id": 106994904,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2024-08-18T14:49:19Z",
+                "open_issues": 4,
                 "owner": "picatz",
                 "repo": "shodanz",
-                "stars": 135
+                "stars": 135,
+                "topics": [
+                  "information-security",
+                  "internet-of-things",
+                  "opensource",
+                  "ruby",
+                  "search-engine",
+                  "shodan",
+                  "shodan-api",
+                  "shodan-client"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -3526,12 +5294,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Ruby library for SHODAN",
+                "homepage": "http://www.shodanhq.com",
                 "id": 900904,
                 "language": "Ruby",
+                "license": "NOASSERTION",
                 "last_commit": "2019-11-24T01:58:07Z",
+                "open_issues": 5,
                 "owner": "achillean",
                 "repo": "shodan-ruby",
-                "stars": 76
+                "stars": 76,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -3542,12 +5315,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ruby API client for the Censys internet-wide network-scan search engine",
+                "homepage": null,
                 "id": 52060950,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2024-09-12T16:50:40Z",
+                "open_issues": 6,
                 "owner": "trailofbits",
                 "repo": "censys-ruby",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "network-scanning",
+                  "search-engine",
+                  "security-scanner"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -3558,12 +5340,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "GreyNoise API wrapper for Ruby",
+                "homepage": null,
                 "id": 236405577,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2023-10-17T18:45:28Z",
+                "open_issues": 1,
                 "owner": "ninoseki",
                 "repo": "greynoise",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -3574,12 +5361,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ONYPHE API wrapper for Ruby",
+                "homepage": null,
                 "id": 157788610,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2020-08-07T00:25:47Z",
+                "open_issues": 1,
                 "owner": "ninoseki",
                 "repo": "onyphe-rb",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -3597,12 +5389,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "c# client for shodan.io api",
+                "homepage": "http://tparnell8.github.io/Shodan.Net",
                 "id": 59340221,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-08-05T13:16:15Z",
+                "open_issues": 3,
                 "owner": "TerribleDev",
                 "repo": "Shodan.Net",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -3613,12 +5410,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple golang shodan cli",
+                "homepage": null,
                 "id": 116869173,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2021-04-01T09:08:00Z",
+                "open_issues": 0,
                 "owner": "yvesago",
                 "repo": "shodan-cli",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "golang",
+                  "security",
+                  "security-scanner",
+                  "security-tools",
+                  "shodan",
+                  "shodan-cli"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -3629,12 +5438,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ".NET Class library for Shodan",
+                "homepage": "http://www.shodanhq.com",
                 "id": 1344382,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2011-02-09T01:04:40Z",
+                "open_issues": 1,
                 "owner": "achillean",
                 "repo": "Shodan.NET",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -3652,12 +5466,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ShodanCPP is a С++ library for accessing the Shodan API.",
+                "homepage": null,
                 "id": 269755122,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-05T13:13:57Z",
+                "open_issues": 0,
                 "owner": "prophetl33t",
                 "repo": "ShodanCPP",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "cpp",
+                  "shodan",
+                  "shodan-api"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -3675,12 +5498,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":eyes: Node.js/JavaScript Library for accessing the new Shodan API",
+                "homepage": null,
                 "id": 15852276,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-03-11T16:19:51Z",
+                "open_issues": 8,
                 "owner": "jesusprubio",
                 "repo": "shodan-client",
-                "stars": 218
+                "stars": 218,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -3691,12 +5519,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "🔮 Asyncronous, vanillaJS library for Shodan",
+                "homepage": null,
                 "id": 162024971,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-12-16T18:17:00Z",
+                "open_issues": 0,
                 "owner": "picatz",
                 "repo": "shodan.js",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "async",
+                  "shodan-api",
+                  "vanilla-js"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -3707,12 +5544,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast & flexible netlas.io API module.",
+                "homepage": null,
                 "id": 425419014,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-11-07T05:20:11Z",
+                "open_issues": 0,
                 "owner": "I2rys",
                 "repo": "easy-netlas",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "easy-netlas",
+                  "i2rys",
+                  "netlas-io",
+                  "netlas-io-api",
+                  "netlas-io-api-module",
+                  "netlas-io-module"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -3730,12 +5579,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PowerShell Module to interact with the Shodan service",
+                "homepage": null,
                 "id": 15853916,
                 "language": "PowerShell",
+                "license": "BSD-3-Clause",
                 "last_commit": "2016-02-18T02:05:58Z",
+                "open_issues": 2,
                 "owner": "darkoperator",
                 "repo": "Posh-Shodan",
-                "stars": 147
+                "stars": 147,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -3746,12 +5600,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of PowerShell modules for interacting with the Shodan API. Includes modules for returning information about the API, client IP, DNS, exploits, honeypot scores, hosts, ports, profiles, and scans. Shodan API key required. Query and scan credits used. ",
+                "homepage": "https://simeononsecurity.com/github/shodan-powershell/",
                 "id": 312935245,
                 "language": "PowerShell",
+                "license": "MIT",
                 "last_commit": "2024-07-26T23:00:06Z",
+                "open_issues": 0,
                 "owner": "simeononsecurity",
                 "repo": "Shodan_PS",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "enumeration",
+                  "powershell",
+                  "powershell-module",
+                  "powershell-script",
+                  "shodan",
+                  "shodan-api"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -3762,12 +5628,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PowerShell module to interact with the GreyNoise API",
+                "homepage": null,
                 "id": 351850104,
                 "language": "PowerShell",
+                "license": "MIT",
                 "last_commit": "2024-09-19T15:35:22Z",
+                "open_issues": 0,
                 "owner": "AndrewPla",
                 "repo": "GreyNoisePS",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "greynoise",
+                  "powershell"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -3778,12 +5652,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple PowerShell module to use Onyphe.io API",
+                "homepage": "https://www.onyphe.io",
                 "id": 114481399,
                 "language": "PowerShell",
-                "last_commit": "2026-08-27T06:48:51Z",
+                "license": null,
+                "last_commit": "2026-08-28T20:30:05Z",
+                "open_issues": 0,
                 "owner": "MS-LUF",
                 "repo": "Use-Onyphe",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "onyphe",
+                  "powershell",
+                  "powershell-gallery",
+                  "powershell-module",
+                  "scan-ports",
+                  "scan-tool",
+                  "scanner",
+                  "security-audit",
+                  "security-automation",
+                  "security-scanner",
+                  "security-testing",
+                  "security-tools",
+                  "security-vulnerability",
+                  "shodan"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -3801,12 +5695,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Advanced PHP5 REST API for Shodan.io",
+                "homepage": null,
                 "id": 67522362,
                 "language": "PHP",
+                "license": "GPL-3.0",
                 "last_commit": "2024-04-05T19:17:23Z",
+                "open_issues": 0,
                 "owner": "ScadaExposure",
                 "repo": "Shodan-PHP-REST-API",
-                "stars": 111
+                "stars": 111,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -3817,12 +5716,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automating Jenkins Hacking using Shodan API",
+                "homepage": null,
                 "id": 125158377,
                 "language": "PHP",
+                "license": "Apache-2.0",
                 "last_commit": "2018-03-24T19:40:12Z",
+                "open_issues": 1,
                 "owner": "joesmithjaffa",
                 "repo": "jenkins-shell",
-                "stars": 94
+                "stars": 94,
+                "topics": [
+                  "hacking",
+                  "jenkins",
+                  "shodan",
+                  "shodan-api"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -3840,12 +5749,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A ClojureScript library providing wrappers for the JavaScript console API.",
+                "homepage": null,
                 "id": 12612757,
                 "language": "Clojure",
+                "license": null,
                 "last_commit": "2015-08-24T04:56:52Z",
+                "open_issues": 2,
                 "owner": "noprompt",
                 "repo": "shodan",
-                "stars": 110
+                "stars": 110,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -3863,12 +5777,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Perl library for SHODAN",
+                "homepage": "http://www.shodanhq.com",
                 "id": 902732,
                 "language": "Perl",
+                "license": "NOASSERTION",
                 "last_commit": "2013-10-10T21:27:00Z",
+                "open_issues": 0,
                 "owner": "achillean",
                 "repo": "shodan-perl",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -3879,12 +5798,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official ONYPHE Command Line Interface & ONYPHE Processing Pipeline to call ONYPHE APIs",
+                "homepage": "https://www.onyphe.io/docs",
                 "id": 155371379,
                 "language": "Perl",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-05-14T07:45:12Z",
+                "open_issues": 0,
                 "owner": "onyphe",
                 "repo": "cli",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -3902,12 +5826,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Crystal library for the Shodan API.",
+                "homepage": null,
                 "id": 160990914,
                 "language": "Crystal",
+                "license": "MIT",
                 "last_commit": "2021-12-20T11:56:32Z",
+                "open_issues": 3,
                 "owner": "PercussiveElbow",
                 "repo": "Shodan",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "api",
+                  "crystal",
+                  "crystal-lang",
+                  "shodan"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -3925,12 +5859,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":new_moon: R package to work with the Shodan API",
+                "homepage": "http://datadrivensecurity.info/blog/posts/2015/Aug/the-new-and-improved-r-shodan-package/",
                 "id": 40362567,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2018-02-14T23:31:50Z",
+                "open_issues": 1,
                 "owner": "hrbrmstr",
                 "repo": "shodan",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "r",
+                  "r-cyber",
+                  "rstats",
+                  "shodan",
+                  "shodan-api"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -3941,12 +5886,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "R interface to the Censys \"cyber\"/scans search engine • https://www.censys.io/tutorial",
+                "homepage": "https://hrbrmstr.github.io/censys/",
                 "id": 49443892,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2022-08-09T22:15:59Z",
+                "open_issues": 1,
                 "owner": "hrbrmstr",
                 "repo": "censys",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "censys-api",
+                  "censys-data",
+                  "r",
+                  "r-cyber",
+                  "rstats"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -3957,12 +5913,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Query 'GreyNoise Intelligence 'API' in R",
+                "homepage": null,
                 "id": 110595132,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2020-03-05T20:33:43Z",
+                "open_issues": 1,
                 "owner": "hrbrmstr",
                 "repo": "greynoise",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "greynoise-intelligence",
+                  "r",
+                  "r-cyber",
+                  "rstats"
+                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -3980,12 +5946,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "rusty shodan",
+                "homepage": null,
                 "id": 78915288,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2024-08-05T13:23:18Z",
+                "open_issues": 1,
                 "owner": "femiagbabiaka",
                 "repo": "shodan-rust",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             }
@@ -3999,15 +5970,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:43:53.077Z",
+    "last_updated": "2026-08-29T04:46:41.201Z",
     "original_repository_info": {
       "archived": false,
+      "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
+      "homepage": "https://cybdetective.com",
       "id": 742781775,
       "language": null,
+      "license": "MIT",
       "last_commit": "2025-08-27T13:47:27Z",
+      "open_issues": 3,
       "owner": "cipher387",
       "repo": "awesome-ip-search-engines",
-      "stars": 347
+      "stars": 347,
+      "topics": [
+        "360quake",
+        "awesome-list",
+        "criminalip",
+        "fofa",
+        "greynoise",
+        "hunter",
+        "netlas-io",
+        "onyphe",
+        "shodan",
+        "zoomeye"
+      ]
     },
     "original_repository_sha": "05a613a04bb9a5811272d6d35dd265688898e36f",
     "enhanced_repository": "enhansome/enhansome-ip-search-engines",

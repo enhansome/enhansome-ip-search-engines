@@ -415,7 +415,7 @@
 
 ## Mobile Apps and SDK
 
-* [Shodan Mobile App](https://github.com/PaulSec/Shodan.io-mobile-app) ⭐ 221 | 🐛 7 | 🌐 TypeScript | 📅 2026-06-05
+* [Shodan Mobile App](https://github.com/PaulSec/Shodan.io-mobile-app) ⭐ 222 | 🐛 7 | 🌐 TypeScript | 📅 2026-06-05
 * [Shodand](https://github.com/fooock/shodand) ⭐ 6 | 🐛 0 | 🌐 Java | 📅 2017-08-03
 * [ZoomEye Android SDK API](https://github.com/donglua/ZoomEye-API) ⭐ 4 | 🐛 0 | 🌐 Java | 📅 2016-05-05
 * [ZoomEye Android](https://github.com/donglua/ZoomEyeAndroid) ⭐ 3 | 🐛 0 | 🌐 Java | 📅 2016-05-05
@@ -479,8 +479,8 @@
 * [X-Fofa](https://github.com/sv3nbeast/X-Fofa) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2022-06-20
 * [:heartpulse:Netlas Official Python Library:heartpulse:](https://github.com/netlas-io/netlas-python) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2026-04-22
 * [ShodanSearchAssistant](https://github.com/KyxRecon/ShodanAPI) ⭐ 27 | 🐛 0 | 🌐 Python | 📅 2017-04-16
+* [ShodanFy](https://github.com/owlonex/Shodanfy.py) ⭐ 26 | 🐛 0 | 📅 2020-06-03
 * [:heartpulse:Netlas Email Search Python:heartpulse:](https://github.com/soxoj/netlas-email-search) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2023-08-04
-* [ShodanFy](https://github.com/owlonex/Shodanfy.py) ⭐ 25 | 🐛 0 | 📅 2020-06-03
 * [360Quake](https://github.com/test502git/360Quake) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2021-07-20
 * [Ozone Tool](https://github.com/wkend/0_zone_tool) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2023-09-22
 * [CruminalIP Python](https://github.com/choisg/criminalip-python) ⚠️ Archived
@@ -560,7 +560,7 @@
 * [Posh Shodan](https://github.com/darkoperator/Posh-Shodan) ⭐ 147 | 🐛 2 | 🌐 PowerShell | 📅 2016-02-18
 * [Shodan PS](https://github.com/simeononsecurity/Shodan_PS) ⭐ 24 | 🐛 0 | 🌐 PowerShell | 📅 2024-07-26
 * [GreyNoise PS](https://github.com/AndrewPla/GreyNoisePS) ⭐ 8 | 🐛 0 | 🌐 PowerShell | 📅 2024-09-19
-* [Use Onyphe](https://github.com/MS-LUF/Use-Onyphe) ⭐ 2 | 🐛 0 | 🌐 PowerShell | 📅 2026-08-27
+* [Use Onyphe](https://github.com/MS-LUF/Use-Onyphe) ⭐ 2 | 🐛 0 | 🌐 PowerShell | 📅 2026-08-28
 
 ## PHP Search Automation Tools
 
@@ -595,4 +595,4 @@ Thank you for following me! <https://cybdetective.com>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
