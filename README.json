@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "netlas-io",
                 "repo": "netlas-cookbook",
-                "stars": 888,
+                "stars": 889,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7680,
+                "stars": 7682,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -416,7 +416,7 @@
                 "open_issues": 0,
                 "owner": "mr-exo",
                 "repo": "shodan-dorks",
-                "stars": 110,
+                "stars": 111,
                 "topics": [
                   "devices",
                   "dorks",
@@ -1374,7 +1374,7 @@
                 "open_issues": 55,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4120,
+                "stars": 4121,
                 "topics": [
                   "bro",
                   "easm",
@@ -1416,7 +1416,7 @@
                 "open_issues": 1,
                 "owner": "s0md3v",
                 "repo": "Smap",
-                "stars": 3287,
+                "stars": 3288,
                 "topics": [
                   "network-scanner",
                   "network-security",
@@ -3680,7 +3680,7 @@
                 "open_issues": 5,
                 "owner": "G3et",
                 "repo": "Search_Viewer",
-                "stars": 792,
+                "stars": 791,
                 "topics": [
                   "censys",
                   "fofa",
@@ -3763,7 +3763,7 @@
                 "open_issues": 4,
                 "owner": "BullsEye0",
                 "repo": "shodan-eye",
-                "stars": 1354,
+                "stars": 1355,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3908,7 +3908,7 @@
                 "open_issues": 1,
                 "owner": "xzajyjs",
                 "repo": "ThunderSearch",
-                "stars": 670,
+                "stars": 669,
                 "topics": [
                   "cyberspace-search-engine",
                   "fofa",
@@ -4714,7 +4714,7 @@
                 "open_issues": 20,
                 "owner": "wgpsec",
                 "repo": "fofa_viewer",
-                "stars": 1800,
+                "stars": 1799,
                 "topics": [
                   "cybersecurity",
                   "fofa",
@@ -5970,7 +5970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T11:48:05.214Z",
+    "last_updated": "2026-08-30T10:44:30.011Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
@@ -5982,7 +5982,7 @@
       "open_issues": 3,
       "owner": "cipher387",
       "repo": "awesome-ip-search-engines",
-      "stars": 347,
+      "stars": 348,
       "topics": [
         "360quake",
         "awesome-list",
