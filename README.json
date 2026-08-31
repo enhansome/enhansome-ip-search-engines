@@ -1374,7 +1374,7 @@
                 "open_issues": 55,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4121,
+                "stars": 4122,
                 "topics": [
                   "bro",
                   "easm",
@@ -3385,7 +3385,7 @@
                 "open_issues": 7,
                 "owner": "PaulSec",
                 "repo": "Shodan.io-mobile-app",
-                "stars": 222,
+                "stars": 223,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3742,7 +3742,7 @@
                 "open_issues": 62,
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 2951,
+                "stars": 2953,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3763,7 +3763,7 @@
                 "open_issues": 4,
                 "owner": "BullsEye0",
                 "repo": "shodan-eye",
-                "stars": 1355,
+                "stars": 1356,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -4711,10 +4711,10 @@
                 "language": "Java",
                 "license": "MIT",
                 "last_commit": "2025-12-26T12:19:11Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "wgpsec",
                 "repo": "fofa_viewer",
-                "stars": 1799,
+                "stars": 1801,
                 "topics": [
                   "cybersecurity",
                   "fofa",
@@ -4889,7 +4889,7 @@
                 "open_issues": 0,
                 "owner": "bfu4",
                 "repo": "greynoise4j",
-                "stars": 1,
+                "stars": 0,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -5475,7 +5475,7 @@
                 "open_issues": 0,
                 "owner": "prophetl33t",
                 "repo": "ShodanCPP",
-                "stars": 38,
+                "stars": 39,
                 "topics": [
                   "cpp",
                   "shodan",
@@ -5970,7 +5970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T10:44:30.011Z",
+    "last_updated": "2026-08-31T11:53:40.604Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
