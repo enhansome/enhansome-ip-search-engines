@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7682,
+                "stars": 7684,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -247,7 +247,7 @@
                 "open_issues": 0,
                 "owner": "lothos612",
                 "repo": "shodan",
-                "stars": 593,
+                "stars": 592,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -289,7 +289,7 @@
                 "open_issues": 0,
                 "owner": "nullfuzz-pentest",
                 "repo": "shodan-dorks",
-                "stars": 544,
+                "stars": 545,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -322,7 +322,7 @@
                 "open_issues": 0,
                 "owner": "humblelad",
                 "repo": "Shodan-Dorks",
-                "stars": 541,
+                "stars": 540,
                 "topics": [
                   "cybersecurity",
                   "hacking",
@@ -370,11 +370,39 @@
                 "open_issues": 0,
                 "owner": "netlas-io",
                 "repo": "netlas-dorks",
-                "stars": 208,
+                "stars": 207,
                 "topics": [
                   "osint",
                   "penetration-testing",
                   "security-tools"
+                ]
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Shodan Dorks from @mr-exo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Here are the most interesting Shodan dorks (according to me)",
+                "homepage": null,
+                "id": 407226138,
+                "language": null,
+                "license": null,
+                "last_commit": "2023-12-10T13:07:42Z",
+                "open_issues": 0,
+                "owner": "mr-exo",
+                "repo": "shodan-dorks",
+                "stars": 112,
+                "topics": [
+                  "devices",
+                  "dorks",
+                  "iot",
+                  "shodan",
+                  "shodan-dorks",
+                  "shodandorks"
                 ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -395,36 +423,8 @@
                 "open_issues": 1,
                 "owner": "AustrianEnergyCERT",
                 "repo": "ICS_IoT_Shodan_Dorks",
-                "stars": 111,
+                "stars": 110,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T17:43:53.077Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Shodan Dorks from @mr-exo",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Here are the most interesting Shodan dorks (according to me)",
-                "homepage": null,
-                "id": 407226138,
-                "language": null,
-                "license": null,
-                "last_commit": "2023-12-10T13:07:42Z",
-                "open_issues": 0,
-                "owner": "mr-exo",
-                "repo": "shodan-dorks",
-                "stars": 111,
-                "topics": [
-                  "devices",
-                  "dorks",
-                  "iot",
-                  "shodan",
-                  "shodan-dorks",
-                  "shodandorks"
-                ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
             },
@@ -1374,7 +1374,7 @@
                 "open_issues": 55,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4122,
+                "stars": 4125,
                 "topics": [
                   "bro",
                   "easm",
@@ -1416,7 +1416,7 @@
                 "open_issues": 1,
                 "owner": "s0md3v",
                 "repo": "Smap",
-                "stars": 3288,
+                "stars": 3287,
                 "topics": [
                   "network-scanner",
                   "network-security",
@@ -1446,7 +1446,7 @@
                 "open_issues": 0,
                 "owner": "s0md3v",
                 "repo": "Silver",
-                "stars": 1054,
+                "stars": 1053,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -1563,7 +1563,7 @@
                 "open_issues": 1,
                 "owner": "0x27",
                 "repo": "ssh_keyscanner",
-                "stars": 117,
+                "stars": 118,
                 "topics": [
                   "fingerprint",
                   "hidden-services",
@@ -2464,7 +2464,7 @@
                 "open_issues": 14,
                 "owner": "woj-ciech",
                 "repo": "kamerka",
-                "stars": 1269,
+                "stars": 1268,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3385,7 +3385,7 @@
                 "open_issues": 7,
                 "owner": "PaulSec",
                 "repo": "Shodan.io-mobile-app",
-                "stars": 223,
+                "stars": 224,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3763,7 +3763,7 @@
                 "open_issues": 4,
                 "owner": "BullsEye0",
                 "repo": "shodan-eye",
-                "stars": 1356,
+                "stars": 1358,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3826,10 +3826,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-16T17:44:59Z",
-                "open_issues": 32,
+                "open_issues": 31,
                 "owner": "asaotomo",
                 "repo": "FofaMap",
-                "stars": 708,
+                "stars": 710,
                 "topics": [
                   "ai-agent",
                   "asset-discovery",
@@ -3940,7 +3940,7 @@
                 "open_issues": 12,
                 "owner": "RevoltSecurities",
                 "repo": "ShodanX",
-                "stars": 592,
+                "stars": 590,
                 "topics": [
                   "shodan",
                   "shodan-api",
@@ -3975,7 +3975,7 @@
                 "open_issues": 22,
                 "owner": "knownsec",
                 "repo": "ZoomEye-python",
-                "stars": 572,
+                "stars": 571,
                 "topics": [
                   "zoomeye",
                   "zoomeye-api",
@@ -4618,7 +4618,7 @@
                 "open_issues": 2,
                 "owner": "shubhamrooter",
                 "repo": "ShodanSpider",
-                "stars": 210,
+                "stars": 209,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -5177,7 +5177,7 @@
                 "language": "Go",
                 "license": "LGPL-3.0",
                 "last_commit": "2016-10-25T19:22:49Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "abadojack",
                 "repo": "gocensys",
                 "stars": 7,
@@ -5952,7 +5952,7 @@
                 "language": "Rust",
                 "license": "GPL-3.0",
                 "last_commit": "2024-08-05T13:23:18Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "femiagbabiaka",
                 "repo": "shodan-rust",
                 "stars": 51,
@@ -5970,7 +5970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T11:53:40.604Z",
+    "last_updated": "2026-09-01T10:33:05.827Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
