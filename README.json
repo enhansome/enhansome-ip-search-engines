@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7684,
+                "stars": 7688,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -247,7 +247,7 @@
                 "open_issues": 0,
                 "owner": "lothos612",
                 "repo": "shodan",
-                "stars": 592,
+                "stars": 593,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -1374,7 +1374,7 @@
                 "open_issues": 55,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4125,
+                "stars": 4127,
                 "topics": [
                   "bro",
                   "easm",
@@ -1416,7 +1416,7 @@
                 "open_issues": 1,
                 "owner": "s0md3v",
                 "repo": "Smap",
-                "stars": 3287,
+                "stars": 3289,
                 "topics": [
                   "network-scanner",
                   "network-security",
@@ -2111,27 +2111,6 @@
             },
             {
               "node_type": "item",
-              "title": "Pingpon Exploit Shodan",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Exploit for Mass Remote Code Execution on GPON home routers (CVE-2018-10562) obtained from Shodan.",
-                "homepage": null,
-                "id": 133550928,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2018-05-26T06:44:44Z",
-                "open_issues": 0,
-                "owner": "649",
-                "repo": "Pingpon-Exploit",
-                "stars": 24,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T17:43:53.077Z"
-            },
-            {
-              "node_type": "item",
               "title": "Mecashed DDos Exploit Free Shodan",
               "description": null,
               "children": [],
@@ -2146,6 +2125,27 @@
                 "open_issues": 0,
                 "owner": "add1ct3d",
                 "repo": "Memcrashed-DDoS-Exploit-Free",
+                "stars": 25,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Pingpon Exploit Shodan",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Exploit for Mass Remote Code Execution on GPON home routers (CVE-2018-10562) obtained from Shodan.",
+                "homepage": null,
+                "id": 133550928,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2018-05-26T06:44:44Z",
+                "open_issues": 0,
+                "owner": "649",
+                "repo": "Pingpon-Exploit",
                 "stars": 24,
                 "topics": []
               },
@@ -2214,7 +2214,7 @@
                 "open_issues": 0,
                 "owner": "tai-euler",
                 "repo": "Memcrashed-DDoS-Exploit_withoutShodan",
-                "stars": 13,
+                "stars": 14,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3759,11 +3759,11 @@
                 "id": 180435148,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-02T08:38:33Z",
+                "last_commit": "2026-09-01T13:25:10Z",
                 "open_issues": 4,
                 "owner": "BullsEye0",
                 "repo": "shodan-eye",
-                "stars": 1358,
+                "stars": 1357,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3784,7 +3784,7 @@
                 "open_issues": 5,
                 "owner": "random-robbie",
                 "repo": "My-Shodan-Scripts",
-                "stars": 1147,
+                "stars": 1148,
                 "topics": [
                   "shodan",
                   "shodan-scripts"
@@ -3829,7 +3829,7 @@
                 "open_issues": 31,
                 "owner": "asaotomo",
                 "repo": "FofaMap",
-                "stars": 710,
+                "stars": 716,
                 "topics": [
                   "ai-agent",
                   "asset-discovery",
@@ -3975,7 +3975,7 @@
                 "open_issues": 22,
                 "owner": "knownsec",
                 "repo": "ZoomEye-python",
-                "stars": 571,
+                "stars": 572,
                 "topics": [
                   "zoomeye",
                   "zoomeye-api",
@@ -4714,7 +4714,7 @@
                 "open_issues": 21,
                 "owner": "wgpsec",
                 "repo": "fofa_viewer",
-                "stars": 1801,
+                "stars": 1802,
                 "topics": [
                   "cybersecurity",
                   "fofa",
@@ -4802,7 +4802,7 @@
                 "open_issues": 3,
                 "owner": "fofapro",
                 "repo": "fofa-java",
-                "stars": 30,
+                "stars": 32,
                 "topics": [
                   "fofa",
                   "java"
@@ -5078,7 +5078,7 @@
                 "open_issues": 1,
                 "owner": "gyyyy",
                 "repo": "ZoomEye-go",
-                "stars": 43,
+                "stars": 42,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -5116,7 +5116,7 @@
                 "id": 348544027,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-10T23:44:46Z",
+                "last_commit": "2026-09-02T04:33:40Z",
                 "open_issues": 3,
                 "owner": "turbot",
                 "repo": "steampipe-plugin-shodan",
@@ -5970,7 +5970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T10:33:05.827Z",
+    "last_updated": "2026-09-02T09:59:06.760Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
