@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7688,
+                "stars": 7696,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -289,7 +289,7 @@
                 "open_issues": 0,
                 "owner": "nullfuzz-pentest",
                 "repo": "shodan-dorks",
-                "stars": 545,
+                "stars": 546,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1371,10 +1371,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-05T03:17:41Z",
-                "open_issues": 55,
+                "open_issues": 56,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4127,
+                "stars": 4129,
                 "topics": [
                   "bro",
                   "easm",
@@ -1416,7 +1416,7 @@
                 "open_issues": 1,
                 "owner": "s0md3v",
                 "repo": "Smap",
-                "stars": 3289,
+                "stars": 3290,
                 "topics": [
                   "network-scanner",
                   "network-security",
@@ -1446,7 +1446,7 @@
                 "open_issues": 0,
                 "owner": "s0md3v",
                 "repo": "Silver",
-                "stars": 1053,
+                "stars": 1052,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -1796,7 +1796,7 @@
                 "open_issues": 1,
                 "owner": "incogbyte",
                 "repo": "shosubgo",
-                "stars": 577,
+                "stars": 578,
                 "topics": [
                   "golang",
                   "grab-subdomains",
@@ -2464,7 +2464,7 @@
                 "open_issues": 14,
                 "owner": "woj-ciech",
                 "repo": "kamerka",
-                "stars": 1268,
+                "stars": 1267,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -2781,7 +2781,7 @@
                 "open_issues": 11,
                 "owner": "christophetd",
                 "repo": "CloudFlair",
-                "stars": 2974,
+                "stars": 2975,
                 "topics": [
                   "censys",
                   "cloudflare",
@@ -3763,7 +3763,7 @@
                 "open_issues": 4,
                 "owner": "BullsEye0",
                 "repo": "shodan-eye",
-                "stars": 1357,
+                "stars": 1358,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3829,7 +3829,7 @@
                 "open_issues": 31,
                 "owner": "asaotomo",
                 "repo": "FofaMap",
-                "stars": 716,
+                "stars": 718,
                 "topics": [
                   "ai-agent",
                   "asset-discovery",
@@ -3940,7 +3940,7 @@
                 "open_issues": 12,
                 "owner": "RevoltSecurities",
                 "repo": "ShodanX",
-                "stars": 590,
+                "stars": 592,
                 "topics": [
                   "shodan",
                   "shodan-api",
@@ -3975,7 +3975,7 @@
                 "open_issues": 22,
                 "owner": "knownsec",
                 "repo": "ZoomEye-python",
-                "stars": 572,
+                "stars": 573,
                 "topics": [
                   "zoomeye",
                   "zoomeye-api",
@@ -4639,7 +4639,7 @@
                 "open_issues": 0,
                 "owner": "netlas-io",
                 "repo": "netlas-scripts",
-                "stars": 51,
+                "stars": 52,
                 "topics": [
                   "netlas",
                   "osint",
@@ -5177,7 +5177,7 @@
                 "language": "Go",
                 "license": "LGPL-3.0",
                 "last_commit": "2016-10-25T19:22:49Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "abadojack",
                 "repo": "gocensys",
                 "stars": 7,
@@ -5952,7 +5952,7 @@
                 "language": "Rust",
                 "license": "GPL-3.0",
                 "last_commit": "2024-08-05T13:23:18Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "femiagbabiaka",
                 "repo": "shodan-rust",
                 "stars": 51,
@@ -5970,7 +5970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T09:59:06.760Z",
+    "last_updated": "2026-09-03T10:09:09.372Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
