@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "netlas-io",
                 "repo": "netlas-cookbook",
-                "stars": 889,
+                "stars": 888,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7696,
+                "stars": 7700,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -322,7 +322,7 @@
                 "open_issues": 0,
                 "owner": "humblelad",
                 "repo": "Shodan-Dorks",
-                "stars": 540,
+                "stars": 541,
                 "topics": [
                   "cybersecurity",
                   "hacking",
@@ -370,7 +370,7 @@
                 "open_issues": 0,
                 "owner": "netlas-io",
                 "repo": "netlas-dorks",
-                "stars": 207,
+                "stars": 208,
                 "topics": [
                   "osint",
                   "penetration-testing",
@@ -423,7 +423,7 @@
                 "open_issues": 1,
                 "owner": "AustrianEnergyCERT",
                 "repo": "ICS_IoT_Shodan_Dorks",
-                "stars": 110,
+                "stars": 111,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -1223,7 +1223,7 @@
                 "open_issues": 1,
                 "owner": "eremit4",
                 "repo": "favihunter",
-                "stars": 255,
+                "stars": 256,
                 "topics": [
                   "censys",
                   "criminalip",
@@ -1370,11 +1370,11 @@
                 "id": 23961941,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-05T03:17:41Z",
-                "open_issues": 56,
+                "last_commit": "2026-09-04T07:18:59Z",
+                "open_issues": 55,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4129,
+                "stars": 4130,
                 "topics": [
                   "bro",
                   "easm",
@@ -1416,7 +1416,7 @@
                 "open_issues": 1,
                 "owner": "s0md3v",
                 "repo": "Smap",
-                "stars": 3290,
+                "stars": 3293,
                 "topics": [
                   "network-scanner",
                   "network-security",
@@ -1446,7 +1446,7 @@
                 "open_issues": 0,
                 "owner": "s0md3v",
                 "repo": "Silver",
-                "stars": 1052,
+                "stars": 1054,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -1764,7 +1764,7 @@
                 "open_issues": 4,
                 "owner": "christophetd",
                 "repo": "censys-subdomain-finder",
-                "stars": 845,
+                "stars": 843,
                 "topics": [
                   "bugbounty",
                   "certificate-transparency-logs",
@@ -1796,7 +1796,7 @@
                 "open_issues": 1,
                 "owner": "incogbyte",
                 "repo": "shosubgo",
-                "stars": 578,
+                "stars": 579,
                 "topics": [
                   "golang",
                   "grab-subdomains",
@@ -2464,7 +2464,7 @@
                 "open_issues": 14,
                 "owner": "woj-ciech",
                 "repo": "kamerka",
-                "stars": 1267,
+                "stars": 1265,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3739,7 +3739,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2024-08-05T13:11:50Z",
-                "open_issues": 62,
+                "open_issues": 63,
                 "owner": "achillean",
                 "repo": "shodan-python",
                 "stars": 2953,
@@ -3763,7 +3763,7 @@
                 "open_issues": 4,
                 "owner": "BullsEye0",
                 "repo": "shodan-eye",
-                "stars": 1358,
+                "stars": 1360,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3784,7 +3784,7 @@
                 "open_issues": 5,
                 "owner": "random-robbie",
                 "repo": "My-Shodan-Scripts",
-                "stars": 1148,
+                "stars": 1149,
                 "topics": [
                   "shodan",
                   "shodan-scripts"
@@ -3808,7 +3808,7 @@
                 "open_issues": 6,
                 "owner": "Cl0udG0d",
                 "repo": "Fofa-hack",
-                "stars": 883,
+                "stars": 884,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3829,7 +3829,7 @@
                 "open_issues": 31,
                 "owner": "asaotomo",
                 "repo": "FofaMap",
-                "stars": 718,
+                "stars": 719,
                 "topics": [
                   "ai-agent",
                   "asset-discovery",
@@ -3975,7 +3975,7 @@
                 "open_issues": 22,
                 "owner": "knownsec",
                 "repo": "ZoomEye-python",
-                "stars": 573,
+                "stars": 572,
                 "topics": [
                   "zoomeye",
                   "zoomeye-api",
@@ -4714,7 +4714,7 @@
                 "open_issues": 21,
                 "owner": "wgpsec",
                 "repo": "fofa_viewer",
-                "stars": 1802,
+                "stars": 1803,
                 "topics": [
                   "cybersecurity",
                   "fofa",
@@ -5970,7 +5970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T10:09:09.372Z",
+    "last_updated": "2026-09-04T10:00:11.081Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
