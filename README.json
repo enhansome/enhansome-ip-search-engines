@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7701,
+                "stars": 7704,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -289,7 +289,7 @@
                 "open_issues": 0,
                 "owner": "nullfuzz-pentest",
                 "repo": "shodan-dorks",
-                "stars": 546,
+                "stars": 545,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1374,7 +1374,7 @@
                 "open_issues": 55,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4130,
+                "stars": 4134,
                 "topics": [
                   "bro",
                   "easm",
@@ -1416,7 +1416,7 @@
                 "open_issues": 1,
                 "owner": "s0md3v",
                 "repo": "Smap",
-                "stars": 3293,
+                "stars": 3294,
                 "topics": [
                   "network-scanner",
                   "network-security",
@@ -2007,7 +2007,7 @@
                 "open_issues": 2,
                 "owner": "649",
                 "repo": "Crashcast-Exploit",
-                "stars": 164,
+                "stars": 165,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3940,7 +3940,7 @@
                 "open_issues": 12,
                 "owner": "RevoltSecurities",
                 "repo": "ShodanX",
-                "stars": 592,
+                "stars": 591,
                 "topics": [
                   "shodan",
                   "shodan-api",
@@ -4945,7 +4945,7 @@
                 "open_issues": 2,
                 "owner": "xiecat",
                 "repo": "fofax",
-                "stars": 838,
+                "stars": 839,
                 "topics": [
                   "fofa",
                   "fofa-cli",
@@ -5657,7 +5657,7 @@
                 "id": 114481399,
                 "language": "PowerShell",
                 "license": null,
-                "last_commit": "2026-08-28T20:30:05Z",
+                "last_commit": "2026-09-06T06:17:39Z",
                 "open_issues": 0,
                 "owner": "MS-LUF",
                 "repo": "Use-Onyphe",
@@ -5970,7 +5970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T09:29:29.852Z",
+    "last_updated": "2026-09-06T09:43:17.033Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
@@ -5982,7 +5982,7 @@
       "open_issues": 3,
       "owner": "cipher387",
       "repo": "awesome-ip-search-engines",
-      "stars": 348,
+      "stars": 349,
       "topics": [
         "360quake",
         "awesome-list",
