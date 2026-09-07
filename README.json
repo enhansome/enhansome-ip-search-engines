@@ -73,7 +73,7 @@
                 "open_issues": 0,
                 "owner": "FofaInfo",
                 "repo": "Awesome-FOFA",
-                "stars": 350,
+                "stars": 351,
                 "topics": [
                   "cybersecurity",
                   "fofa",
@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7704,
+                "stars": 7706,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1374,7 +1374,7 @@
                 "open_issues": 55,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4134,
+                "stars": 4135,
                 "topics": [
                   "bro",
                   "easm",
@@ -1416,7 +1416,7 @@
                 "open_issues": 1,
                 "owner": "s0md3v",
                 "repo": "Smap",
-                "stars": 3294,
+                "stars": 3296,
                 "topics": [
                   "network-scanner",
                   "network-security",
@@ -1796,7 +1796,7 @@
                 "open_issues": 1,
                 "owner": "incogbyte",
                 "repo": "shosubgo",
-                "stars": 579,
+                "stars": 580,
                 "topics": [
                   "golang",
                   "grab-subdomains",
@@ -3009,7 +3009,7 @@
                 "open_issues": 2,
                 "owner": "montysecurity",
                 "repo": "C2-Tracker",
-                "stars": 784,
+                "stars": 785,
                 "topics": [
                   "cybersecurity",
                   "infosec",
@@ -3739,10 +3739,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2024-08-05T13:11:50Z",
-                "open_issues": 63,
+                "open_issues": 64,
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 2954,
+                "stars": 2955,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3829,7 +3829,7 @@
                 "open_issues": 31,
                 "owner": "asaotomo",
                 "repo": "FofaMap",
-                "stars": 719,
+                "stars": 720,
                 "topics": [
                   "ai-agent",
                   "asset-discovery",
@@ -5970,7 +5970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T09:43:17.033Z",
+    "last_updated": "2026-09-07T10:46:20.516Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
