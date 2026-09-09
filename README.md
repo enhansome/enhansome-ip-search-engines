@@ -193,7 +193,7 @@
 
 ## "Dorks"/queries Lists
 
-* [Awesome Shodan Queries](https://github.com/jakejarvis/awesome-shodan-queries) ⭐ 7,705 | 🐛 13 | 📅 2024-05-27
+* [Awesome Shodan Queries](https://github.com/jakejarvis/awesome-shodan-queries) ⭐ 7,708 | 🐛 13 | 📅 2024-05-27
 * [Awesome Censys Queries](https://github.com/thehappydinoa/awesome-censys-queries) ⭐ 1,241 | 🐛 2 | 🌐 Python | 📅 2026-07-20
 * [Shodan Dorks from @lothos612](https://github.com/lothos612/shodan) ⭐ 593 | 🐛 0 | 📅 2023-03-31
 * [Shodan filters](https://github.com/JavierOlmedo/shodan-filters) ⭐ 588 | 🐛 2 | 📅 2018-11-25
@@ -422,7 +422,7 @@
 
 ## Discord Bots
 
-* [Discord ShodanBot](https://github.com/RocketGod-git/shodanbot) ⭐ 92 | 🐛 0 | 🌐 Python | 📅 2024-03-08
+* [Discord ShodanBot](https://github.com/RocketGod-git/shodanbot) ⭐ 91 | 🐛 0 | 🌐 Python | 📅 2024-03-08
 
 ## IRC Bots
 
@@ -455,11 +455,11 @@
 
 ## Python Search Automation Tools
 
-* [Shodan Python Library](https://github.com/achillean/shodan-python) ⭐ 2,955 | 🐛 64 | 🌐 Python | 📅 2024-08-05
-* [Shodan Eye](https://github.com/BullsEye0/shodan-eye) ⭐ 1,363 | 🐛 4 | 🌐 Python | 📅 2026-09-01
+* [Shodan Python Library](https://github.com/achillean/shodan-python) ⭐ 2,957 | 🐛 64 | 🌐 Python | 📅 2024-08-05
+* [Shodan Eye](https://github.com/BullsEye0/shodan-eye) ⭐ 1,364 | 🐛 4 | 🌐 Python | 📅 2026-09-01
 * ["My Shodan scripts"](https://github.com/random-robbie/My-Shodan-Scripts) ⭐ 1,151 | 🐛 5 | 🌐 Python | 📅 2026-01-14
 * [FofaHack](https://github.com/Cl0udG0d/Fofa-hack) ⭐ 884 | 🐛 6 | 🌐 Python | 📅 2025-10-28
-* [FofaMap](https://github.com/asaotomo/FofaMap) ⭐ 722 | 🐛 31 | 🌐 Python | 📅 2026-08-16
+* [FofaMap](https://github.com/asaotomo/FofaMap) ⭐ 721 | 🐛 31 | 🌐 Python | 📅 2026-08-16
 * [Sarenka (universal)](https://github.com/KTZgraph/sarenka) ⭐ 674 | 🐛 52 | 🌐 Python | 📅 2023-05-04
 * [ThunderSearch](https://github.com/xzajyjs/ThunderSearch) ⭐ 669 | 🐛 1 | 🌐 Python | 📅 2024-12-06
 * [ShodanX](https://github.com/sanjai-AK47/ShodanX) ⭐ 591 | 🐛 12 | 🌐 Python | 📅 2025-05-14
@@ -503,7 +503,7 @@
 
 ## Java Search Automation Tools
 
-* [Fofa Viewer](https://github.com/wgpsec/fofa_viewer) ⭐ 1,803 | 🐛 21 | 🌐 Java | 📅 2025-12-26
+* [Fofa Viewer](https://github.com/wgpsec/fofa_viewer) ⭐ 1,804 | 🐛 21 | 🌐 Java | 📅 2025-12-26
 * [fofaEX](https://github.com/10cks/fofaEX) ⭐ 240 | 🐛 6 | 🌐 Java | 📅 2024-07-24
 * [JShodan](https://github.com/fooock/jshodan) ⭐ 77 | 🐛 3 | 🌐 Java | 📅 2024-08-05
 * [Fofa Java](https://github.com/fofapro/fofa-java) ⭐ 32 | 🐛 3 | 🌐 Java | 📅 2023-08-27
@@ -519,7 +519,7 @@
 * [FoFax](https://github.com/xiecat/fofax) ⭐ 839 | 🐛 2 | 🌐 Go | 📅 2026-03-06
 * [Go Shodan](https://github.com/ns3777k/go-shodan) ⭐ 219 | 🐛 0 | 🌐 Go | 📅 2022-01-12
 * [Shomon (Shodan Monitoring integration for TheHive)](https://github.com/KaanSK/shomon) ⭐ 130 | 🐛 0 | 🌐 Go | 📅 2024-12-12
-* [Shodan Go Client](https://github.com/shadowscatcher/shodan) ⭐ 121 | 🐛 1 | 🌐 Go | 📅 2024-12-15
+* [Shodan Go Client](https://github.com/shadowscatcher/shodan) ⭐ 122 | 🐛 1 | 🌐 Go | 📅 2024-12-15
 * [Shodanidb (Fetch data (open ports, CVEs, CPEs, ...) from shodan internetDB API)](https://github.com/s4hm4d/shodanidb) ⭐ 92 | 🐛 0 | 🌐 Go | 📅 2023-01-09
 * [ZoomEye Go](https://github.com/gyyyy/ZoomEye-go) ⭐ 42 | 🐛 1 | 🌐 Go | 📅 2021-03-31
 * [Fofa Go](https://github.com/fofapro/fofa-go) ⭐ 37 | 🐛 2 | 🌐 Go | 📅 2020-03-17
@@ -533,7 +533,7 @@
 
 ## Ruby Search Automation Tools
 
-* [Shodanz](https://github.com/picatz/shodanz) ⭐ 135 | 🐛 4 | 🌐 Ruby | 📅 2024-08-18
+* [Shodanz](https://github.com/picatz/shodanz) ⭐ 136 | 🐛 4 | 🌐 Ruby | 📅 2024-08-18
 * [Shodan Ruby](https://github.com/achillean/shodan-ruby) ⚠️ Archived
 * [Censys Ruby](https://github.com/trailofbits/censys-ruby) ⭐ 9 | 🐛 6 | 🌐 Ruby | 📅 2024-09-12
 * [GreyNoise](https://github.com/ninoseki/greynoise) ⚠️ Archived
@@ -589,10 +589,10 @@
 
 ## Rust Search Automation Tools
 
-* [Shodan Rust](https://github.com/femiagbabiaka/shodan-rust) ⭐ 51 | 🐛 1 | 🌐 Rust | 📅 2024-08-05
+* [Shodan Rust](https://github.com/femiagbabiaka/shodan-rust) ⭐ 52 | 🐛 1 | 🌐 Rust | 📅 2024-08-05
 
 Thank you for following me! <https://cybdetective.com>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._

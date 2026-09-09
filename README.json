@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7705,
+                "stars": 7708,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3488,7 +3488,7 @@
                 "open_issues": 0,
                 "owner": "RocketGod-git",
                 "repo": "shodanbot",
-                "stars": 92,
+                "stars": 91,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3742,7 +3742,7 @@
                 "open_issues": 64,
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 2955,
+                "stars": 2957,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3763,7 +3763,7 @@
                 "open_issues": 4,
                 "owner": "BullsEye0",
                 "repo": "shodan-eye",
-                "stars": 1363,
+                "stars": 1364,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3829,7 +3829,7 @@
                 "open_issues": 31,
                 "owner": "asaotomo",
                 "repo": "FofaMap",
-                "stars": 722,
+                "stars": 721,
                 "topics": [
                   "ai-agent",
                   "asset-discovery",
@@ -4714,7 +4714,7 @@
                 "open_issues": 21,
                 "owner": "wgpsec",
                 "repo": "fofa_viewer",
-                "stars": 1803,
+                "stars": 1804,
                 "topics": [
                   "cybersecurity",
                   "fofa",
@@ -5029,7 +5029,7 @@
                 "open_issues": 1,
                 "owner": "shadowscatcher",
                 "repo": "shodan",
-                "stars": 121,
+                "stars": 122,
                 "topics": [
                   "golang",
                   "intelligence-gathering",
@@ -5273,7 +5273,7 @@
                 "open_issues": 4,
                 "owner": "picatz",
                 "repo": "shodanz",
-                "stars": 135,
+                "stars": 136,
                 "topics": [
                   "information-security",
                   "internet-of-things",
@@ -5955,7 +5955,7 @@
                 "open_issues": 1,
                 "owner": "femiagbabiaka",
                 "repo": "shodan-rust",
-                "stars": 51,
+                "stars": 52,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -5970,7 +5970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T10:07:08.456Z",
+    "last_updated": "2026-09-09T10:09:32.643Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
