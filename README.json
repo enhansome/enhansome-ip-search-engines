@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7716,
+                "stars": 7717,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -370,7 +370,7 @@
                 "open_issues": 0,
                 "owner": "netlas-io",
                 "repo": "netlas-dorks",
-                "stars": 208,
+                "stars": 209,
                 "topics": [
                   "osint",
                   "penetration-testing",
@@ -1374,7 +1374,7 @@
                 "open_issues": 52,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4139,
+                "stars": 4140,
                 "topics": [
                   "bro",
                   "easm",
@@ -1796,7 +1796,7 @@
                 "open_issues": 1,
                 "owner": "incogbyte",
                 "repo": "shosubgo",
-                "stars": 579,
+                "stars": 580,
                 "topics": [
                   "golang",
                   "grab-subdomains",
@@ -2125,7 +2125,7 @@
                 "open_issues": 0,
                 "owner": "add1ct3d",
                 "repo": "Memcrashed-DDoS-Exploit-Free",
-                "stars": 25,
+                "stars": 26,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3742,7 +3742,7 @@
                 "open_issues": 64,
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 2960,
+                "stars": 2961,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3829,7 +3829,7 @@
                 "open_issues": 31,
                 "owner": "asaotomo",
                 "repo": "FofaMap",
-                "stars": 722,
+                "stars": 723,
                 "topics": [
                   "ai-agent",
                   "asset-discovery",
@@ -4714,7 +4714,7 @@
                 "open_issues": 21,
                 "owner": "wgpsec",
                 "repo": "fofa_viewer",
-                "stars": 1806,
+                "stars": 1807,
                 "topics": [
                   "cybersecurity",
                   "fofa",
@@ -5970,7 +5970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T10:02:26.738Z",
+    "last_updated": "2026-09-12T09:38:11.542Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
