@@ -145,7 +145,7 @@
 
 * :heartpulse: [Netlas Cookbook](https://github.com/netlas-io/netlas-cookbook) ⭐ 889 | 🐛 0 | 🌐 Python | 📅 2025-06-27 :heartpulse:
 * [Shodan Dojo](https://github.com/ninoseki/shodan-dojo) ⭐ 472 | 🐛 0 | 🌐 Python | 📅 2020-08-07
-* [Awesome FOFA](https://github.com/FofaInfo/Awesome-FOFA) ⭐ 352 | 🐛 0 | 📅 2026-09-10
+* [Awesome FOFA](https://github.com/FofaInfo/Awesome-FOFA) ⭐ 353 | 🐛 0 | 📅 2026-09-10
 * [GreyNoise API Documentation](https://github.com/GreyNoise-Intelligence/api.greynoise.io) ⭐ 320 | 🐛 1 | 📅 2021-04-02
 * [Censys Search Mindmap](https://github.com/censys-workshop/censys-search-mindmap) ⭐ 15 | 🐛 0 | 📅 2025-09-17
 * [Onyphe Training Materials](https://github.com/onyphe/material) ⭐ 6 | 🐛 0 | 🌐 Perl | 📅 2025-10-16
@@ -193,9 +193,9 @@
 
 ## "Dorks"/queries Lists
 
-* [Awesome Shodan Queries](https://github.com/jakejarvis/awesome-shodan-queries) ⭐ 7,717 | 🐛 13 | 📅 2024-05-27
-* [Awesome Censys Queries](https://github.com/thehappydinoa/awesome-censys-queries) ⭐ 1,240 | 🐛 2 | 🌐 Python | 📅 2026-07-20
-* [Shodan Dorks from @lothos612](https://github.com/lothos612/shodan) ⭐ 594 | 🐛 0 | 📅 2023-03-31
+* [Awesome Shodan Queries](https://github.com/jakejarvis/awesome-shodan-queries) ⭐ 7,720 | 🐛 13 | 📅 2024-05-27
+* [Awesome Censys Queries](https://github.com/thehappydinoa/awesome-censys-queries) ⭐ 1,241 | 🐛 2 | 🌐 Python | 📅 2026-07-20
+* [Shodan Dorks from @lothos612](https://github.com/lothos612/shodan) ⭐ 595 | 🐛 0 | 📅 2023-03-31
 * [Shodan filters](https://github.com/JavierOlmedo/shodan-filters) ⭐ 588 | 🐛 2 | 📅 2018-11-25
 * [Shodan dorks from @nullfuzz](https://github.com/nullfuzz-pentest/shodan-dorks) ⭐ 546 | 🐛 0 | 📅 2026-04-21
 * [Shodan Dorks from @humblelad](https://github.com/humblelad/Shodan-Dorks) ⭐ 541 | 🐛 0 | 📅 2020-05-26
@@ -233,7 +233,7 @@
 
 ## Integrations and plugins
 
-* [Fofa Xray Plugin](https://github.com/Miagz/XrayFofa) ⭐ 247 | 🐛 9 | 🌐 Python | 📅 2023-09-04
+* [Fofa Xray Plugin](https://github.com/Miagz/XrayFofa) ⭐ 246 | 🐛 9 | 🌐 Python | 📅 2023-09-04
 * [PhishStats Shodan](https://github.com/eschultze/phishstats-api-network) ⭐ 78 | 🐛 1 | 🌐 Python | 📅 2024-08-12
 * [URlScan Shodan](https://github.com/montysecurity/InfraHunter) ⭐ 64 | 🐛 0 | 🌐 Python | 📅 2024-07-18
 * [ThreatFox Censys](https://github.com/censys-workshop/threatfox-censys) ⭐ 41 | 🐛 8 | 🌐 Python | 📅 2026-03-30
@@ -271,16 +271,16 @@
 
 ## Favicon search Tools
 
-* [Fav up](https://github.com/pielco11/fav-up) ⭐ 1,199 | 🐛 3 | 🌐 Python | 📅 2025-02-05
+* [Fav up](https://github.com/pielco11/fav-up) ⭐ 1,198 | 🐛 3 | 🌐 Python | 📅 2025-02-05
 * [FaviHunter](https://github.com/eremit4/favihunter) ⭐ 257 | 🐛 1 | 🌐 Python | 📅 2026-08-14
 * [Get IP by ICO](https://github.com/Ridter/get_ip_by_ico) ⭐ 186 | 🐛 1 | 🌐 Python | 📅 2019-02-16
 * [IconHash](https://github.com/Becivells/iconhash) ⚠️ Archived
-* [Favicon Hash Shodan](https://github.com/phor3nsic/favicon_hash_shodan) ⭐ 100 | 🐛 1 | 🌐 Python | 📅 2026-06-24
+* [Favicon Hash Shodan](https://github.com/phor3nsic/favicon_hash_shodan) ⭐ 101 | 🐛 1 | 🌐 Python | 📅 2026-06-24
 * [Shodanist](https://github.com/eternyle/ShodanIsh) ⭐ 26 | 🐛 0 | 🌐 Python | 📅 2024-05-25
 
 ## Network/port Scanners
 
-* [IVRE (universal)](https://github.com/ivre/ivre) ⭐ 4,140 | 🐛 52 | 🌐 Python | 📅 2026-09-10
+* [IVRE (universal)](https://github.com/ivre/ivre) ⭐ 4,141 | 🐛 52 | 🌐 Python | 📅 2026-09-10
 * [Smap (Shodan)](https://github.com/s0md3v/Smap) ⭐ 3,298 | 🐛 1 | 🌐 Go | 📅 2026-08-15
 * [Silver (Shodan)](https://github.com/s0md3v/Silver) ⭐ 1,054 | 🐛 0 | 📅 2026-04-26
 * [MEC (ZoomEye)](https://github.com/jm33-m0/mec) ⭐ 615 | 🐛 0 | 🌐 Python | 📅 2022-07-14
@@ -455,7 +455,7 @@
 
 ## Python Search Automation Tools
 
-* [Shodan Python Library](https://github.com/achillean/shodan-python) ⭐ 2,961 | 🐛 64 | 🌐 Python | 📅 2024-08-05
+* [Shodan Python Library](https://github.com/achillean/shodan-python) ⭐ 2,963 | 🐛 64 | 🌐 Python | 📅 2024-08-05
 * [Shodan Eye](https://github.com/BullsEye0/shodan-eye) ⭐ 1,364 | 🐛 4 | 🌐 Python | 📅 2026-09-01
 * ["My Shodan scripts"](https://github.com/random-robbie/My-Shodan-Scripts) ⭐ 1,152 | 🐛 5 | 🌐 Python | 📅 2026-01-14
 * [FofaHack](https://github.com/Cl0udG0d/Fofa-hack) ⭐ 883 | 🐛 6 | 🌐 Python | 📅 2025-10-28
@@ -516,7 +516,7 @@
 ## Go Search Automation Tools
 
 * [Xray (Shodan)](https://github.com/evilsocket/xray) ⚠️ Archived
-* [FoFax](https://github.com/xiecat/fofax) ⭐ 839 | 🐛 2 | 🌐 Go | 📅 2026-03-06
+* [FoFax](https://github.com/xiecat/fofax) ⭐ 840 | 🐛 2 | 🌐 Go | 📅 2026-03-06
 * [Go Shodan](https://github.com/ns3777k/go-shodan) ⭐ 219 | 🐛 0 | 🌐 Go | 📅 2022-01-12
 * [Shomon (Shodan Monitoring integration for TheHive)](https://github.com/KaanSK/shomon) ⭐ 130 | 🐛 0 | 🌐 Go | 📅 2024-12-12
 * [Shodan Go Client](https://github.com/shadowscatcher/shodan) ⭐ 122 | 🐛 1 | 🌐 Go | 📅 2024-12-15
@@ -595,4 +595,4 @@ Thank you for following me! <https://cybdetective.com>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
