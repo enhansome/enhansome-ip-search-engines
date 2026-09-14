@@ -69,11 +69,11 @@
                 "id": 613252543,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-09-10T09:10:47Z",
+                "last_commit": "2026-09-14T02:16:24Z",
                 "open_issues": 0,
                 "owner": "FofaInfo",
                 "repo": "Awesome-FOFA",
-                "stars": 353,
+                "stars": 354,
                 "topics": [
                   "cybersecurity",
                   "fofa",
@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7720,
+                "stars": 7723,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1374,7 +1374,7 @@
                 "open_issues": 52,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4141,
+                "stars": 4142,
                 "topics": [
                   "bro",
                   "easm",
@@ -3385,7 +3385,7 @@
                 "open_issues": 7,
                 "owner": "PaulSec",
                 "repo": "Shodan.io-mobile-app",
-                "stars": 226,
+                "stars": 227,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3763,7 +3763,7 @@
                 "open_issues": 4,
                 "owner": "BullsEye0",
                 "repo": "shodan-eye",
-                "stars": 1364,
+                "stars": 1366,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3829,7 +3829,7 @@
                 "open_issues": 31,
                 "owner": "asaotomo",
                 "repo": "FofaMap",
-                "stars": 723,
+                "stars": 724,
                 "topics": [
                   "ai-agent",
                   "asset-discovery",
@@ -4203,27 +4203,6 @@
             },
             {
               "node_type": "item",
-              "title": "Shodan_So",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Search Assistant: Searching shodan via API.",
-                "homepage": null,
-                "id": 122934776,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2018-12-18T14:00:02Z",
-                "open_issues": 4,
-                "owner": "zev3n",
-                "repo": "Shodan_So",
-                "stars": 65,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T17:43:53.077Z"
-            },
-            {
-              "node_type": "item",
               "title": "Shodan Seeker",
               "description": null,
               "children": [],
@@ -4239,6 +4218,27 @@
                 "owner": "laincode",
                 "repo": "shodan-seeker",
                 "stars": 65,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Shodan_So",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Search Assistant: Searching shodan via API.",
+                "homepage": null,
+                "id": 122934776,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2018-12-18T14:00:02Z",
+                "open_issues": 4,
+                "owner": "zev3n",
+                "repo": "Shodan_So",
+                "stars": 64,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -5970,7 +5970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T10:39:24.036Z",
+    "last_updated": "2026-09-14T10:59:59.550Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
@@ -5982,7 +5982,7 @@
       "open_issues": 3,
       "owner": "cipher387",
       "repo": "awesome-ip-search-engines",
-      "stars": 349,
+      "stars": 351,
       "topics": [
         "360quake",
         "awesome-list",
