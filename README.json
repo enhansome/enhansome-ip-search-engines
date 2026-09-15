@@ -73,7 +73,7 @@
                 "open_issues": 0,
                 "owner": "FofaInfo",
                 "repo": "Awesome-FOFA",
-                "stars": 354,
+                "stars": 356,
                 "topics": [
                   "cybersecurity",
                   "fofa",
@@ -1374,7 +1374,7 @@
                 "open_issues": 52,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4142,
+                "stars": 4145,
                 "topics": [
                   "bro",
                   "easm",
@@ -1416,7 +1416,7 @@
                 "open_issues": 1,
                 "owner": "s0md3v",
                 "repo": "Smap",
-                "stars": 3298,
+                "stars": 3297,
                 "topics": [
                   "network-scanner",
                   "network-security",
@@ -3680,7 +3680,7 @@
                 "open_issues": 5,
                 "owner": "G3et",
                 "repo": "Search_Viewer",
-                "stars": 791,
+                "stars": 790,
                 "topics": [
                   "censys",
                   "fofa",
@@ -3763,7 +3763,7 @@
                 "open_issues": 4,
                 "owner": "BullsEye0",
                 "repo": "shodan-eye",
-                "stars": 1366,
+                "stars": 1367,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3908,7 +3908,7 @@
                 "open_issues": 1,
                 "owner": "xzajyjs",
                 "repo": "ThunderSearch",
-                "stars": 669,
+                "stars": 667,
                 "topics": [
                   "cyberspace-search-engine",
                   "fofa",
@@ -4714,7 +4714,7 @@
                 "open_issues": 21,
                 "owner": "wgpsec",
                 "repo": "fofa_viewer",
-                "stars": 1807,
+                "stars": 1806,
                 "topics": [
                   "cybersecurity",
                   "fofa",
@@ -4742,7 +4742,7 @@
                 "open_issues": 6,
                 "owner": "10cks",
                 "repo": "fofaEX",
-                "stars": 240,
+                "stars": 239,
                 "topics": [
                   "cybersecurity",
                   "fofa",
@@ -5970,7 +5970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T10:59:59.550Z",
+    "last_updated": "2026-09-15T10:30:16.059Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
