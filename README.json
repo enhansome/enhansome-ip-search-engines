@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7729,
+                "stars": 7732,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1374,7 +1374,7 @@
                 "open_issues": 52,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4147,
+                "stars": 4148,
                 "topics": [
                   "bro",
                   "easm",
@@ -1467,7 +1467,7 @@
                 "open_issues": 0,
                 "owner": "jm33-m0",
                 "repo": "mec",
-                "stars": 615,
+                "stars": 614,
                 "topics": [
                   "adapted-exploits",
                   "baidu-search",
@@ -1764,7 +1764,7 @@
                 "open_issues": 4,
                 "owner": "christophetd",
                 "repo": "censys-subdomain-finder",
-                "stars": 843,
+                "stars": 844,
                 "topics": [
                   "bugbounty",
                   "certificate-transparency-logs",
@@ -3742,7 +3742,7 @@
                 "open_issues": 64,
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 3060,
+                "stars": 3094,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3829,7 +3829,7 @@
                 "open_issues": 31,
                 "owner": "asaotomo",
                 "repo": "FofaMap",
-                "stars": 728,
+                "stars": 729,
                 "topics": [
                   "ai-agent",
                   "asset-discovery",
@@ -4917,7 +4917,7 @@
                 "open_issues": 5,
                 "owner": "evilsocket",
                 "repo": "xray",
-                "stars": 2331,
+                "stars": 2332,
                 "topics": [
                   "intelligence",
                   "mapping",
@@ -5116,8 +5116,8 @@
                 "id": 348544027,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T04:33:40Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-17T21:37:32Z",
+                "open_issues": 6,
                 "owner": "turbot",
                 "repo": "steampipe-plugin-shodan",
                 "stars": 29,
@@ -5207,6 +5207,34 @@
                 ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Netlas Go Library",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "netlas cli in go",
+                "homepage": null,
+                "id": 474366030,
+                "language": "Go",
+                "license": null,
+                "last_commit": "2022-03-26T15:30:05Z",
+                "open_issues": 0,
+                "owner": "mmpx12",
+                "repo": "netlas-go",
+                "stars": 3,
+                "topics": [
+                  "go",
+                  "golang",
+                  "netlas-io",
+                  "pentest",
+                  "recon",
+                  "reconnaissance"
+                ]
+              },
+              "first_seen": "2026-09-18T10:05:32.035Z"
             },
             {
               "node_type": "item",
@@ -5970,7 +5998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T10:28:53.336Z",
+    "last_updated": "2026-09-18T10:05:32.035Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
