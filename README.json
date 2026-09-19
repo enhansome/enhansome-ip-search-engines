@@ -17,11 +17,11 @@
                 "id": 703597759,
                 "language": "Python",
                 "license": "CC0-1.0",
-                "last_commit": "2025-06-27T07:54:56Z",
+                "last_commit": "2026-09-18T10:32:49Z",
                 "open_issues": 0,
                 "owner": "netlas-io",
                 "repo": "netlas-cookbook",
-                "stars": 889,
+                "stars": 890,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -100,7 +100,7 @@
                 "open_issues": 1,
                 "owner": "GreyNoise-Intelligence",
                 "repo": "api.greynoise.io",
-                "stars": 320,
+                "stars": 321,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7732,
+                "stars": 7737,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -289,7 +289,7 @@
                 "open_issues": 0,
                 "owner": "nullfuzz-pentest",
                 "repo": "shodan-dorks",
-                "stars": 546,
+                "stars": 547,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1191,7 +1191,7 @@
                 "open_issues": 3,
                 "owner": "pielco11",
                 "repo": "fav-up",
-                "stars": 1199,
+                "stars": 1200,
                 "topics": [
                   "cloudflare",
                   "cloudflare-bypass",
@@ -1374,7 +1374,7 @@
                 "open_issues": 52,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4148,
+                "stars": 4149,
                 "topics": [
                   "bro",
                   "easm",
@@ -1416,7 +1416,7 @@
                 "open_issues": 1,
                 "owner": "s0md3v",
                 "repo": "Smap",
-                "stars": 3298,
+                "stars": 3300,
                 "topics": [
                   "network-scanner",
                   "network-security",
@@ -1977,7 +1977,7 @@
                 "open_issues": 3,
                 "owner": "TasosY2K",
                 "repo": "camera-exploit-tool",
-                "stars": 227,
+                "stars": 228,
                 "topics": [
                   "camera",
                   "camera-exploitation",
@@ -3009,7 +3009,7 @@
                 "open_issues": 2,
                 "owner": "montysecurity",
                 "repo": "C2-Tracker",
-                "stars": 785,
+                "stars": 786,
                 "topics": [
                   "cybersecurity",
                   "infosec",
@@ -3680,7 +3680,7 @@
                 "open_issues": 5,
                 "owner": "G3et",
                 "repo": "Search_Viewer",
-                "stars": 789,
+                "stars": 790,
                 "topics": [
                   "censys",
                   "fofa",
@@ -3742,7 +3742,7 @@
                 "open_issues": 64,
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 3094,
+                "stars": 3105,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3784,7 +3784,7 @@
                 "open_issues": 5,
                 "owner": "random-robbie",
                 "repo": "My-Shodan-Scripts",
-                "stars": 1154,
+                "stars": 1155,
                 "topics": [
                   "shodan",
                   "shodan-scripts"
@@ -3908,7 +3908,7 @@
                 "open_issues": 1,
                 "owner": "xzajyjs",
                 "repo": "ThunderSearch",
-                "stars": 666,
+                "stars": 667,
                 "topics": [
                   "cyberspace-search-engine",
                   "fofa",
@@ -3940,7 +3940,7 @@
                 "open_issues": 12,
                 "owner": "RevoltSecurities",
                 "repo": "ShodanX",
-                "stars": 592,
+                "stars": 593,
                 "topics": [
                   "shodan",
                   "shodan-api",
@@ -4917,7 +4917,7 @@
                 "open_issues": 5,
                 "owner": "evilsocket",
                 "repo": "xray",
-                "stars": 2332,
+                "stars": 2333,
                 "topics": [
                   "intelligence",
                   "mapping",
@@ -5029,7 +5029,7 @@
                 "open_issues": 1,
                 "owner": "shadowscatcher",
                 "repo": "shodan",
-                "stars": 122,
+                "stars": 123,
                 "topics": [
                   "golang",
                   "intelligence-gathering",
@@ -5075,7 +5075,7 @@
                 "language": "Go",
                 "license": null,
                 "last_commit": "2021-03-31T08:51:39Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "gyyyy",
                 "repo": "ZoomEye-go",
                 "stars": 42,
@@ -5831,7 +5831,7 @@
                 "id": 155371379,
                 "language": "Perl",
                 "license": "BSD-3-Clause",
-                "last_commit": "2025-05-14T07:45:12Z",
+                "last_commit": "2026-09-18T13:45:05Z",
                 "open_issues": 0,
                 "owner": "onyphe",
                 "repo": "cli",
@@ -5998,7 +5998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T10:05:32.035Z",
+    "last_updated": "2026-09-19T09:46:39.833Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
