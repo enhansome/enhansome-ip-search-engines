@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7737,
+                "stars": 7739,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -322,7 +322,7 @@
                 "open_issues": 0,
                 "owner": "humblelad",
                 "repo": "Shodan-Dorks",
-                "stars": 540,
+                "stars": 541,
                 "topics": [
                   "cybersecurity",
                   "hacking",
@@ -649,6 +649,32 @@
             },
             {
               "node_type": "item",
+              "title": "Maltego Censys Official",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Censys Maltego transforms! Take advantage of Censys transforms for Maltego to back your investigations with the most trusted Internet data available.",
+                "homepage": null,
+                "id": 44463521,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2023-07-11T12:06:18Z",
+                "open_issues": 5,
+                "owner": "censys",
+                "repo": "censys-maltego",
+                "stars": 41,
+                "topics": [
+                  "censys",
+                  "maltego",
+                  "osint",
+                  "python3"
+                ]
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
+            },
+            {
+              "node_type": "item",
               "title": "ThreatFox Censys",
               "description": null,
               "children": [],
@@ -670,32 +696,6 @@
                   "censys-search",
                   "iocs",
                   "threatfox"
-                ]
-              },
-              "first_seen": "2026-08-28T17:43:53.077Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Maltego Censys Official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Censys Maltego transforms! Take advantage of Censys transforms for Maltego to back your investigations with the most trusted Internet data available.",
-                "homepage": null,
-                "id": 44463521,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2023-07-11T12:06:18Z",
-                "open_issues": 5,
-                "owner": "censys",
-                "repo": "censys-maltego",
-                "stars": 40,
-                "topics": [
-                  "censys",
-                  "maltego",
-                  "osint",
-                  "python3"
                 ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -1374,7 +1374,7 @@
                 "open_issues": 52,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4149,
+                "stars": 4150,
                 "topics": [
                   "bro",
                   "easm",
@@ -1505,7 +1505,7 @@
                 "open_issues": 0,
                 "owner": "alechilczenko",
                 "repo": "kimi",
-                "stars": 262,
+                "stars": 261,
                 "topics": [
                   "banner-grabbing",
                   "censys",
@@ -1764,7 +1764,7 @@
                 "open_issues": 4,
                 "owner": "christophetd",
                 "repo": "censys-subdomain-finder",
-                "stars": 844,
+                "stars": 846,
                 "topics": [
                   "bugbounty",
                   "certificate-transparency-logs",
@@ -1796,7 +1796,7 @@
                 "open_issues": 1,
                 "owner": "incogbyte",
                 "repo": "shosubgo",
-                "stars": 580,
+                "stars": 581,
                 "topics": [
                   "golang",
                   "grab-subdomains",
@@ -1864,7 +1864,7 @@
                 "open_issues": 3,
                 "owner": "SmoZy92",
                 "repo": "Shodomain",
-                "stars": 66,
+                "stars": 67,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -2807,7 +2807,7 @@
                 "open_issues": 0,
                 "owner": "Warflop",
                 "repo": "cloudbunny",
-                "stars": 376,
+                "stars": 375,
                 "topics": [
                   "bypass",
                   "censys",
@@ -3385,7 +3385,7 @@
                 "open_issues": 7,
                 "owner": "PaulSec",
                 "repo": "Shodan.io-mobile-app",
-                "stars": 229,
+                "stars": 230,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3742,7 +3742,7 @@
                 "open_issues": 64,
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 3105,
+                "stars": 3123,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -4917,7 +4917,7 @@
                 "open_issues": 5,
                 "owner": "evilsocket",
                 "repo": "xray",
-                "stars": 2333,
+                "stars": 2332,
                 "topics": [
                   "intelligence",
                   "mapping",
@@ -5732,7 +5732,7 @@
                 "open_issues": 0,
                 "owner": "ScadaExposure",
                 "repo": "Shodan-PHP-REST-API",
-                "stars": 111,
+                "stars": 112,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -5998,7 +5998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T09:46:39.833Z",
+    "last_updated": "2026-09-20T10:08:41.732Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
