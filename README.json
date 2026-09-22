@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7745,
+                "stars": 7747,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2837,7 +2837,7 @@
                 "open_issues": 1,
                 "owner": "karma9874",
                 "repo": "CloudFlare-IP",
-                "stars": 68,
+                "stars": 69,
                 "topics": [
                   "cloudflare",
                   "favicon-icon",
@@ -3742,7 +3742,7 @@
                 "open_issues": 64,
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 3133,
+                "stars": 3136,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3763,7 +3763,7 @@
                 "open_issues": 4,
                 "owner": "BullsEye0",
                 "repo": "shodan-eye",
-                "stars": 1366,
+                "stars": 1367,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3829,7 +3829,7 @@
                 "open_issues": 31,
                 "owner": "asaotomo",
                 "repo": "FofaMap",
-                "stars": 730,
+                "stars": 731,
                 "topics": [
                   "ai-agent",
                   "asset-discovery",
@@ -3940,7 +3940,7 @@
                 "open_issues": 12,
                 "owner": "RevoltSecurities",
                 "repo": "ShodanX",
-                "stars": 594,
+                "stars": 595,
                 "topics": [
                   "shodan",
                   "shodan-api",
@@ -5998,7 +5998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T11:09:18.901Z",
+    "last_updated": "2026-09-22T10:23:04.522Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
