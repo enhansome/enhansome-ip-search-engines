@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7747,
+                "stars": 7746,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -213,7 +213,7 @@
                 "open_issues": 2,
                 "owner": "thehappydinoa",
                 "repo": "awesome-censys-queries",
-                "stars": 1241,
+                "stars": 1242,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -349,7 +349,7 @@
                 "open_issues": 0,
                 "owner": "HernanRodriguez1",
                 "repo": "Dorks-Shodan-2023",
-                "stars": 247,
+                "stars": 246,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -839,7 +839,7 @@
                 "open_issues": 3,
                 "owner": "criminalip",
                 "repo": "CIP-NSE-Script",
-                "stars": 17,
+                "stars": 16,
                 "topics": [
                   "criminalip-api",
                   "cve",
@@ -1223,7 +1223,7 @@
                 "open_issues": 1,
                 "owner": "eremit4",
                 "repo": "favihunter",
-                "stars": 257,
+                "stars": 256,
                 "topics": [
                   "censys",
                   "criminalip",
@@ -1764,7 +1764,7 @@
                 "open_issues": 4,
                 "owner": "christophetd",
                 "repo": "censys-subdomain-finder",
-                "stars": 847,
+                "stars": 846,
                 "topics": [
                   "bugbounty",
                   "certificate-transparency-logs",
@@ -1796,7 +1796,7 @@
                 "open_issues": 1,
                 "owner": "incogbyte",
                 "repo": "shosubgo",
-                "stars": 581,
+                "stars": 580,
                 "topics": [
                   "golang",
                   "grab-subdomains",
@@ -2781,7 +2781,7 @@
                 "open_issues": 11,
                 "owner": "christophetd",
                 "repo": "CloudFlair",
-                "stars": 2977,
+                "stars": 2976,
                 "topics": [
                   "censys",
                   "cloudflare",
@@ -3009,7 +3009,7 @@
                 "open_issues": 2,
                 "owner": "montysecurity",
                 "repo": "C2-Tracker",
-                "stars": 786,
+                "stars": 785,
                 "topics": [
                   "cybersecurity",
                   "infosec",
@@ -3488,7 +3488,7 @@
                 "open_issues": 0,
                 "owner": "RocketGod-git",
                 "repo": "shodanbot",
-                "stars": 91,
+                "stars": 90,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3742,7 +3742,7 @@
                 "open_issues": 64,
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 3136,
+                "stars": 3138,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3763,7 +3763,7 @@
                 "open_issues": 4,
                 "owner": "BullsEye0",
                 "repo": "shodan-eye",
-                "stars": 1367,
+                "stars": 1368,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3784,7 +3784,7 @@
                 "open_issues": 5,
                 "owner": "random-robbie",
                 "repo": "My-Shodan-Scripts",
-                "stars": 1155,
+                "stars": 1156,
                 "topics": [
                   "shodan",
                   "shodan-scripts"
@@ -3829,7 +3829,7 @@
                 "open_issues": 31,
                 "owner": "asaotomo",
                 "repo": "FofaMap",
-                "stars": 731,
+                "stars": 732,
                 "topics": [
                   "ai-agent",
                   "asset-discovery",
@@ -3866,7 +3866,7 @@
                 "open_issues": 52,
                 "owner": "KTZgraph",
                 "repo": "sarenka",
-                "stars": 674,
+                "stars": 672,
                 "topics": [
                   "censys-api",
                   "cve",
@@ -4120,7 +4120,7 @@
                 "open_issues": 3,
                 "owner": "H-Limbus",
                 "repo": "NoMoney",
-                "stars": 203,
+                "stars": 202,
                 "topics": [
                   "360-quake",
                   "fofa-search",
@@ -4618,7 +4618,7 @@
                 "open_issues": 2,
                 "owner": "shubhamrooter",
                 "repo": "ShodanSpider",
-                "stars": 211,
+                "stars": 210,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -4766,7 +4766,7 @@
                 "language": "Java",
                 "license": "MIT",
                 "last_commit": "2024-08-05T13:17:53Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "fooock",
                 "repo": "jshodan",
                 "stars": 77,
@@ -4917,7 +4917,7 @@
                 "open_issues": 5,
                 "owner": "evilsocket",
                 "repo": "xray",
-                "stars": 2332,
+                "stars": 2331,
                 "topics": [
                   "intelligence",
                   "mapping",
@@ -5998,7 +5998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T10:23:04.522Z",
+    "last_updated": "2026-09-23T10:18:34.912Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
@@ -6010,7 +6010,7 @@
       "open_issues": 3,
       "owner": "cipher387",
       "repo": "awesome-ip-search-engines",
-      "stars": 351,
+      "stars": 352,
       "topics": [
         "360quake",
         "awesome-list",
