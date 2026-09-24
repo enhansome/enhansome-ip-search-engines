@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7746,
+                "stars": 7748,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -772,7 +772,7 @@
                 "open_issues": 0,
                 "owner": "censys",
                 "repo": "censys-postman",
-                "stars": 33,
+                "stars": 34,
                 "topics": [
                   "censys",
                   "postman-collection",
@@ -1371,7 +1371,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-10T08:42:55Z",
-                "open_issues": 52,
+                "open_issues": 53,
                 "owner": "ivre",
                 "repo": "ivre",
                 "stars": 4152,
@@ -1764,7 +1764,7 @@
                 "open_issues": 4,
                 "owner": "christophetd",
                 "repo": "censys-subdomain-finder",
-                "stars": 846,
+                "stars": 845,
                 "topics": [
                   "bugbounty",
                   "certificate-transparency-logs",
@@ -2837,7 +2837,7 @@
                 "open_issues": 1,
                 "owner": "karma9874",
                 "repo": "CloudFlare-IP",
-                "stars": 69,
+                "stars": 70,
                 "topics": [
                   "cloudflare",
                   "favicon-icon",
@@ -3742,7 +3742,7 @@
                 "open_issues": 64,
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 3138,
+                "stars": 3139,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3808,7 +3808,7 @@
                 "open_issues": 6,
                 "owner": "Cl0udG0d",
                 "repo": "Fofa-hack",
-                "stars": 883,
+                "stars": 882,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3829,7 +3829,7 @@
                 "open_issues": 31,
                 "owner": "asaotomo",
                 "repo": "FofaMap",
-                "stars": 732,
+                "stars": 733,
                 "topics": [
                   "ai-agent",
                   "asset-discovery",
@@ -4618,7 +4618,7 @@
                 "open_issues": 2,
                 "owner": "shubhamrooter",
                 "repo": "ShodanSpider",
-                "stars": 210,
+                "stars": 209,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -4714,7 +4714,7 @@
                 "open_issues": 21,
                 "owner": "wgpsec",
                 "repo": "fofa_viewer",
-                "stars": 1807,
+                "stars": 1806,
                 "topics": [
                   "cybersecurity",
                   "fofa",
@@ -5998,7 +5998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T10:18:34.912Z",
+    "last_updated": "2026-09-24T10:32:51.560Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
@@ -6010,7 +6010,7 @@
       "open_issues": 3,
       "owner": "cipher387",
       "repo": "awesome-ip-search-engines",
-      "stars": 352,
+      "stars": 353,
       "topics": [
         "360quake",
         "awesome-list",
