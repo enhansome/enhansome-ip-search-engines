@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7751,
+                "stars": 7753,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -213,7 +213,7 @@
                 "open_issues": 2,
                 "owner": "thehappydinoa",
                 "repo": "awesome-censys-queries",
-                "stars": 1244,
+                "stars": 1245,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1374,7 +1374,7 @@
                 "open_issues": 53,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4153,
+                "stars": 4156,
                 "topics": [
                   "bro",
                   "easm",
@@ -1416,7 +1416,7 @@
                 "open_issues": 1,
                 "owner": "s0md3v",
                 "repo": "Smap",
-                "stars": 3300,
+                "stars": 3299,
                 "topics": [
                   "network-scanner",
                   "network-security",
@@ -1446,7 +1446,7 @@
                 "open_issues": 0,
                 "owner": "s0md3v",
                 "repo": "Silver",
-                "stars": 1054,
+                "stars": 1055,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -1764,7 +1764,7 @@
                 "open_issues": 4,
                 "owner": "christophetd",
                 "repo": "censys-subdomain-finder",
-                "stars": 846,
+                "stars": 847,
                 "topics": [
                   "bugbounty",
                   "certificate-transparency-logs",
@@ -1947,7 +1947,7 @@
                 "open_issues": 3,
                 "owner": "jimywork",
                 "repo": "shodanwave",
-                "stars": 267,
+                "stars": 268,
                 "topics": [
                   "camera",
                   "exploit",
@@ -3385,7 +3385,7 @@
                 "open_issues": 7,
                 "owner": "PaulSec",
                 "repo": "Shodan.io-mobile-app",
-                "stars": 230,
+                "stars": 231,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3488,7 +3488,7 @@
                 "open_issues": 0,
                 "owner": "RocketGod-git",
                 "repo": "shodanbot",
-                "stars": 91,
+                "stars": 92,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3742,7 +3742,7 @@
                 "open_issues": 65,
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 3151,
+                "stars": 3154,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3763,7 +3763,7 @@
                 "open_issues": 5,
                 "owner": "BullsEye0",
                 "repo": "shodan-eye",
-                "stars": 1369,
+                "stars": 1370,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -5998,7 +5998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T10:19:28.480Z",
+    "last_updated": "2026-09-27T10:52:17.052Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
