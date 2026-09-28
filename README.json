@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7753,
+                "stars": 7757,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -213,7 +213,7 @@
                 "open_issues": 2,
                 "owner": "thehappydinoa",
                 "repo": "awesome-censys-queries",
-                "stars": 1245,
+                "stars": 1246,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -322,7 +322,7 @@
                 "open_issues": 0,
                 "owner": "humblelad",
                 "repo": "Shodan-Dorks",
-                "stars": 541,
+                "stars": 542,
                 "topics": [
                   "cybersecurity",
                   "hacking",
@@ -1371,10 +1371,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-10T08:42:55Z",
-                "open_issues": 53,
+                "open_issues": 52,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4156,
+                "stars": 4157,
                 "topics": [
                   "bro",
                   "easm",
@@ -1416,7 +1416,7 @@
                 "open_issues": 1,
                 "owner": "s0md3v",
                 "repo": "Smap",
-                "stars": 3299,
+                "stars": 3300,
                 "topics": [
                   "network-scanner",
                   "network-security",
@@ -3385,7 +3385,7 @@
                 "open_issues": 7,
                 "owner": "PaulSec",
                 "repo": "Shodan.io-mobile-app",
-                "stars": 231,
+                "stars": 232,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3742,7 +3742,7 @@
                 "open_issues": 65,
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 3154,
+                "stars": 3155,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3763,7 +3763,7 @@
                 "open_issues": 5,
                 "owner": "BullsEye0",
                 "repo": "shodan-eye",
-                "stars": 1370,
+                "stars": 1371,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3829,7 +3829,7 @@
                 "open_issues": 31,
                 "owner": "asaotomo",
                 "repo": "FofaMap",
-                "stars": 732,
+                "stars": 733,
                 "topics": [
                   "ai-agent",
                   "asset-discovery",
@@ -3975,7 +3975,7 @@
                 "open_issues": 22,
                 "owner": "knownsec",
                 "repo": "ZoomEye-python",
-                "stars": 572,
+                "stars": 573,
                 "topics": [
                   "zoomeye",
                   "zoomeye-api",
@@ -4769,7 +4769,7 @@
                 "open_issues": 4,
                 "owner": "fooock",
                 "repo": "jshodan",
-                "stars": 77,
+                "stars": 78,
                 "topics": [
                   "android",
                   "android-development",
@@ -5998,7 +5998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T10:52:17.052Z",
+    "last_updated": "2026-09-28T12:02:43.775Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",

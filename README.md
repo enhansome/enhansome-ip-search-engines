@@ -193,12 +193,12 @@
 
 ## "Dorks"/queries Lists
 
-* [Awesome Shodan Queries](https://github.com/jakejarvis/awesome-shodan-queries) ⭐ 7,753 | 🐛 13 | 📅 2024-05-27
-* [Awesome Censys Queries](https://github.com/thehappydinoa/awesome-censys-queries) ⭐ 1,245 | 🐛 2 | 🌐 Python | 📅 2026-07-20
+* [Awesome Shodan Queries](https://github.com/jakejarvis/awesome-shodan-queries) ⭐ 7,757 | 🐛 13 | 📅 2024-05-27
+* [Awesome Censys Queries](https://github.com/thehappydinoa/awesome-censys-queries) ⭐ 1,246 | 🐛 2 | 🌐 Python | 📅 2026-07-20
 * [Shodan Dorks from @lothos612](https://github.com/lothos612/shodan) ⭐ 599 | 🐛 0 | 📅 2023-03-31
 * [Shodan filters](https://github.com/JavierOlmedo/shodan-filters) ⭐ 588 | 🐛 2 | 📅 2018-11-25
 * [Shodan dorks from @nullfuzz](https://github.com/nullfuzz-pentest/shodan-dorks) ⭐ 548 | 🐛 0 | 📅 2026-04-21
-* [Shodan Dorks from @humblelad](https://github.com/humblelad/Shodan-Dorks) ⭐ 541 | 🐛 0 | 📅 2020-05-26
+* [Shodan Dorks from @humblelad](https://github.com/humblelad/Shodan-Dorks) ⭐ 542 | 🐛 0 | 📅 2020-05-26
 * [Shodan Dorks 2023](https://github.com/HernanRodriguez1/Dorks-Shodan-2023) ⭐ 247 | 🐛 0 | 🌐 Python | 📅 2025-01-13
 * [:heartpulse:Netlas dorks:heartpulse:](https://github.com/netlas-io/netlas-dorks) ⭐ 209 | 🐛 0 | 📅 2026-04-24
 * [Shodan Dorks from @mr-exo](https://github.com/mr-exo/shodan-dorks) ⭐ 112 | 🐛 0 | 📅 2023-12-10
@@ -280,8 +280,8 @@
 
 ## Network/port Scanners
 
-* [IVRE (universal)](https://github.com/ivre/ivre) ⭐ 4,156 | 🐛 53 | 🌐 Python | 📅 2026-09-10
-* [Smap (Shodan)](https://github.com/s0md3v/Smap) ⭐ 3,299 | 🐛 1 | 🌐 Go | 📅 2026-08-15
+* [IVRE (universal)](https://github.com/ivre/ivre) ⭐ 4,157 | 🐛 52 | 🌐 Python | 📅 2026-09-10
+* [Smap (Shodan)](https://github.com/s0md3v/Smap) ⭐ 3,300 | 🐛 1 | 🌐 Go | 📅 2026-08-15
 * [Silver (Shodan)](https://github.com/s0md3v/Silver) ⭐ 1,055 | 🐛 0 | 📅 2026-04-26
 * [MEC (ZoomEye)](https://github.com/jm33-m0/mec) ⭐ 614 | 🐛 0 | 🌐 Python | 📅 2022-07-14
 * [Spidex](https://github.com/alechilczenko/spidex) ⭐ 261 | 🐛 0 | 🌐 Python | 📅 2025-12-12
@@ -415,7 +415,7 @@
 
 ## Mobile Apps and SDK
 
-* [Shodan Mobile App](https://github.com/PaulSec/Shodan.io-mobile-app) ⭐ 231 | 🐛 7 | 🌐 TypeScript | 📅 2026-06-05
+* [Shodan Mobile App](https://github.com/PaulSec/Shodan.io-mobile-app) ⭐ 232 | 🐛 7 | 🌐 TypeScript | 📅 2026-06-05
 * [Shodand](https://github.com/fooock/shodand) ⭐ 6 | 🐛 0 | 🌐 Java | 📅 2017-08-03
 * [ZoomEye Android SDK API](https://github.com/donglua/ZoomEye-API) ⭐ 4 | 🐛 0 | 🌐 Java | 📅 2016-05-05
 * [ZoomEye Android](https://github.com/donglua/ZoomEyeAndroid) ⭐ 3 | 🐛 0 | 🌐 Java | 📅 2016-05-05
@@ -455,15 +455,15 @@
 
 ## Python Search Automation Tools
 
-* [Shodan Python Library](https://github.com/achillean/shodan-python) ⭐ 3,154 | 🐛 65 | 🌐 Python | 📅 2024-08-05
-* [Shodan Eye](https://github.com/BullsEye0/shodan-eye) ⭐ 1,370 | 🐛 5 | 🌐 Python | 📅 2026-09-01
+* [Shodan Python Library](https://github.com/achillean/shodan-python) ⭐ 3,155 | 🐛 65 | 🌐 Python | 📅 2024-08-05
+* [Shodan Eye](https://github.com/BullsEye0/shodan-eye) ⭐ 1,371 | 🐛 5 | 🌐 Python | 📅 2026-09-01
 * ["My Shodan scripts"](https://github.com/random-robbie/My-Shodan-Scripts) ⭐ 1,156 | 🐛 5 | 🌐 Python | 📅 2026-01-14
 * [FofaHack](https://github.com/Cl0udG0d/Fofa-hack) ⭐ 881 | 🐛 6 | 🌐 Python | 📅 2025-10-28
-* [FofaMap](https://github.com/asaotomo/FofaMap) ⭐ 732 | 🐛 31 | 🌐 Python | 📅 2026-08-16
+* [FofaMap](https://github.com/asaotomo/FofaMap) ⭐ 733 | 🐛 31 | 🌐 Python | 📅 2026-08-16
 * [Sarenka (universal)](https://github.com/KTZgraph/sarenka) ⭐ 673 | 🐛 52 | 🌐 Python | 📅 2023-05-04
 * [ThunderSearch](https://github.com/xzajyjs/ThunderSearch) ⭐ 667 | 🐛 1 | 🌐 Python | 📅 2024-12-06
 * [ShodanX](https://github.com/sanjai-AK47/ShodanX) ⭐ 596 | 🐛 12 | 🌐 Python | 📅 2025-05-14
-* [ZoomEye Python](https://github.com/knownsec/ZoomEye-python) ⭐ 572 | 🐛 22 | 🌐 Python | 📅 2026-01-08
+* [ZoomEye Python](https://github.com/knownsec/ZoomEye-python) ⭐ 573 | 🐛 22 | 🌐 Python | 📅 2026-01-08
 * [Censys Python](https://github.com/censys/censys-python) ⭐ 469 | 🐛 1 | 🌐 Python | 📅 2026-08-28
 * [Search Tools](https://github.com/atdpa4sw0rd/Search-Tools) ⭐ 343 | 🐛 5 | 🌐 Python | 📅 2021-04-09
 * [ShodanTools](https://github.com/n0x08/ShodanTools) ⭐ 263 | 🐛 2 | 🌐 Python | 📅 2020-07-08
@@ -505,7 +505,7 @@
 
 * [Fofa Viewer](https://github.com/wgpsec/fofa_viewer) ⭐ 1,806 | 🐛 21 | 🌐 Java | 📅 2025-12-26
 * [fofaEX](https://github.com/10cks/fofaEX) ⭐ 239 | 🐛 6 | 🌐 Java | 📅 2024-07-24
-* [JShodan](https://github.com/fooock/jshodan) ⭐ 77 | 🐛 4 | 🌐 Java | 📅 2024-08-05
+* [JShodan](https://github.com/fooock/jshodan) ⭐ 78 | 🐛 4 | 🌐 Java | 📅 2024-08-05
 * [Fofa Java](https://github.com/fofapro/fofa-java) ⭐ 32 | 🐛 3 | 🌐 Java | 📅 2023-08-27
 * [Shodan Scanner](https://github.com/nikos-glikis/ShodanScanner) ⭐ 6 | 🐛 0 | 🌐 Java | 📅 2023-06-27
 * [QuakeViewer](https://github.com/ZuoJunhao/QuakeViewer) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2024-09-13
@@ -595,4 +595,4 @@ Thank you for following me! <https://cybdetective.com>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
