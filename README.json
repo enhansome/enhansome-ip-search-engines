@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7758,
+                "stars": 7759,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -395,7 +395,7 @@
                 "open_issues": 0,
                 "owner": "mr-exo",
                 "repo": "shodan-dorks",
-                "stars": 112,
+                "stars": 113,
                 "topics": [
                   "devices",
                   "dorks",
@@ -642,7 +642,7 @@
                 "open_issues": 0,
                 "owner": "montysecurity",
                 "repo": "InfraHunter",
-                "stars": 64,
+                "stars": 63,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -669,33 +669,6 @@
                   "maltego",
                   "osint",
                   "python3"
-                ]
-              },
-              "first_seen": "2026-08-28T17:43:53.077Z"
-            },
-            {
-              "node_type": "item",
-              "title": "ThreatFox Censys",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Threatfox Censys is a tool to query Censys Search for IP addresses and domains and then parses the JSON and submits the results to Threatfox.",
-                "homepage": "http://workshop.censys.io/threatfox-censys/",
-                "id": 703776515,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-03-30T16:31:09Z",
-                "open_issues": 8,
-                "owner": "censys-workshop",
-                "repo": "threatfox-censys",
-                "stars": 41,
-                "topics": [
-                  "c2",
-                  "censys",
-                  "censys-search",
-                  "iocs",
-                  "threatfox"
                 ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -752,6 +725,33 @@
                   "threat-hunting",
                   "threat-intelligence",
                   "threatintel"
+                ]
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ThreatFox Censys",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Threatfox Censys is a tool to query Censys Search for IP addresses and domains and then parses the JSON and submits the results to Threatfox.",
+                "homepage": "http://workshop.censys.io/threatfox-censys/",
+                "id": 703776515,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-03-30T16:31:09Z",
+                "open_issues": 8,
+                "owner": "censys-workshop",
+                "repo": "threatfox-censys",
+                "stars": 39,
+                "topics": [
+                  "c2",
+                  "censys",
+                  "censys-search",
+                  "iocs",
+                  "threatfox"
                 ]
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -1191,7 +1191,7 @@
                 "open_issues": 3,
                 "owner": "pielco11",
                 "repo": "fav-up",
-                "stars": 1202,
+                "stars": 1201,
                 "topics": [
                   "cloudflare",
                   "cloudflare-bypass",
@@ -1374,7 +1374,7 @@
                 "open_issues": 53,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4157,
+                "stars": 4159,
                 "topics": [
                   "bro",
                   "easm",
@@ -1446,7 +1446,7 @@
                 "open_issues": 0,
                 "owner": "s0md3v",
                 "repo": "Silver",
-                "stars": 1055,
+                "stars": 1054,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -1467,7 +1467,7 @@
                 "open_issues": 0,
                 "owner": "jm33-m0",
                 "repo": "mec",
-                "stars": 614,
+                "stars": 613,
                 "topics": [
                   "adapted-exploits",
                   "baidu-search",
@@ -1591,7 +1591,7 @@
                 "open_issues": 5,
                 "owner": "petercunha",
                 "repo": "Knock",
-                "stars": 79,
+                "stars": 78,
                 "topics": [
                   "automatic",
                   "brute-force",
@@ -1764,7 +1764,7 @@
                 "open_issues": 4,
                 "owner": "christophetd",
                 "repo": "censys-subdomain-finder",
-                "stars": 847,
+                "stars": 846,
                 "topics": [
                   "bugbounty",
                   "certificate-transparency-logs",
@@ -3385,7 +3385,7 @@
                 "open_issues": 7,
                 "owner": "PaulSec",
                 "repo": "Shodan.io-mobile-app",
-                "stars": 232,
+                "stars": 234,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3649,7 +3649,7 @@
                 "open_issues": 2,
                 "owner": "Xosrov",
                 "repo": "Shodan-Generator",
-                "stars": 4,
+                "stars": 5,
                 "topics": [
                   "shodan-accounts",
                   "shodan-generator"
@@ -3742,7 +3742,7 @@
                 "open_issues": 65,
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 3215,
+                "stars": 3228,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3763,7 +3763,7 @@
                 "open_issues": 5,
                 "owner": "BullsEye0",
                 "repo": "shodan-eye",
-                "stars": 1371,
+                "stars": 1370,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3829,7 +3829,7 @@
                 "open_issues": 31,
                 "owner": "asaotomo",
                 "repo": "FofaMap",
-                "stars": 733,
+                "stars": 734,
                 "topics": [
                   "ai-agent",
                   "asset-discovery",
@@ -3940,7 +3940,7 @@
                 "open_issues": 12,
                 "owner": "RevoltSecurities",
                 "repo": "ShodanX",
-                "stars": 596,
+                "stars": 595,
                 "topics": [
                   "shodan",
                   "shodan-api",
@@ -4618,7 +4618,7 @@
                 "open_issues": 2,
                 "owner": "shubhamrooter",
                 "repo": "ShodanSpider",
-                "stars": 210,
+                "stars": 211,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -4714,7 +4714,7 @@
                 "open_issues": 21,
                 "owner": "wgpsec",
                 "repo": "fofa_viewer",
-                "stars": 1806,
+                "stars": 1807,
                 "topics": [
                   "cybersecurity",
                   "fofa",
@@ -4917,7 +4917,7 @@
                 "open_issues": 5,
                 "owner": "evilsocket",
                 "repo": "xray",
-                "stars": 2333,
+                "stars": 2334,
                 "topics": [
                   "intelligence",
                   "mapping",
@@ -5998,7 +5998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T11:37:02.889Z",
+    "last_updated": "2026-09-30T11:24:43.169Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
