@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7760,
+                "stars": 7761,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -213,7 +213,7 @@
                 "open_issues": 2,
                 "owner": "thehappydinoa",
                 "repo": "awesome-censys-queries",
-                "stars": 1247,
+                "stars": 1248,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -465,7 +465,7 @@
                 "open_issues": 0,
                 "owner": "zveriu",
                 "repo": "cctv-ddns-shodan-censys",
-                "stars": 48,
+                "stars": 46,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -1370,11 +1370,11 @@
                 "id": 23961941,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-01T01:24:53Z",
-                "open_issues": 54,
+                "last_commit": "2026-10-01T17:46:08Z",
+                "open_issues": 56,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4160,
+                "stars": 4161,
                 "topics": [
                   "bro",
                   "easm",
@@ -1446,7 +1446,7 @@
                 "open_issues": 0,
                 "owner": "s0md3v",
                 "repo": "Silver",
-                "stars": 1055,
+                "stars": 1054,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -1796,7 +1796,7 @@
                 "open_issues": 1,
                 "owner": "incogbyte",
                 "repo": "shosubgo",
-                "stars": 580,
+                "stars": 581,
                 "topics": [
                   "golang",
                   "grab-subdomains",
@@ -2781,7 +2781,7 @@
                 "open_issues": 11,
                 "owner": "christophetd",
                 "repo": "CloudFlair",
-                "stars": 2977,
+                "stars": 2978,
                 "topics": [
                   "censys",
                   "cloudflare",
@@ -3742,7 +3742,7 @@
                 "open_issues": 65,
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 3231,
+                "stars": 3236,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3759,7 +3759,7 @@
                 "id": 180435148,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-01T13:25:10Z",
+                "last_commit": "2026-10-01T19:22:28Z",
                 "open_issues": 5,
                 "owner": "BullsEye0",
                 "repo": "shodan-eye",
@@ -4714,7 +4714,7 @@
                 "open_issues": 21,
                 "owner": "wgpsec",
                 "repo": "fofa_viewer",
-                "stars": 1807,
+                "stars": 1808,
                 "topics": [
                   "cybersecurity",
                   "fofa",
@@ -4917,7 +4917,7 @@
                 "open_issues": 5,
                 "owner": "evilsocket",
                 "repo": "xray",
-                "stars": 2334,
+                "stars": 2333,
                 "topics": [
                   "intelligence",
                   "mapping",
@@ -5116,8 +5116,8 @@
                 "id": 348544027,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-17T21:37:32Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-01T23:37:41Z",
+                "open_issues": 5,
                 "owner": "turbot",
                 "repo": "steampipe-plugin-shodan",
                 "stars": 29,
@@ -5998,7 +5998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T11:51:57.318Z",
+    "last_updated": "2026-10-02T11:24:06.498Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
