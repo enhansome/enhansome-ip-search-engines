@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "netlas-io",
                 "repo": "netlas-cookbook",
-                "stars": 890,
+                "stars": 889,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -36,7 +36,7 @@
             {
               "node_type": "item",
               "title": "Shodan Dojo",
-              "description": null,
+              "description": "ninoseki/shodan-dojo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -60,7 +60,7 @@
             {
               "node_type": "item",
               "title": "Awesome FOFA",
-              "description": null,
+              "description": "FofaInfo/Awesome-FOFA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -87,7 +87,7 @@
             {
               "node_type": "item",
               "title": "GreyNoise API Documentation",
-              "description": null,
+              "description": "GreyNoise-Intelligence/api.greynoise.io",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -108,7 +108,7 @@
             {
               "node_type": "item",
               "title": "Censys Search Mindmap",
-              "description": null,
+              "description": "censys-workshop/censys-search-mindmap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -134,7 +134,7 @@
             {
               "node_type": "item",
               "title": "Onyphe Training Materials",
-              "description": null,
+              "description": "onyphe/material",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -162,7 +162,7 @@
             {
               "node_type": "item",
               "title": "Awesome Shodan Queries",
-              "description": null,
+              "description": "jakejarvis/awesome-shodan-queries",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7761,
+                "stars": 7760,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -200,7 +200,7 @@
             {
               "node_type": "item",
               "title": "Awesome Censys Queries",
-              "description": null,
+              "description": "thehappydinoa/awesome-censys-queries",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -234,7 +234,7 @@
             {
               "node_type": "item",
               "title": "Shodan Dorks from @lothos612",
-              "description": null,
+              "description": "lothos612/shodan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -255,7 +255,7 @@
             {
               "node_type": "item",
               "title": "Shodan filters",
-              "description": null,
+              "description": "JavierOlmedo/shodan-filters",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -276,7 +276,7 @@
             {
               "node_type": "item",
               "title": "Shodan dorks from @nullfuzz",
-              "description": null,
+              "description": "nullfuzz-pentest/shodan-dorks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -289,7 +289,7 @@
                 "open_issues": 0,
                 "owner": "nullfuzz-pentest",
                 "repo": "shodan-dorks",
-                "stars": 548,
+                "stars": 547,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -309,7 +309,7 @@
             {
               "node_type": "item",
               "title": "Shodan Dorks from @humblelad",
-              "description": null,
+              "description": "humblelad/Shodan-Dorks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -336,7 +336,7 @@
             {
               "node_type": "item",
               "title": "Shodan Dorks 2023",
-              "description": null,
+              "description": "HernanRodriguez1/Dorks-Shodan-2023",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -357,7 +357,7 @@
             {
               "node_type": "item",
               "title": ":heartpulse:Netlas dorks:heartpulse:",
-              "description": null,
+              "description": "netlas-io/netlas-dorks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -382,7 +382,7 @@
             {
               "node_type": "item",
               "title": "Shodan Dorks from @mr-exo",
-              "description": null,
+              "description": "mr-exo/shodan-dorks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -410,7 +410,7 @@
             {
               "node_type": "item",
               "title": "ICS IoT Shodan Dorks",
-              "description": null,
+              "description": "AustrianEnergyCERT/ICS_IoT_Shodan_Dorks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -431,7 +431,7 @@
             {
               "node_type": "item",
               "title": "Shodan Dorks from @shifa123",
-              "description": null,
+              "description": "shifa123/shodandorks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -452,7 +452,7 @@
             {
               "node_type": "item",
               "title": "CCTV DDNS Shodan Censys Queries",
-              "description": null,
+              "description": "zveriu/cctv-ddns-shodan-censys",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -473,7 +473,7 @@
             {
               "node_type": "item",
               "title": "Awesome Shodan Queries",
-              "description": null,
+              "description": "SoumyaJas2324/-jakejarvis-awesome-shodan-queries-",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -494,7 +494,7 @@
             {
               "node_type": "item",
               "title": "IoT Dorks",
-              "description": null,
+              "description": "IoT-PTv/IoT-Dorks",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -522,7 +522,7 @@
             {
               "node_type": "item",
               "title": "Shodan CTF",
-              "description": null,
+              "description": "atz-spe/SHODAN-CTF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -543,7 +543,7 @@
             {
               "node_type": "item",
               "title": "NoiseFest CTF 2023",
-              "description": null,
+              "description": "GreyNoise-Intelligence/NoiseFest-CTF-2023",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -577,7 +577,7 @@
             {
               "node_type": "item",
               "title": "Fofa Xray Plugin",
-              "description": null,
+              "description": "Miagz/XrayFofa",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -590,7 +590,7 @@
                 "open_issues": 9,
                 "owner": "Miagz",
                 "repo": "XrayFofa",
-                "stars": 246,
+                "stars": 245,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -598,7 +598,7 @@
             {
               "node_type": "item",
               "title": "PhishStats Shodan",
-              "description": null,
+              "description": "eschultze/phishstats-api-network",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -629,7 +629,7 @@
             {
               "node_type": "item",
               "title": "URlScan Shodan",
-              "description": null,
+              "description": "montysecurity/InfraHunter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -650,7 +650,7 @@
             {
               "node_type": "item",
               "title": "Maltego Censys Official",
-              "description": null,
+              "description": "censys/censys-maltego",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -676,7 +676,7 @@
             {
               "node_type": "item",
               "title": "Maltego Censys Unofficial",
-              "description": null,
+              "description": "mpars0ns/maltego_censys",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -697,7 +697,7 @@
             {
               "node_type": "item",
               "title": "Recon NG Censys",
-              "description": null,
+              "description": "censys/censys-recon-ng",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -732,7 +732,7 @@
             {
               "node_type": "item",
               "title": "ThreatFox Censys",
-              "description": null,
+              "description": "censys-workshop/threatfox-censys",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -759,7 +759,7 @@
             {
               "node_type": "item",
               "title": "Censys Postman Collection",
-              "description": null,
+              "description": "censys/censys-postman",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -784,7 +784,7 @@
             {
               "node_type": "item",
               "title": "Shodan Postman Collection",
-              "description": null,
+              "description": "bitnesswise/shodan-postman-collection",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -805,7 +805,7 @@
             {
               "node_type": "item",
               "title": "GreyNoise Maltego",
-              "description": null,
+              "description": "GreyNoise-Intelligence/greynoise-maltego",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -826,7 +826,7 @@
             {
               "node_type": "item",
               "title": "Criminal IP NSE Script",
-              "description": null,
+              "description": "criminalip/CIP-NSE-Script",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -853,7 +853,7 @@
             {
               "node_type": "item",
               "title": "Criminal IP STIX",
-              "description": null,
+              "description": "criminalip/CriminalIP-data-STIX",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -874,7 +874,7 @@
             {
               "node_type": "item",
               "title": "Ansible GreyNoise",
-              "description": null,
+              "description": "ReconInfoSec/ansible-greynoise",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -895,7 +895,7 @@
             {
               "node_type": "item",
               "title": "LogStash Filter GreyNoise",
-              "description": null,
+              "description": "GreyNoise-Intelligence/logstash-filter-greynoise",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -916,7 +916,7 @@
             {
               "node_type": "item",
               "title": "Maltego with Fofa",
-              "description": null,
+              "description": "mark0smith/Maltego_with_Fofa",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -937,7 +937,7 @@
             {
               "node_type": "item",
               "title": "Criminal IP Volatility",
-              "description": null,
+              "description": "criminalip/Criminalip-Volatility3-Plugins",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -958,7 +958,7 @@
             {
               "node_type": "item",
               "title": "Siemplify GreyNoise",
-              "description": null,
+              "description": "GreyNoise-Intelligence/greynoise-siemplify",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -979,7 +979,7 @@
             {
               "node_type": "item",
               "title": "Criminal Ip Zabbix",
-              "description": null,
+              "description": "criminalip/zabbix",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1006,7 +1006,7 @@
             {
               "node_type": "item",
               "title": "Nindo Shodan",
-              "description": null,
+              "description": "JustinAzoff/ninfo-plugin-shodan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1027,7 +1027,7 @@
             {
               "node_type": "item",
               "title": "Ansible Shodan",
-              "description": null,
+              "description": "simeononsecurity/ansible_shodan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1060,7 +1060,7 @@
             {
               "node_type": "item",
               "title": "Synapse Onyphe",
-              "description": null,
+              "description": "ancailliau/synapse-onyphe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1087,7 +1087,7 @@
             {
               "node_type": "item",
               "title": "Demisto GreyNoise",
-              "description": null,
+              "description": "GreyNoise-Intelligence/greynoise-demisto",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1108,7 +1108,7 @@
             {
               "node_type": "item",
               "title": "Criminal IP Tenable",
-              "description": null,
+              "description": "criminalip/CriminalIP-Tenable-Import-Asset",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1129,7 +1129,7 @@
             {
               "node_type": "item",
               "title": "Burp Suite Shodan Scanner",
-              "description": null,
+              "description": "prookl/Burp-Suite-Shodan-Scanner",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1150,7 +1150,7 @@
             {
               "node_type": "item",
               "title": "Swinlane GreyNoise",
-              "description": null,
+              "description": "GreyNoise-Intelligence/greynoise-swimlane",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1178,7 +1178,7 @@
             {
               "node_type": "item",
               "title": "Fav up",
-              "description": null,
+              "description": "pielco11/fav-up",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1210,7 +1210,7 @@
             {
               "node_type": "item",
               "title": "FaviHunter",
-              "description": null,
+              "description": "eremit4/favihunter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1251,7 +1251,7 @@
             {
               "node_type": "item",
               "title": "Get IP by ICO",
-              "description": null,
+              "description": "Ridter/get_ip_by_ico",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1272,7 +1272,7 @@
             {
               "node_type": "item",
               "title": "IconHash",
-              "description": null,
+              "description": "Becivells/iconhash",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1301,7 +1301,7 @@
             {
               "node_type": "item",
               "title": "Favicon Hash Shodan",
-              "description": null,
+              "description": "phor3nsic/favicon_hash_shodan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1333,7 +1333,7 @@
             {
               "node_type": "item",
               "title": "Shodanist",
-              "description": null,
+              "description": "eternyle/ShodanIsh",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1361,7 +1361,7 @@
             {
               "node_type": "item",
               "title": "IVRE (universal)",
-              "description": null,
+              "description": "ivre/ivre",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1374,7 +1374,7 @@
                 "open_issues": 56,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4161,
+                "stars": 4160,
                 "topics": [
                   "bro",
                   "easm",
@@ -1403,7 +1403,7 @@
             {
               "node_type": "item",
               "title": "Smap (Shodan)",
-              "description": null,
+              "description": "s0md3v/Smap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1416,7 +1416,7 @@
                 "open_issues": 1,
                 "owner": "s0md3v",
                 "repo": "Smap",
-                "stars": 3303,
+                "stars": 3302,
                 "topics": [
                   "network-scanner",
                   "network-security",
@@ -1433,7 +1433,7 @@
             {
               "node_type": "item",
               "title": "Silver (Shodan)",
-              "description": null,
+              "description": "s0md3v/Silver",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1446,7 +1446,7 @@
                 "open_issues": 0,
                 "owner": "s0md3v",
                 "repo": "Silver",
-                "stars": 1054,
+                "stars": 1053,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -1454,7 +1454,7 @@
             {
               "node_type": "item",
               "title": "MEC (ZoomEye)",
-              "description": null,
+              "description": "jm33-m0/mec",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1492,7 +1492,7 @@
             {
               "node_type": "item",
               "title": "Spidex",
-              "description": null,
+              "description": "alechilczenko/kimi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1529,7 +1529,7 @@
             {
               "node_type": "item",
               "title": "Shodan HQ NSE",
-              "description": null,
+              "description": "glennzw/shodan-hq-nse",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1550,7 +1550,7 @@
             {
               "node_type": "item",
               "title": "SSH Key Scanner (Shodan)",
-              "description": null,
+              "description": "0x27/ssh_keyscanner",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1578,7 +1578,7 @@
             {
               "node_type": "item",
               "title": "Knock",
-              "description": null,
+              "description": "petercunha/Knock",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1609,7 +1609,7 @@
             {
               "node_type": "item",
               "title": "Censys HTTP Proxy Scan",
-              "description": null,
+              "description": "LoveCppp/Http-Proxy-Scan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1630,7 +1630,7 @@
             {
               "node_type": "item",
               "title": "NetScreen Shodan Scanner",
-              "description": null,
+              "description": "juliocesarfort/netscreen-shodan-scanner",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1651,7 +1651,7 @@
             {
               "node_type": "item",
               "title": "Nmap Censys",
-              "description": null,
+              "description": "censys/nmap-censys",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1675,7 +1675,7 @@
             {
               "node_type": "item",
               "title": "Masscan Automation (Shodan)",
-              "description": null,
+              "description": "trevordavenport/MasscanAutomation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1696,7 +1696,7 @@
             {
               "node_type": "item",
               "title": "ShoScan",
-              "description": null,
+              "description": "pathetiq/ShoScan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1723,7 +1723,7 @@
             {
               "node_type": "item",
               "title": "EternalSeek",
-              "description": null,
+              "description": "alexsilva1983/eternalseek",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1751,7 +1751,7 @@
             {
               "node_type": "item",
               "title": "Censys Subdomain Finder",
-              "description": null,
+              "description": "christophetd/censys-subdomain-finder",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1783,7 +1783,7 @@
             {
               "node_type": "item",
               "title": "ShoSubGo",
-              "description": null,
+              "description": "incogbyte/shosubgo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1809,7 +1809,7 @@
             {
               "node_type": "item",
               "title": "Punter",
-              "description": null,
+              "description": "nethunteros/punter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1830,7 +1830,7 @@
             {
               "node_type": "item",
               "title": "Censys Enumeration",
-              "description": null,
+              "description": "0xbharath/censys-enumeration",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1851,7 +1851,7 @@
             {
               "node_type": "item",
               "title": "Shodomain",
-              "description": null,
+              "description": "SmoZy92/Shodomain",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1872,7 +1872,7 @@
             {
               "node_type": "item",
               "title": "Censys Subdomain Finder (no API)",
-              "description": null,
+              "description": "nmmapper/censys-subdomain-finder-non-api",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1905,7 +1905,7 @@
             {
               "node_type": "item",
               "title": "Tentacle (Zoomeye, Fofa, Shodan)",
-              "description": null,
+              "description": "orleven/Tentacle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1934,7 +1934,7 @@
             {
               "node_type": "item",
               "title": "ShodanWave, Netwave IP Cameras search and exploit tool",
-              "description": null,
+              "description": "jimywork/shodanwave",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1964,7 +1964,7 @@
             {
               "node_type": "item",
               "title": "Camera Exploit Tool Shodan",
-              "description": null,
+              "description": "TasosY2K/camera-exploit-tool",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1994,7 +1994,7 @@
             {
               "node_type": "item",
               "title": "Crascast Exploit Shodan",
-              "description": null,
+              "description": "649/Crashcast-Exploit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2015,7 +2015,7 @@
             {
               "node_type": "item",
               "title": "Memcache Dump Shodan",
-              "description": null,
+              "description": "JLospinoso/memcachedump",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2049,7 +2049,7 @@
             {
               "node_type": "item",
               "title": "Apache-Struts-Shodan-Exploit",
-              "description": null,
+              "description": "649/Apache-Struts-Shodan-Exploit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2070,7 +2070,7 @@
             {
               "node_type": "item",
               "title": "Memfixed Mitigation Tool Shodan",
-              "description": null,
+              "description": "649/Memfixed-Mitigation-Tool",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2091,7 +2091,7 @@
             {
               "node_type": "item",
               "title": "redisMassExploit Shodan",
-              "description": null,
+              "description": "giaplv57/redisMassExploit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2112,7 +2112,7 @@
             {
               "node_type": "item",
               "title": "Mecashed DDos Exploit Free Shodan",
-              "description": null,
+              "description": "add1ct3d/Memcrashed-DDoS-Exploit-Free",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2133,7 +2133,7 @@
             {
               "node_type": "item",
               "title": "Pingpon Exploit Shodan",
-              "description": null,
+              "description": "649/Pingpon-Exploit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2154,7 +2154,7 @@
             {
               "node_type": "item",
               "title": "IOT MOTT Exploit Shodan",
-              "description": null,
+              "description": "Warflop/IOT-MQTT-Exploit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2180,7 +2180,7 @@
             {
               "node_type": "item",
               "title": "Redis Mass Exploit Shodan",
-              "description": null,
+              "description": "cys3c/redisMassExploit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2201,7 +2201,7 @@
             {
               "node_type": "item",
               "title": "Memcrashed-DDoS-Exploit_withoutShodan",
-              "description": null,
+              "description": "tai-euler/Memcrashed-DDoS-Exploit_withoutShodan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2222,7 +2222,7 @@
             {
               "node_type": "item",
               "title": "CVE-2019-19781 Shodan",
-              "description": null,
+              "description": "aqhmal/CVE-2019-19781",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2250,7 +2250,7 @@
             {
               "node_type": "item",
               "title": "Apache Exploit CVE-2021-42013 Shodan",
-              "description": null,
+              "description": "andrea-mattioli/apache-exploit-CVE-2021-42013",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2271,7 +2271,7 @@
             {
               "node_type": "item",
               "title": "PulseExploit Shodan",
-              "description": null,
+              "description": "aqhmal/pulsexploit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2299,7 +2299,7 @@
             {
               "node_type": "item",
               "title": "TouDoum-DDoS-Exploit Shodan",
-              "description": null,
+              "description": "msterhuj/TouDoum-DDoS-Exploit",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2329,7 +2329,7 @@
             {
               "node_type": "item",
               "title": "Memcached DDOS Shodan",
-              "description": null,
+              "description": "BlackHoleSun78/memcrashed-ddos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2350,7 +2350,7 @@
             {
               "node_type": "item",
               "title": "ShodanFortiOS",
-              "description": null,
+              "description": "TechinsightsPro/ShodanFortiOS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2371,7 +2371,7 @@
             {
               "node_type": "item",
               "title": "CVE-2022-40140-SCANNER Shodan",
-              "description": null,
+              "description": "ipsBruno/CVE-2022-40140-SCANNER",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2392,7 +2392,7 @@
             {
               "node_type": "item",
               "title": "F5-BIG-IP-CVE-2020-5902 Shodan scanner",
-              "description": null,
+              "description": "faisalfs10x/F5-BIG-IP-CVE-2020-5902-shodan-scanner",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2418,7 +2418,7 @@
             {
               "node_type": "item",
               "title": "Cisco CVE-2020-3452 Shodan scanner",
-              "description": null,
+              "description": "faisalfs10x/Cisco-CVE-2020-3452-shodan-scanner",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2451,7 +2451,7 @@
             {
               "node_type": "item",
               "title": "Kamerka (Shodan)",
-              "description": null,
+              "description": "woj-ciech/kamerka",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2472,7 +2472,7 @@
             {
               "node_type": "item",
               "title": "Fire Shodan Map",
-              "description": null,
+              "description": "Warflop/FireShodanMap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2499,7 +2499,7 @@
             {
               "node_type": "item",
               "title": "Shomap",
-              "description": null,
+              "description": "woj-ciech/Shomap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2520,7 +2520,7 @@
             {
               "node_type": "item",
               "title": "GreyNoise Visualizer",
-              "description": null,
+              "description": "cbuto/greynoise-visualizer",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2552,7 +2552,7 @@
             {
               "node_type": "item",
               "title": "Common Osint Model Converter (Shodan and Censys)",
-              "description": null,
+              "description": "3c7/common-osint-model",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2581,7 +2581,7 @@
             {
               "node_type": "item",
               "title": "GShodan. JSON to HTML",
-              "description": null,
+              "description": "System00-Security/GShodan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2602,7 +2602,7 @@
             {
               "node_type": "item",
               "title": "OSINT_Shodan_to_excel",
-              "description": null,
+              "description": "KrakenMSK/OSINT_Shodan_to_excel",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2630,7 +2630,7 @@
             {
               "node_type": "item",
               "title": "GriefBuddy",
-              "description": null,
+              "description": "k0rnh0li0/GriefBuddy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2657,7 +2657,7 @@
             {
               "node_type": "item",
               "title": "Shodan Minecraft Server Finder",
-              "description": null,
+              "description": "KarpF1sh/shodan-minecraft-server-finder",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2685,7 +2685,7 @@
             {
               "node_type": "item",
               "title": "ShodanAnomymousDirs",
-              "description": null,
+              "description": "imnikola/ShodanAnomymousDirs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2706,7 +2706,7 @@
             {
               "node_type": "item",
               "title": "Shodan FTPSearch",
-              "description": null,
+              "description": "b3n4kh/shodan-ftpsearch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2740,7 +2740,7 @@
             {
               "node_type": "item",
               "title": "ShodanGeoScan",
-              "description": null,
+              "description": "nixintel/ShodanGeoScan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2768,7 +2768,7 @@
             {
               "node_type": "item",
               "title": "CloudFlair Censys",
-              "description": null,
+              "description": "christophetd/CloudFlair",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2794,7 +2794,7 @@
             {
               "node_type": "item",
               "title": "CloudBunny Shodan/Censys",
-              "description": null,
+              "description": "Warflop/cloudbunny",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2824,7 +2824,7 @@
             {
               "node_type": "item",
               "title": "CloudFlare-IP Shodan",
-              "description": null,
+              "description": "karma9874/CloudFlare-IP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2859,7 +2859,7 @@
             {
               "node_type": "item",
               "title": "Django Hunter",
-              "description": null,
+              "description": "jimywork/djangohunter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2889,7 +2889,7 @@
             {
               "node_type": "item",
               "title": "MongoDB Shodan",
-              "description": null,
+              "description": "mohwahyudi/mongodb-shodan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2917,7 +2917,7 @@
             {
               "node_type": "item",
               "title": "RpiGrab (Shodan + RaspBerryPi)",
-              "description": null,
+              "description": "TheSpeedX/rpigrab",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2947,7 +2947,7 @@
             {
               "node_type": "item",
               "title": "Miner Hack",
-              "description": null,
+              "description": "greatshi/miner_hack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2968,7 +2968,7 @@
             {
               "node_type": "item",
               "title": "Shodan Raspi",
-              "description": null,
+              "description": "FoxTheAlmighty/shodan_raspi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2996,7 +2996,7 @@
             {
               "node_type": "item",
               "title": "C2 Tracker Shodan",
-              "description": null,
+              "description": "montysecurity/C2-Tracker",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3024,7 +3024,7 @@
             {
               "node_type": "item",
               "title": "C2 Pwn Shodan",
-              "description": null,
+              "description": "LukeBob-zz/C2-Pwn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3058,7 +3058,7 @@
             {
               "node_type": "item",
               "title": "Shodmon",
-              "description": null,
+              "description": "inishantgrover/Shodmon",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3079,7 +3079,7 @@
             {
               "node_type": "item",
               "title": "Microsoft Sentinel Shodan Monitor",
-              "description": null,
+              "description": "mikoiv/MicrosoftSentinel-ShodanMonitor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3100,7 +3100,7 @@
             {
               "node_type": "item",
               "title": "GreyWatch (GreyNoise)",
-              "description": null,
+              "description": "hrbrmstr/greywatch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3128,7 +3128,7 @@
             {
               "node_type": "item",
               "title": "Shimon",
-              "description": null,
+              "description": "ninoseki/shimon",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3160,7 +3160,7 @@
             {
               "node_type": "item",
               "title": "Pirate VPS",
-              "description": null,
+              "description": "superswan/Pirate-VPS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3185,7 +3185,7 @@
             {
               "node_type": "item",
               "title": "Shodan Screenshot Automator VNC",
-              "description": null,
+              "description": "swlacy/ShodanScreenshotAutomatorVNC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3212,7 +3212,7 @@
             {
               "node_type": "item",
               "title": "Shodan Slideshow",
-              "description": null,
+              "description": "GitMirar/shodan-slideshow",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3233,7 +3233,7 @@
             {
               "node_type": "item",
               "title": "Shodaniel",
-              "description": null,
+              "description": "gr4viton/shodaniel",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3261,7 +3261,7 @@
             {
               "node_type": "item",
               "title": "Fofa View",
-              "description": null,
+              "description": "fofapro/fofa_view",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3274,7 +3274,7 @@
                 "open_issues": 5,
                 "owner": "fofapro",
                 "repo": "fofa_view",
-                "stars": 622,
+                "stars": 621,
                 "topics": [
                   "chrome",
                   "firefox",
@@ -3287,7 +3287,7 @@
             {
               "node_type": "item",
               "title": "Shodan Firefox addon",
-              "description": null,
+              "description": "PaulSec/Shodan-Firefox-Addon",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3308,7 +3308,7 @@
             {
               "node_type": "item",
               "title": "ZoomEye Tools",
-              "description": null,
+              "description": "knownsec/Zoomeye-Tools",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3339,7 +3339,7 @@
             {
               "node_type": "item",
               "title": "GreyNoise AI Chatbot",
-              "description": null,
+              "description": "zaidmukaddam/greynoise-chatbot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3372,7 +3372,7 @@
             {
               "node_type": "item",
               "title": "Shodan Mobile App",
-              "description": null,
+              "description": "PaulSec/Shodan.io-mobile-app",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3393,7 +3393,7 @@
             {
               "node_type": "item",
               "title": "Shodand",
-              "description": null,
+              "description": "fooock/shodand",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3426,7 +3426,7 @@
             {
               "node_type": "item",
               "title": "ZoomEye Android SDK API",
-              "description": null,
+              "description": "donglua/ZoomEye-API",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3447,7 +3447,7 @@
             {
               "node_type": "item",
               "title": "ZoomEye Android",
-              "description": null,
+              "description": "donglua/ZoomEyeAndroid",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3475,7 +3475,7 @@
             {
               "node_type": "item",
               "title": "Discord ShodanBot",
-              "description": null,
+              "description": "RocketGod-git/shodanbot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3503,7 +3503,7 @@
             {
               "node_type": "item",
               "title": "IRC Shodan Bot",
-              "description": null,
+              "description": "ThibaudKieffer/shodanbot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3531,7 +3531,7 @@
             {
               "node_type": "item",
               "title": "Whatsapp ShodanBot",
-              "description": null,
+              "description": "geek-repo/Whatsapp-shodanBot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3559,7 +3559,7 @@
             {
               "node_type": "item",
               "title": "Shodan Slack Bot",
-              "description": null,
+              "description": "vortexau/ShodanSlackBot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3580,7 +3580,7 @@
             {
               "node_type": "item",
               "title": "CensysIP for Slack",
-              "description": null,
+              "description": "jgamblin/censysip-for-slack",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3608,7 +3608,7 @@
             {
               "node_type": "item",
               "title": "GitShodanKey (search GitHub for public Shodan API keys)",
-              "description": null,
+              "description": "laincode/shodan-seeker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3636,7 +3636,7 @@
             {
               "node_type": "item",
               "title": "Shodan Generator",
-              "description": null,
+              "description": "Xosrov/Shodan-Generator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3667,7 +3667,7 @@
             {
               "node_type": "item",
               "title": "Search Viewer (Fofa, Hunter, Shodan, Quake, Zoomeye, Censys)",
-              "description": null,
+              "description": "G3et/Search_Viewer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3695,7 +3695,7 @@
             {
               "node_type": "item",
               "title": "Shodan VIZ",
-              "description": null,
+              "description": "jporter-dev/shodan-viz",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3729,7 +3729,7 @@
             {
               "node_type": "item",
               "title": "Shodan Python Library",
-              "description": null,
+              "description": "achillean/shodan-python",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3750,7 +3750,7 @@
             {
               "node_type": "item",
               "title": "Shodan Eye",
-              "description": null,
+              "description": "BullsEye0/shodan-eye",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3771,7 +3771,7 @@
             {
               "node_type": "item",
               "title": "\"My Shodan scripts\"",
-              "description": null,
+              "description": "random-robbie/My-Shodan-Scripts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3795,7 +3795,7 @@
             {
               "node_type": "item",
               "title": "FofaHack",
-              "description": null,
+              "description": "Cl0udG0d/Fofa-hack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3816,7 +3816,7 @@
             {
               "node_type": "item",
               "title": "FofaMap",
-              "description": null,
+              "description": "asaotomo/FofaMap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3853,7 +3853,7 @@
             {
               "node_type": "item",
               "title": "Sarenka (universal)",
-              "description": null,
+              "description": "KTZgraph/sarenka",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3895,7 +3895,7 @@
             {
               "node_type": "item",
               "title": "ThunderSearch",
-              "description": null,
+              "description": "xzajyjs/ThunderSearch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3927,7 +3927,7 @@
             {
               "node_type": "item",
               "title": "ShodanX",
-              "description": null,
+              "description": "RevoltSecurities/ShodanX",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3962,7 +3962,7 @@
             {
               "node_type": "item",
               "title": "ZoomEye Python",
-              "description": null,
+              "description": "knownsec/ZoomEye-python",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3987,7 +3987,7 @@
             {
               "node_type": "item",
               "title": "Censys Python",
-              "description": null,
+              "description": "censys/censys-python",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4017,7 +4017,7 @@
             {
               "node_type": "item",
               "title": "Search Tools",
-              "description": null,
+              "description": "atdpa4sw0rd/Search-Tools",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4038,7 +4038,7 @@
             {
               "node_type": "item",
               "title": "ShodanTools",
-              "description": null,
+              "description": "n0x08/ShodanTools",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4059,7 +4059,7 @@
             {
               "node_type": "item",
               "title": "ShodanHat",
-              "description": null,
+              "description": "HatBashBR/ShodanHat",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4080,7 +4080,7 @@
             {
               "node_type": "item",
               "title": "Searpy (universal)",
-              "description": null,
+              "description": "j3ers3/Searpy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4093,7 +4093,7 @@
                 "open_issues": 1,
                 "owner": "j3ers3",
                 "repo": "Searpy",
-                "stars": 214,
+                "stars": 213,
                 "topics": [
                   "fofa",
                   "google",
@@ -4107,7 +4107,7 @@
             {
               "node_type": "item",
               "title": "NoMoney (universal)",
-              "description": null,
+              "description": "H-Limbus/NoMoney",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4133,7 +4133,7 @@
             {
               "node_type": "item",
               "title": "PyGreyNoise",
-              "description": null,
+              "description": "GreyNoise-Intelligence/pygreynoise",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4159,7 +4159,7 @@
             {
               "node_type": "item",
               "title": "PyHunter",
-              "description": null,
+              "description": "VonStruddle/PyHunter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4180,7 +4180,7 @@
             {
               "node_type": "item",
               "title": "CyberSpace Map API",
-              "description": null,
+              "description": "Xc1Ym/cyberspace_map_API",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4204,7 +4204,7 @@
             {
               "node_type": "item",
               "title": "Shodan Seeker",
-              "description": null,
+              "description": "laincode/shodan-seeker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4225,7 +4225,7 @@
             {
               "node_type": "item",
               "title": "Shodan_So",
-              "description": null,
+              "description": "zev3n/Shodan_So",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4246,7 +4246,7 @@
             {
               "node_type": "item",
               "title": "Shogun",
-              "description": null,
+              "description": "NullArray/Shogun",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4277,7 +4277,7 @@
             {
               "node_type": "item",
               "title": "X-Fofa",
-              "description": null,
+              "description": "sv3nbeast/X-Fofa",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4298,7 +4298,7 @@
             {
               "node_type": "item",
               "title": ":heartpulse:Netlas Official Python Library:heartpulse:",
-              "description": null,
+              "description": "netlas-io/netlas-python",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4323,7 +4323,7 @@
             {
               "node_type": "item",
               "title": "ShodanSearchAssistant",
-              "description": null,
+              "description": "KyxRecon/ShodanAPI",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4344,7 +4344,7 @@
             {
               "node_type": "item",
               "title": "ShodanFy",
-              "description": null,
+              "description": "owlonex/Shodanfy.py",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4365,7 +4365,7 @@
             {
               "node_type": "item",
               "title": ":heartpulse:Netlas Email Search Python:heartpulse:",
-              "description": null,
+              "description": "soxoj/netlas-email-search",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4391,7 +4391,7 @@
             {
               "node_type": "item",
               "title": "360Quake",
-              "description": null,
+              "description": "test502git/360Quake",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4412,7 +4412,7 @@
             {
               "node_type": "item",
               "title": "Ozone Tool",
-              "description": null,
+              "description": "wkend/0_zone_tool",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4433,7 +4433,7 @@
             {
               "node_type": "item",
               "title": "CruminalIP Python",
-              "description": null,
+              "description": "ChoiSG/criminalip-python",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4454,7 +4454,7 @@
             {
               "node_type": "item",
               "title": "Neuro. Netlas vulnerabilities search automation using Nuclei templates",
-              "description": null,
+              "description": "humblelad/neuro",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4479,7 +4479,7 @@
             {
               "node_type": "item",
               "title": "SherlockSight (Criminal IP)",
-              "description": null,
+              "description": "Aidennnn33/sherlocksight",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4508,7 +4508,7 @@
             {
               "node_type": "item",
               "title": "PyOnyphe",
-              "description": null,
+              "description": "n4xh4ck5/pyonyphe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4529,7 +4529,7 @@
             {
               "node_type": "item",
               "title": "PyCriminalIP",
-              "description": null,
+              "description": "haginara/PyCriminalIP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4553,7 +4553,7 @@
             {
               "node_type": "item",
               "title": "AIOOnyphe",
-              "description": null,
+              "description": "koromodako/aionyphe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4577,7 +4577,7 @@
             {
               "node_type": "item",
               "title": "360quake_view",
-              "description": null,
+              "description": "niexiaoxiao11/360quake_view",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4605,7 +4605,7 @@
             {
               "node_type": "item",
               "title": "ShodanSpider",
-              "description": null,
+              "description": "shubhamrooter/ShodanSpider",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4626,7 +4626,7 @@
             {
               "node_type": "item",
               "title": ":heartpulse:Netlas Scripts:heartpulse:",
-              "description": null,
+              "description": "netlas-io/netlas-scripts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4652,7 +4652,7 @@
             {
               "node_type": "item",
               "title": "ShodanVulnCheck",
-              "description": null,
+              "description": "Mavrepis/ShodanVulncheck",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4673,7 +4673,7 @@
             {
               "node_type": "item",
               "title": "GreyNoise Bash Scripts",
-              "description": null,
+              "description": "0x4rk0/greynoise",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4701,7 +4701,7 @@
             {
               "node_type": "item",
               "title": "Fofa Viewer",
-              "description": null,
+              "description": "wgpsec/fofa_viewer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4729,7 +4729,7 @@
             {
               "node_type": "item",
               "title": "fofaEX",
-              "description": null,
+              "description": "10cks/fofaEX",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4756,7 +4756,7 @@
             {
               "node_type": "item",
               "title": "JShodan",
-              "description": null,
+              "description": "fooock/jshodan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4789,7 +4789,7 @@
             {
               "node_type": "item",
               "title": "Fofa Java",
-              "description": null,
+              "description": "fofapro/fofa-java",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4813,7 +4813,7 @@
             {
               "node_type": "item",
               "title": "Shodan Scanner",
-              "description": null,
+              "description": "nikos-glikis/ShodanScanner",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4834,7 +4834,7 @@
             {
               "node_type": "item",
               "title": "QuakeViewer",
-              "description": null,
+              "description": "Rubby2001/QuakeViewer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4855,7 +4855,7 @@
             {
               "node_type": "item",
               "title": "ZoomEye App",
-              "description": null,
+              "description": "daviddone/ZoomEye_APP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4876,7 +4876,7 @@
             {
               "node_type": "item",
               "title": "GreyNoise4j",
-              "description": null,
+              "description": "bfu4/greynoise4j",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4904,7 +4904,7 @@
             {
               "node_type": "item",
               "title": "Xray (Shodan)",
-              "description": null,
+              "description": "evilsocket/xray",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4917,7 +4917,7 @@
                 "open_issues": 5,
                 "owner": "evilsocket",
                 "repo": "xray",
-                "stars": 2333,
+                "stars": 2331,
                 "topics": [
                   "intelligence",
                   "mapping",
@@ -4932,7 +4932,7 @@
             {
               "node_type": "item",
               "title": "FoFax",
-              "description": null,
+              "description": "xiecat/fofax",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4958,7 +4958,7 @@
             {
               "node_type": "item",
               "title": "Go Shodan",
-              "description": null,
+              "description": "ns3777k/go-shodan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4986,7 +4986,7 @@
             {
               "node_type": "item",
               "title": "Shomon (Shodan Monitoring integration for TheHive)",
-              "description": null,
+              "description": "kaansk/shomon",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5016,7 +5016,7 @@
             {
               "node_type": "item",
               "title": "Shodan Go Client",
-              "description": null,
+              "description": "shadowscatcher/shodan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5044,7 +5044,7 @@
             {
               "node_type": "item",
               "title": "Shodanidb (Fetch data (open ports, CVEs, CPEs, ...) from shodan internetDB API)",
-              "description": null,
+              "description": "s4hm4d/shodanidb",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5065,7 +5065,7 @@
             {
               "node_type": "item",
               "title": "ZoomEye Go",
-              "description": null,
+              "description": "gyyyy/ZoomEye-go",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5086,7 +5086,7 @@
             {
               "node_type": "item",
               "title": "Fofa Go",
-              "description": null,
+              "description": "fofapro/fofa-go",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5107,7 +5107,7 @@
             {
               "node_type": "item",
               "title": "SteamPipe Shodan Plugin",
-              "description": null,
+              "description": "turbot/steampipe-plugin-shodan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5146,7 +5146,7 @@
             {
               "node_type": "item",
               "title": "QuakeAPI",
-              "description": null,
+              "description": "YetClass/QuakeAPI",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5167,7 +5167,7 @@
             {
               "node_type": "item",
               "title": "GoCensys",
-              "description": null,
+              "description": "abadojack/gocensys",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5188,7 +5188,7 @@
             {
               "node_type": "item",
               "title": "Fofa Dump",
-              "description": null,
+              "description": "tardc/fofadump",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5211,7 +5211,7 @@
             {
               "node_type": "item",
               "title": "Netlas Go Library",
-              "description": null,
+              "description": "mmpx12/netlas-go",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5239,7 +5239,7 @@
             {
               "node_type": "item",
               "title": "GreyNoise",
-              "description": null,
+              "description": "securityclippy/greynoise",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5260,7 +5260,7 @@
             {
               "node_type": "item",
               "title": "GO GreyNoise",
-              "description": null,
+              "description": "patrobinson/go-greynoise",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5288,7 +5288,7 @@
             {
               "node_type": "item",
               "title": "Shodanz",
-              "description": null,
+              "description": "picatz/shodanz",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5318,7 +5318,7 @@
             {
               "node_type": "item",
               "title": "Shodan Ruby",
-              "description": null,
+              "description": "achillean/shodan-ruby",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -5339,7 +5339,7 @@
             {
               "node_type": "item",
               "title": "Censys Ruby",
-              "description": null,
+              "description": "trailofbits/censys-ruby",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5364,7 +5364,7 @@
             {
               "node_type": "item",
               "title": "GreyNoise",
-              "description": null,
+              "description": "ninoseki/greynoise",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -5385,7 +5385,7 @@
             {
               "node_type": "item",
               "title": "Onyphe RB",
-              "description": null,
+              "description": "ninoseki/onyphe-rb",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5413,7 +5413,7 @@
             {
               "node_type": "item",
               "title": "Shodan.Net",
-              "description": null,
+              "description": "TerribleDev/Shodan.Net",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5434,7 +5434,7 @@
             {
               "node_type": "item",
               "title": "Shodan CLI",
-              "description": null,
+              "description": "yvesago/shodan-cli",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5462,7 +5462,7 @@
             {
               "node_type": "item",
               "title": "Shodan.NET",
-              "description": null,
+              "description": "achillean/Shodan.NET",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5490,7 +5490,7 @@
             {
               "node_type": "item",
               "title": "ShodanCPP",
-              "description": null,
+              "description": "prophetl33t/ShodanCPP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5522,7 +5522,7 @@
             {
               "node_type": "item",
               "title": "Shodan Client",
-              "description": null,
+              "description": "jesusprubio/shodan-client",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -5543,7 +5543,7 @@
             {
               "node_type": "item",
               "title": "Shodan.js",
-              "description": null,
+              "description": "picatz/shodan.js",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -5568,7 +5568,7 @@
             {
               "node_type": "item",
               "title": "Easy Netlas",
-              "description": null,
+              "description": "I2rys/easy-netlas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5603,7 +5603,7 @@
             {
               "node_type": "item",
               "title": "Posh Shodan",
-              "description": null,
+              "description": "darkoperator/Posh-Shodan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5624,7 +5624,7 @@
             {
               "node_type": "item",
               "title": "Shodan PS",
-              "description": null,
+              "description": "simeononsecurity/Shodan_PS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5652,7 +5652,7 @@
             {
               "node_type": "item",
               "title": "GreyNoise PS",
-              "description": null,
+              "description": "AndrewPla/GreyNoisePS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5676,7 +5676,7 @@
             {
               "node_type": "item",
               "title": "Use Onyphe",
-              "description": null,
+              "description": "MS-LUF/Use-Onyphe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5719,7 +5719,7 @@
             {
               "node_type": "item",
               "title": "Shodan PHP REST API",
-              "description": null,
+              "description": "ScadaExposure/Shodan-PHP-REST-API",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5740,7 +5740,7 @@
             {
               "node_type": "item",
               "title": "Jenkins Shodan Shell",
-              "description": null,
+              "description": "joesmithjaffa/jenkins-shell",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5773,7 +5773,7 @@
             {
               "node_type": "item",
               "title": "Shodan ClojureScript Library",
-              "description": null,
+              "description": "noprompt/shodan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5801,7 +5801,7 @@
             {
               "node_type": "item",
               "title": "Shodan Perk",
-              "description": null,
+              "description": "achillean/shodan-perl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5822,7 +5822,7 @@
             {
               "node_type": "item",
               "title": "Onyphe CLI",
-              "description": null,
+              "description": "onyphe/cli",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5850,7 +5850,7 @@
             {
               "node_type": "item",
               "title": "Shodan Library",
-              "description": null,
+              "description": "PercussiveElbow/Shodan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5883,7 +5883,7 @@
             {
               "node_type": "item",
               "title": "Shodan R Package",
-              "description": null,
+              "description": "hrbrmstr/shodan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5910,7 +5910,7 @@
             {
               "node_type": "item",
               "title": "Censys R Package",
-              "description": null,
+              "description": "hrbrmstr/censys",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5937,7 +5937,7 @@
             {
               "node_type": "item",
               "title": "GreyNoise R Package",
-              "description": null,
+              "description": "hrbrmstr/greynoise",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5970,7 +5970,7 @@
             {
               "node_type": "item",
               "title": "Shodan Rust",
-              "description": null,
+              "description": "femiagbabiaka/shodan-rust",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5998,7 +5998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T11:24:06.498Z",
+    "last_updated": "2026-10-03T04:52:15.795Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",

@@ -143,7 +143,7 @@
 
 ## Guides/documentations
 
-* :heartpulse: [Netlas Cookbook](https://github.com/netlas-io/netlas-cookbook) ⭐ 890 | 🐛 0 | 🌐 Python | 📅 2026-09-18 :heartpulse:
+* :heartpulse: [Netlas Cookbook](https://github.com/netlas-io/netlas-cookbook) ⭐ 889 | 🐛 0 | 🌐 Python | 📅 2026-09-18 :heartpulse:
 * [Shodan Dojo](https://github.com/ninoseki/shodan-dojo) ⭐ 470 | 🐛 0 | 🌐 Python | 📅 2020-08-07
 * [Awesome FOFA](https://github.com/FofaInfo/Awesome-FOFA) ⭐ 357 | 🐛 0 | 📅 2026-09-14
 * [GreyNoise API Documentation](https://github.com/GreyNoise-Intelligence/api.greynoise.io) ⭐ 321 | 🐛 1 | 📅 2021-04-02
@@ -193,11 +193,11 @@
 
 ## "Dorks"/queries Lists
 
-* [Awesome Shodan Queries](https://github.com/jakejarvis/awesome-shodan-queries) ⭐ 7,761 | 🐛 13 | 📅 2024-05-27
+* [Awesome Shodan Queries](https://github.com/jakejarvis/awesome-shodan-queries) ⭐ 7,760 | 🐛 13 | 📅 2024-05-27
 * [Awesome Censys Queries](https://github.com/thehappydinoa/awesome-censys-queries) ⭐ 1,248 | 🐛 2 | 🌐 Python | 📅 2026-07-20
 * [Shodan Dorks from @lothos612](https://github.com/lothos612/shodan) ⭐ 600 | 🐛 0 | 📅 2023-03-31
 * [Shodan filters](https://github.com/JavierOlmedo/shodan-filters) ⭐ 589 | 🐛 2 | 📅 2018-11-25
-* [Shodan dorks from @nullfuzz](https://github.com/nullfuzz-pentest/shodan-dorks) ⭐ 548 | 🐛 0 | 📅 2026-04-21
+* [Shodan dorks from @nullfuzz](https://github.com/nullfuzz-pentest/shodan-dorks) ⭐ 547 | 🐛 0 | 📅 2026-04-21
 * [Shodan Dorks from @humblelad](https://github.com/humblelad/Shodan-Dorks) ⭐ 542 | 🐛 0 | 📅 2020-05-26
 * [Shodan Dorks 2023](https://github.com/HernanRodriguez1/Dorks-Shodan-2023) ⭐ 247 | 🐛 0 | 🌐 Python | 📅 2025-01-13
 * [:heartpulse:Netlas dorks:heartpulse:](https://github.com/netlas-io/netlas-dorks) ⭐ 209 | 🐛 0 | 📅 2026-04-24
@@ -233,7 +233,7 @@
 
 ## Integrations and plugins
 
-* [Fofa Xray Plugin](https://github.com/Miagz/XrayFofa) ⭐ 246 | 🐛 9 | 🌐 Python | 📅 2023-09-04
+* [Fofa Xray Plugin](https://github.com/Miagz/XrayFofa) ⭐ 245 | 🐛 9 | 🌐 Python | 📅 2023-09-04
 * [PhishStats Shodan](https://github.com/eschultze/phishstats-api-network) ⭐ 78 | 🐛 1 | 🌐 Python | 📅 2024-08-12
 * [URlScan Shodan](https://github.com/montysecurity/InfraHunter) ⭐ 63 | 🐛 0 | 🌐 Python | 📅 2024-07-18
 * [Maltego Censys Official](https://github.com/censys/censys-maltego) ⭐ 41 | 🐛 5 | 🌐 Python | 📅 2023-07-11
@@ -280,9 +280,9 @@
 
 ## Network/port Scanners
 
-* [IVRE (universal)](https://github.com/ivre/ivre) ⭐ 4,161 | 🐛 56 | 🌐 Python | 📅 2026-10-01
-* [Smap (Shodan)](https://github.com/s0md3v/Smap) ⭐ 3,303 | 🐛 1 | 🌐 Go | 📅 2026-08-15
-* [Silver (Shodan)](https://github.com/s0md3v/Silver) ⭐ 1,054 | 🐛 0 | 📅 2026-04-26
+* [IVRE (universal)](https://github.com/ivre/ivre) ⭐ 4,160 | 🐛 56 | 🌐 Python | 📅 2026-10-01
+* [Smap (Shodan)](https://github.com/s0md3v/Smap) ⭐ 3,302 | 🐛 1 | 🌐 Go | 📅 2026-08-15
+* [Silver (Shodan)](https://github.com/s0md3v/Silver) ⭐ 1,053 | 🐛 0 | 📅 2026-04-26
 * [MEC (ZoomEye)](https://github.com/jm33-m0/mec) ⭐ 613 | 🐛 0 | 🌐 Python | 📅 2022-07-14
 * [Spidex](https://github.com/alechilczenko/spidex) ⭐ 261 | 🐛 0 | 🌐 Python | 📅 2025-12-12
 * [Shodan HQ NSE](https://github.com/glennzw/shodan-hq-nse) ⭐ 158 | 🐛 0 | 🌐 Lua | 📅 2016-03-14
@@ -402,7 +402,7 @@
 
 ## Browser Extensions
 
-* [Fofa View](https://github.com/fofapro/fofa_view) ⭐ 622 | 🐛 5 | 🌐 JavaScript | 📅 2022-02-16
+* [Fofa View](https://github.com/fofapro/fofa_view) ⭐ 621 | 🐛 5 | 🌐 JavaScript | 📅 2022-02-16
 * [Shodan Firefox addon](https://github.com/PaulSec/Shodan-Firefox-Addon) ⚠️ Archived
 * [ZoomEye Tools](https://github.com/knownsec/Zoomeye-Tools) ⭐ 44 | 🐛 1 | 🌐 JavaScript | 📅 2022-01-18
 * [Netlas.io Chrome Extension](https://chromewebstore.google.com/detail/netlasio/pncoieihjcmpooceknjajojehmhdedii?hl=en-GB)
@@ -468,7 +468,7 @@
 * [Search Tools](https://github.com/atdpa4sw0rd/Search-Tools) ⭐ 343 | 🐛 5 | 🌐 Python | 📅 2021-04-09
 * [ShodanTools](https://github.com/n0x08/ShodanTools) ⭐ 263 | 🐛 2 | 🌐 Python | 📅 2020-07-08
 * [ShodanHat](https://github.com/HatBashBR/ShodanHat) ⭐ 235 | 🐛 2 | 🌐 Python | 📅 2021-06-14
-* [Searpy (universal)](https://github.com/j3ers3/Searpy) ⭐ 214 | 🐛 1 | 🌐 Python | 📅 2023-05-17
+* [Searpy (universal)](https://github.com/j3ers3/Searpy) ⭐ 213 | 🐛 1 | 🌐 Python | 📅 2023-05-17
 * [NoMoney (universal)](https://github.com/H-Limbus/NoMoney) ⭐ 202 | 🐛 3 | 🌐 Python | 📅 2024-10-12
 * [PyGreyNoise](https://github.com/GreyNoise-Intelligence/pygreynoise) ⭐ 177 | 🐛 17 | 🌐 Python | 📅 2026-07-09
 * [PyHunter](https://github.com/VonStruddle/PyHunter) ⭐ 136 | 🐛 0 | 🌐 Python | 📅 2026-04-09
@@ -595,4 +595,4 @@ Thank you for following me! <https://cybdetective.com>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
