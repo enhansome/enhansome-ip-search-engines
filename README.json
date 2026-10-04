@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7761,
+                "stars": 7764,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -213,7 +213,7 @@
                 "open_issues": 2,
                 "owner": "thehappydinoa",
                 "repo": "awesome-censys-queries",
-                "stars": 1248,
+                "stars": 1247,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1374,7 +1374,7 @@
                 "open_issues": 56,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4161,
+                "stars": 4162,
                 "topics": [
                   "bro",
                   "easm",
@@ -1505,7 +1505,7 @@
                 "open_issues": 0,
                 "owner": "alechilczenko",
                 "repo": "kimi",
-                "stars": 261,
+                "stars": 262,
                 "topics": [
                   "banner-grabbing",
                   "censys",
@@ -1764,7 +1764,7 @@
                 "open_issues": 4,
                 "owner": "christophetd",
                 "repo": "censys-subdomain-finder",
-                "stars": 846,
+                "stars": 845,
                 "topics": [
                   "bugbounty",
                   "certificate-transparency-logs",
@@ -3742,7 +3742,7 @@
                 "open_issues": 65,
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 3236,
+                "stars": 3237,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3763,7 +3763,7 @@
                 "open_issues": 5,
                 "owner": "BullsEye0",
                 "repo": "shodan-eye",
-                "stars": 1371,
+                "stars": 1372,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3975,7 +3975,7 @@
                 "open_issues": 22,
                 "owner": "knownsec",
                 "repo": "ZoomEye-python",
-                "stars": 573,
+                "stars": 574,
                 "topics": [
                   "zoomeye",
                   "zoomeye-api",
@@ -5998,7 +5998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T10:40:58.955Z",
+    "last_updated": "2026-10-04T11:21:16.712Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
