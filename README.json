@@ -322,7 +322,7 @@
                 "open_issues": 0,
                 "owner": "humblelad",
                 "repo": "Shodan-Dorks",
-                "stars": 542,
+                "stars": 543,
                 "topics": [
                   "cybersecurity",
                   "hacking",
@@ -1374,7 +1374,7 @@
                 "open_issues": 56,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4166,
+                "stars": 4167,
                 "topics": [
                   "bro",
                   "easm",
@@ -1416,7 +1416,7 @@
                 "open_issues": 1,
                 "owner": "s0md3v",
                 "repo": "Smap",
-                "stars": 3301,
+                "stars": 3302,
                 "topics": [
                   "network-scanner",
                   "network-security",
@@ -1796,7 +1796,7 @@
                 "open_issues": 1,
                 "owner": "incogbyte",
                 "repo": "shosubgo",
-                "stars": 582,
+                "stars": 580,
                 "topics": [
                   "golang",
                   "grab-subdomains",
@@ -2781,7 +2781,7 @@
                 "open_issues": 11,
                 "owner": "christophetd",
                 "repo": "CloudFlair",
-                "stars": 2976,
+                "stars": 2977,
                 "topics": [
                   "censys",
                   "cloudflare",
@@ -3742,7 +3742,7 @@
                 "open_issues": 65,
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 3303,
+                "stars": 3304,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3829,7 +3829,7 @@
                 "open_issues": 31,
                 "owner": "asaotomo",
                 "repo": "FofaMap",
-                "stars": 739,
+                "stars": 740,
                 "topics": [
                   "ai-agent",
                   "asset-discovery",
@@ -4000,7 +4000,7 @@
                 "open_issues": 1,
                 "owner": "censys",
                 "repo": "censys-python",
-                "stars": 470,
+                "stars": 469,
                 "topics": [
                   "api",
                   "attack-surface-management",
@@ -4120,7 +4120,7 @@
                 "open_issues": 3,
                 "owner": "H-Limbus",
                 "repo": "NoMoney",
-                "stars": 202,
+                "stars": 203,
                 "topics": [
                   "360-quake",
                   "fofa-search",
@@ -4172,7 +4172,7 @@
                 "open_issues": 0,
                 "owner": "VonStruddle",
                 "repo": "PyHunter",
-                "stars": 136,
+                "stars": 137,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -4945,7 +4945,7 @@
                 "open_issues": 2,
                 "owner": "xiecat",
                 "repo": "fofax",
-                "stars": 840,
+                "stars": 841,
                 "topics": [
                   "fofa",
                   "fofa-cli",
@@ -5753,7 +5753,7 @@
                 "open_issues": 1,
                 "owner": "joesmithjaffa",
                 "repo": "jenkins-shell",
-                "stars": 94,
+                "stars": 93,
                 "topics": [
                   "hacking",
                   "jenkins",
@@ -5983,7 +5983,7 @@
                 "open_issues": 1,
                 "owner": "femiagbabiaka",
                 "repo": "shodan-rust",
-                "stars": 53,
+                "stars": 54,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -5998,7 +5998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T12:06:09.002Z",
+    "last_updated": "2026-10-08T12:16:20.801Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
