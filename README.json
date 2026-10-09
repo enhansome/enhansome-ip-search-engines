@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7772,
+                "stars": 7777,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1374,7 +1374,7 @@
                 "open_issues": 56,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4167,
+                "stars": 4169,
                 "topics": [
                   "bro",
                   "easm",
@@ -1416,7 +1416,7 @@
                 "open_issues": 1,
                 "owner": "s0md3v",
                 "repo": "Smap",
-                "stars": 3302,
+                "stars": 3301,
                 "topics": [
                   "network-scanner",
                   "network-security",
@@ -1918,7 +1918,7 @@
                 "open_issues": 4,
                 "owner": "orleven",
                 "repo": "Tentacle",
-                "stars": 375,
+                "stars": 374,
                 "topics": [
                   "exploit-framework",
                   "fofa",
@@ -3680,7 +3680,7 @@
                 "open_issues": 5,
                 "owner": "G3et",
                 "repo": "Search_Viewer",
-                "stars": 790,
+                "stars": 788,
                 "topics": [
                   "censys",
                   "fofa",
@@ -3742,7 +3742,7 @@
                 "open_issues": 65,
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 3304,
+                "stars": 3306,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3760,7 +3760,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-01T19:22:28Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "BullsEye0",
                 "repo": "shodan-eye",
                 "stars": 1373,
@@ -3808,7 +3808,7 @@
                 "open_issues": 6,
                 "owner": "Cl0udG0d",
                 "repo": "Fofa-hack",
-                "stars": 884,
+                "stars": 883,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3829,7 +3829,7 @@
                 "open_issues": 31,
                 "owner": "asaotomo",
                 "repo": "FofaMap",
-                "stars": 740,
+                "stars": 741,
                 "topics": [
                   "ai-agent",
                   "asset-discovery",
@@ -5116,8 +5116,8 @@
                 "id": 348544027,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T23:37:41Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-08T23:39:42Z",
+                "open_issues": 4,
                 "owner": "turbot",
                 "repo": "steampipe-plugin-shodan",
                 "stars": 29,
@@ -5998,7 +5998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T12:16:20.801Z",
+    "last_updated": "2026-10-09T12:07:42.000Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
@@ -6010,7 +6010,7 @@
       "open_issues": 3,
       "owner": "cipher387",
       "repo": "awesome-ip-search-engines",
-      "stars": 354,
+      "stars": 355,
       "topics": [
         "360quake",
         "awesome-list",
