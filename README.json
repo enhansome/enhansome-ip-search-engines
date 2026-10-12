@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "netlas-io",
                 "repo": "netlas-cookbook",
-                "stars": 891,
+                "stars": 892,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -73,7 +73,7 @@
                 "open_issues": 0,
                 "owner": "FofaInfo",
                 "repo": "Awesome-FOFA",
-                "stars": 359,
+                "stars": 360,
                 "topics": [
                   "cybersecurity",
                   "fofa",
@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7784,
+                "stars": 7789,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -213,7 +213,7 @@
                 "open_issues": 2,
                 "owner": "thehappydinoa",
                 "repo": "awesome-censys-queries",
-                "stars": 1250,
+                "stars": 1248,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -611,7 +611,7 @@
                 "open_issues": 1,
                 "owner": "eschultze",
                 "repo": "phishstats-api-network",
-                "stars": 78,
+                "stars": 79,
                 "topics": [
                   "api",
                   "graph",
@@ -1223,7 +1223,7 @@
                 "open_issues": 1,
                 "owner": "eremit4",
                 "repo": "favihunter",
-                "stars": 256,
+                "stars": 255,
                 "topics": [
                   "censys",
                   "criminalip",
@@ -1374,7 +1374,7 @@
                 "open_issues": 56,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4172,
+                "stars": 4173,
                 "topics": [
                   "bro",
                   "easm",
@@ -1416,7 +1416,7 @@
                 "open_issues": 1,
                 "owner": "s0md3v",
                 "repo": "Smap",
-                "stars": 3302,
+                "stars": 3303,
                 "topics": [
                   "network-scanner",
                   "network-security",
@@ -1796,7 +1796,7 @@
                 "open_issues": 1,
                 "owner": "incogbyte",
                 "repo": "shosubgo",
-                "stars": 580,
+                "stars": 581,
                 "topics": [
                   "golang",
                   "grab-subdomains",
@@ -2561,8 +2561,8 @@
                 "id": 269781974,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-04T18:41:32Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-11T13:39:18Z",
+                "open_issues": 9,
                 "owner": "3c7",
                 "repo": "common-osint-model",
                 "stars": 53,
@@ -2781,7 +2781,7 @@
                 "open_issues": 11,
                 "owner": "christophetd",
                 "repo": "CloudFlair",
-                "stars": 2978,
+                "stars": 2979,
                 "topics": [
                   "censys",
                   "cloudflare",
@@ -3385,7 +3385,7 @@
                 "open_issues": 7,
                 "owner": "PaulSec",
                 "repo": "Shodan.io-mobile-app",
-                "stars": 234,
+                "stars": 235,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -4714,7 +4714,7 @@
                 "open_issues": 21,
                 "owner": "wgpsec",
                 "repo": "fofa_viewer",
-                "stars": 1811,
+                "stars": 1810,
                 "topics": [
                   "cybersecurity",
                   "fofa",
@@ -5998,7 +5998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T11:38:37.659Z",
+    "last_updated": "2026-10-12T13:34:57.403Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
