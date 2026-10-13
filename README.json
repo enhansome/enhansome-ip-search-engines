@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "netlas-io",
                 "repo": "netlas-cookbook",
-                "stars": 892,
+                "stars": 894,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -49,7 +49,7 @@
                 "open_issues": 0,
                 "owner": "ninoseki",
                 "repo": "shodan-dojo",
-                "stars": 469,
+                "stars": 471,
                 "topics": [
                   "dojo",
                   "shodan"
@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7789,
+                "stars": 7793,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -213,7 +213,7 @@
                 "open_issues": 2,
                 "owner": "thehappydinoa",
                 "repo": "awesome-censys-queries",
-                "stars": 1248,
+                "stars": 1250,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -247,7 +247,7 @@
                 "open_issues": 0,
                 "owner": "lothos612",
                 "repo": "shodan",
-                "stars": 603,
+                "stars": 604,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -349,7 +349,7 @@
                 "open_issues": 0,
                 "owner": "HernanRodriguez1",
                 "repo": "Dorks-Shodan-2023",
-                "stars": 247,
+                "stars": 248,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -370,7 +370,7 @@
                 "open_issues": 0,
                 "owner": "netlas-io",
                 "repo": "netlas-dorks",
-                "stars": 209,
+                "stars": 210,
                 "topics": [
                   "osint",
                   "penetration-testing",
@@ -395,7 +395,7 @@
                 "open_issues": 0,
                 "owner": "mr-exo",
                 "repo": "shodan-dorks",
-                "stars": 113,
+                "stars": 114,
                 "topics": [
                   "devices",
                   "dorks",
@@ -1223,7 +1223,7 @@
                 "open_issues": 1,
                 "owner": "eremit4",
                 "repo": "favihunter",
-                "stars": 255,
+                "stars": 256,
                 "topics": [
                   "censys",
                   "criminalip",
@@ -1374,7 +1374,7 @@
                 "open_issues": 56,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4173,
+                "stars": 4176,
                 "topics": [
                   "bro",
                   "easm",
@@ -1416,7 +1416,7 @@
                 "open_issues": 1,
                 "owner": "s0md3v",
                 "repo": "Smap",
-                "stars": 3303,
+                "stars": 3304,
                 "topics": [
                   "network-scanner",
                   "network-security",
@@ -1591,7 +1591,7 @@
                 "open_issues": 5,
                 "owner": "petercunha",
                 "repo": "Knock",
-                "stars": 79,
+                "stars": 78,
                 "topics": [
                   "automatic",
                   "brute-force",
@@ -2028,7 +2028,7 @@
                 "open_issues": 0,
                 "owner": "JLospinoso",
                 "repo": "memcachedump",
-                "stars": 141,
+                "stars": 142,
                 "topics": [
                   "cache-dump",
                   "cli",
@@ -3742,7 +3742,7 @@
                 "open_issues": 65,
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 3311,
+                "stars": 3330,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3784,7 +3784,7 @@
                 "open_issues": 5,
                 "owner": "random-robbie",
                 "repo": "My-Shodan-Scripts",
-                "stars": 1157,
+                "stars": 1156,
                 "topics": [
                   "shodan",
                   "shodan-scripts"
@@ -3829,7 +3829,7 @@
                 "open_issues": 31,
                 "owner": "asaotomo",
                 "repo": "FofaMap",
-                "stars": 741,
+                "stars": 742,
                 "topics": [
                   "ai-agent",
                   "asset-discovery",
@@ -4030,7 +4030,7 @@
                 "open_issues": 5,
                 "owner": "atdpa4sw0rd",
                 "repo": "Search-Tools",
-                "stars": 344,
+                "stars": 343,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -4322,6 +4322,27 @@
             },
             {
               "node_type": "item",
+              "title": "ShodanFy",
+              "description": "owlonex/Shodanfy.py",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Get ports,vulnerabilities,informations,banners,..etc for any IP with Shodan (no apikey! no rate-limit!)",
+                "homepage": null,
+                "id": 269232750,
+                "language": null,
+                "license": "GPL-3.0",
+                "last_commit": "2020-06-03T20:32:11Z",
+                "open_issues": 0,
+                "owner": "owlonex",
+                "repo": "Shodanfy.py",
+                "stars": 27,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
+            },
+            {
+              "node_type": "item",
               "title": "ShodanSearchAssistant",
               "description": "KyxRecon/ShodanAPI",
               "children": [],
@@ -4337,27 +4358,6 @@
                 "owner": "KyxRecon",
                 "repo": "ShodanAPI",
                 "stars": 27,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T17:43:53.077Z"
-            },
-            {
-              "node_type": "item",
-              "title": "ShodanFy",
-              "description": "owlonex/Shodanfy.py",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Get ports,vulnerabilities,informations,banners,..etc for any IP with Shodan (no apikey! no rate-limit!)",
-                "homepage": null,
-                "id": 269232750,
-                "language": null,
-                "license": "GPL-3.0",
-                "last_commit": "2020-06-03T20:32:11Z",
-                "open_issues": 0,
-                "owner": "owlonex",
-                "repo": "Shodanfy.py",
-                "stars": 26,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -4618,7 +4618,7 @@
                 "open_issues": 2,
                 "owner": "shubhamrooter",
                 "repo": "ShodanSpider",
-                "stars": 212,
+                "stars": 213,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -4945,7 +4945,7 @@
                 "open_issues": 2,
                 "owner": "xiecat",
                 "repo": "fofax",
-                "stars": 842,
+                "stars": 843,
                 "topics": [
                   "fofa",
                   "fofa-cli",
@@ -5998,7 +5998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T13:34:57.403Z",
+    "last_updated": "2026-10-13T12:58:58.674Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
@@ -6010,7 +6010,7 @@
       "open_issues": 3,
       "owner": "cipher387",
       "repo": "awesome-ip-search-engines",
-      "stars": 356,
+      "stars": 357,
       "topics": [
         "360quake",
         "awesome-list",
