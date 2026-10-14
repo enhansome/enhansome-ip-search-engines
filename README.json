@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "netlas-io",
                 "repo": "netlas-cookbook",
-                "stars": 894,
+                "stars": 893,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -73,7 +73,7 @@
                 "open_issues": 0,
                 "owner": "FofaInfo",
                 "repo": "Awesome-FOFA",
-                "stars": 360,
+                "stars": 362,
                 "topics": [
                   "cybersecurity",
                   "fofa",
@@ -1191,7 +1191,7 @@
                 "open_issues": 3,
                 "owner": "pielco11",
                 "repo": "fav-up",
-                "stars": 1205,
+                "stars": 1206,
                 "topics": [
                   "cloudflare",
                   "cloudflare-bypass",
@@ -1223,7 +1223,7 @@
                 "open_issues": 1,
                 "owner": "eremit4",
                 "repo": "favihunter",
-                "stars": 256,
+                "stars": 255,
                 "topics": [
                   "censys",
                   "criminalip",
@@ -1374,7 +1374,7 @@
                 "open_issues": 56,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4176,
+                "stars": 4175,
                 "topics": [
                   "bro",
                   "easm",
@@ -1416,7 +1416,7 @@
                 "open_issues": 1,
                 "owner": "s0md3v",
                 "repo": "Smap",
-                "stars": 3304,
+                "stars": 3306,
                 "topics": [
                   "network-scanner",
                   "network-security",
@@ -1796,7 +1796,7 @@
                 "open_issues": 1,
                 "owner": "incogbyte",
                 "repo": "shosubgo",
-                "stars": 581,
+                "stars": 582,
                 "topics": [
                   "golang",
                   "grab-subdomains",
@@ -2464,7 +2464,7 @@
                 "open_issues": 14,
                 "owner": "woj-ciech",
                 "repo": "kamerka",
-                "stars": 1265,
+                "stars": 1266,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -2561,7 +2561,7 @@
                 "id": 269781974,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-11T13:39:18Z",
+                "last_commit": "2026-10-14T08:14:59Z",
                 "open_issues": 9,
                 "owner": "3c7",
                 "repo": "common-osint-model",
@@ -3009,7 +3009,7 @@
                 "open_issues": 2,
                 "owner": "montysecurity",
                 "repo": "C2-Tracker",
-                "stars": 786,
+                "stars": 785,
                 "topics": [
                   "cybersecurity",
                   "infosec",
@@ -3680,7 +3680,7 @@
                 "open_issues": 5,
                 "owner": "G3et",
                 "repo": "Search_Viewer",
-                "stars": 788,
+                "stars": 789,
                 "topics": [
                   "censys",
                   "fofa",
@@ -3742,7 +3742,7 @@
                 "open_issues": 65,
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 3330,
+                "stars": 3331,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3829,7 +3829,7 @@
                 "open_issues": 31,
                 "owner": "asaotomo",
                 "repo": "FofaMap",
-                "stars": 742,
+                "stars": 744,
                 "topics": [
                   "ai-agent",
                   "asset-discovery",
@@ -4714,7 +4714,7 @@
                 "open_issues": 21,
                 "owner": "wgpsec",
                 "repo": "fofa_viewer",
-                "stars": 1810,
+                "stars": 1811,
                 "topics": [
                   "cybersecurity",
                   "fofa",
@@ -4917,7 +4917,7 @@
                 "open_issues": 5,
                 "owner": "evilsocket",
                 "repo": "xray",
-                "stars": 2331,
+                "stars": 2332,
                 "topics": [
                   "intelligence",
                   "mapping",
@@ -4945,7 +4945,7 @@
                 "open_issues": 2,
                 "owner": "xiecat",
                 "repo": "fofax",
-                "stars": 843,
+                "stars": 845,
                 "topics": [
                   "fofa",
                   "fofa-cli",
@@ -5998,7 +5998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T12:58:58.674Z",
+    "last_updated": "2026-10-14T10:39:35.044Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
@@ -6010,7 +6010,7 @@
       "open_issues": 3,
       "owner": "cipher387",
       "repo": "awesome-ip-search-engines",
-      "stars": 357,
+      "stars": 356,
       "topics": [
         "360quake",
         "awesome-list",

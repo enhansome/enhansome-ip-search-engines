@@ -143,9 +143,9 @@
 
 ## Guides/documentations
 
-* :heartpulse: [Netlas Cookbook](https://github.com/netlas-io/netlas-cookbook) ⭐ 894 | 🐛 0 | 🌐 Python | 📅 2026-09-18 :heartpulse:
+* :heartpulse: [Netlas Cookbook](https://github.com/netlas-io/netlas-cookbook) ⭐ 893 | 🐛 0 | 🌐 Python | 📅 2026-09-18 :heartpulse:
 * [Shodan Dojo](https://github.com/ninoseki/shodan-dojo) ⭐ 471 | 🐛 0 | 🌐 Python | 📅 2020-08-07
-* [Awesome FOFA](https://github.com/FofaInfo/Awesome-FOFA) ⭐ 360 | 🐛 0 | 📅 2026-09-14
+* [Awesome FOFA](https://github.com/FofaInfo/Awesome-FOFA) ⭐ 362 | 🐛 0 | 📅 2026-09-14
 * [GreyNoise API Documentation](https://github.com/GreyNoise-Intelligence/api.greynoise.io) ⭐ 321 | 🐛 1 | 📅 2021-04-02
 * [Censys Search Mindmap](https://github.com/censys-workshop/censys-search-mindmap) ⭐ 15 | 🐛 0 | 📅 2025-09-17
 * [Onyphe Training Materials](https://github.com/onyphe/material) ⭐ 6 | 🐛 0 | 🌐 Perl | 📅 2025-10-16
@@ -271,8 +271,8 @@
 
 ## Favicon search Tools
 
-* [Fav up](https://github.com/pielco11/fav-up) ⭐ 1,205 | 🐛 3 | 🌐 Python | 📅 2025-02-05
-* [FaviHunter](https://github.com/eremit4/favihunter) ⭐ 256 | 🐛 1 | 🌐 Python | 📅 2026-08-14
+* [Fav up](https://github.com/pielco11/fav-up) ⭐ 1,206 | 🐛 3 | 🌐 Python | 📅 2025-02-05
+* [FaviHunter](https://github.com/eremit4/favihunter) ⭐ 255 | 🐛 1 | 🌐 Python | 📅 2026-08-14
 * [Get IP by ICO](https://github.com/Ridter/get_ip_by_ico) ⭐ 186 | 🐛 1 | 🌐 Python | 📅 2019-02-16
 * [IconHash](https://github.com/Becivells/iconhash) ⚠️ Archived
 * [Favicon Hash Shodan](https://github.com/phor3nsic/favicon_hash_shodan) ⭐ 101 | 🐛 1 | 🌐 Python | 📅 2026-06-24
@@ -280,8 +280,8 @@
 
 ## Network/port Scanners
 
-* [IVRE (universal)](https://github.com/ivre/ivre) ⭐ 4,176 | 🐛 56 | 🌐 Python | 📅 2026-10-01
-* [Smap (Shodan)](https://github.com/s0md3v/Smap) ⭐ 3,304 | 🐛 1 | 🌐 Go | 📅 2026-08-15
+* [IVRE (universal)](https://github.com/ivre/ivre) ⭐ 4,175 | 🐛 56 | 🌐 Python | 📅 2026-10-01
+* [Smap (Shodan)](https://github.com/s0md3v/Smap) ⭐ 3,306 | 🐛 1 | 🌐 Go | 📅 2026-08-15
 * [Silver (Shodan)](https://github.com/s0md3v/Silver) ⭐ 1,055 | 🐛 0 | 📅 2026-04-26
 * [MEC (ZoomEye)](https://github.com/jm33-m0/mec) ⭐ 614 | 🐛 0 | 🌐 Python | 📅 2022-07-14
 * [Spidex](https://github.com/alechilczenko/spidex) ⭐ 262 | 🐛 0 | 🌐 Python | 📅 2025-12-12
@@ -298,7 +298,7 @@
 ## Subdomain Search Tools
 
 * [Censys Subdomain Finder](https://github.com/christophetd/censys-subdomain-finder) ⭐ 846 | 🐛 4 | 🌐 Python | 📅 2025-05-01
-* [ShoSubGo](https://github.com/incogbyte/shosubgo) ⭐ 581 | 🐛 1 | 🌐 Go | 📅 2025-09-01
+* [ShoSubGo](https://github.com/incogbyte/shosubgo) ⭐ 582 | 🐛 1 | 🌐 Go | 📅 2025-09-01
 * [Punter](https://github.com/nethunteros/punter) ⭐ 294 | 🐛 6 | 🌐 Python | 📅 2019-02-07
 * [Censys Enumeration](https://github.com/0xbharath/censys-enumeration) ⭐ 156 | 🐛 5 | 🌐 Python | 📅 2022-12-07
 * [Shodomain](https://github.com/SmoZy92/Shodomain) ⭐ 67 | 🐛 3 | 🌐 Python | 📅 2020-03-07
@@ -341,7 +341,7 @@
 
 ## Results converting
 
-* [Common Osint Model Converter (Shodan and Censys)](https://github.com/3c7/common-osint-model) ⭐ 53 | 🐛 9 | 🌐 Python | 📅 2026-10-11
+* [Common Osint Model Converter (Shodan and Censys)](https://github.com/3c7/common-osint-model) ⭐ 53 | 🐛 9 | 🌐 Python | 📅 2026-10-14
 * [GShodan. JSON to HTML](https://github.com/System00-Security/GShodan) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2021-04-09
 * [OSINT\_Shodan\_to\_excel](https://github.com/KrakenMSK/OSINT_Shodan_to_excel) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2020-07-07
 
@@ -447,7 +447,7 @@
 
 ## Alternative UI
 
-* [Search Viewer (Fofa, Hunter, Shodan, Quake, Zoomeye, Censys)](https://github.com/G3et/Search_Viewer) ⭐ 788 | 🐛 5 | 🌐 Python | 📅 2025-02-06
+* [Search Viewer (Fofa, Hunter, Shodan, Quake, Zoomeye, Censys)](https://github.com/G3et/Search_Viewer) ⭐ 789 | 🐛 5 | 🌐 Python | 📅 2025-02-06
 * [Shodan VIZ](https://github.com/jporter-dev/shodan-viz) ⚠️ Archived
 * [OSINTUI (Shodan, and Censys)](https://github.com/wssheldon/osintui)
 
@@ -455,11 +455,11 @@
 
 ## Python Search Automation Tools
 
-* [Shodan Python Library](https://github.com/achillean/shodan-python) ⭐ 3,330 | 🐛 65 | 🌐 Python | 📅 2024-08-05
+* [Shodan Python Library](https://github.com/achillean/shodan-python) ⭐ 3,331 | 🐛 65 | 🌐 Python | 📅 2024-08-05
 * [Shodan Eye](https://github.com/BullsEye0/shodan-eye) ⭐ 1,374 | 🐛 6 | 🌐 Python | 📅 2026-10-01
 * ["My Shodan scripts"](https://github.com/random-robbie/My-Shodan-Scripts) ⭐ 1,156 | 🐛 5 | 🌐 Python | 📅 2026-01-14
 * [FofaHack](https://github.com/Cl0udG0d/Fofa-hack) ⭐ 883 | 🐛 6 | 🌐 Python | 📅 2025-10-28
-* [FofaMap](https://github.com/asaotomo/FofaMap) ⭐ 742 | 🐛 31 | 🌐 Python | 📅 2026-08-16
+* [FofaMap](https://github.com/asaotomo/FofaMap) ⭐ 744 | 🐛 31 | 🌐 Python | 📅 2026-08-16
 * [Sarenka (universal)](https://github.com/KTZgraph/sarenka) ⭐ 674 | 🐛 52 | 🌐 Python | 📅 2023-05-04
 * [ThunderSearch](https://github.com/xzajyjs/ThunderSearch) ⭐ 667 | 🐛 1 | 🌐 Python | 📅 2024-12-06
 * [ShodanX](https://github.com/sanjai-AK47/ShodanX) ⭐ 597 | 🐛 12 | 🌐 Python | 📅 2025-05-14
@@ -503,7 +503,7 @@
 
 ## Java Search Automation Tools
 
-* [Fofa Viewer](https://github.com/wgpsec/fofa_viewer) ⭐ 1,810 | 🐛 21 | 🌐 Java | 📅 2025-12-26
+* [Fofa Viewer](https://github.com/wgpsec/fofa_viewer) ⭐ 1,811 | 🐛 21 | 🌐 Java | 📅 2025-12-26
 * [fofaEX](https://github.com/10cks/fofaEX) ⭐ 239 | 🐛 6 | 🌐 Java | 📅 2024-07-24
 * [JShodan](https://github.com/fooock/jshodan) ⭐ 78 | 🐛 4 | 🌐 Java | 📅 2024-08-05
 * [Fofa Java](https://github.com/fofapro/fofa-java) ⭐ 32 | 🐛 3 | 🌐 Java | 📅 2023-08-27
@@ -516,7 +516,7 @@
 ## Go Search Automation Tools
 
 * [Xray (Shodan)](https://github.com/evilsocket/xray) ⚠️ Archived
-* [FoFax](https://github.com/xiecat/fofax) ⭐ 843 | 🐛 2 | 🌐 Go | 📅 2026-03-06
+* [FoFax](https://github.com/xiecat/fofax) ⭐ 845 | 🐛 2 | 🌐 Go | 📅 2026-03-06
 * [Go Shodan](https://github.com/ns3777k/go-shodan) ⭐ 219 | 🐛 0 | 🌐 Go | 📅 2022-01-12
 * [Shomon (Shodan Monitoring integration for TheHive)](https://github.com/KaanSK/shomon) ⭐ 130 | 🐛 0 | 🌐 Go | 📅 2024-12-12
 * [Shodan Go Client](https://github.com/shadowscatcher/shodan) ⭐ 123 | 🐛 1 | 🌐 Go | 📅 2024-12-15
@@ -595,4 +595,4 @@ Thank you for following me! <https://cybdetective.com>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
