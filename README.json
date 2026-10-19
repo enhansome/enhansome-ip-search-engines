@@ -73,7 +73,7 @@
                 "open_issues": 0,
                 "owner": "FofaInfo",
                 "repo": "Awesome-FOFA",
-                "stars": 363,
+                "stars": 362,
                 "topics": [
                   "cybersecurity",
                   "fofa",
@@ -213,7 +213,7 @@
                 "open_issues": 2,
                 "owner": "thehappydinoa",
                 "repo": "awesome-censys-queries",
-                "stars": 1251,
+                "stars": 1250,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -247,7 +247,7 @@
                 "open_issues": 0,
                 "owner": "lothos612",
                 "repo": "shodan",
-                "stars": 606,
+                "stars": 605,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -289,7 +289,7 @@
                 "open_issues": 0,
                 "owner": "nullfuzz-pentest",
                 "repo": "shodan-dorks",
-                "stars": 548,
+                "stars": 549,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1374,7 +1374,7 @@
                 "open_issues": 60,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4179,
+                "stars": 4180,
                 "topics": [
                   "bro",
                   "easm",
@@ -1416,7 +1416,7 @@
                 "open_issues": 1,
                 "owner": "s0md3v",
                 "repo": "Smap",
-                "stars": 3309,
+                "stars": 3308,
                 "topics": [
                   "network-scanner",
                   "network-security",
@@ -1467,7 +1467,7 @@
                 "open_issues": 0,
                 "owner": "jm33-m0",
                 "repo": "mec",
-                "stars": 613,
+                "stars": 614,
                 "topics": [
                   "adapted-exploits",
                   "baidu-search",
@@ -1796,7 +1796,7 @@
                 "open_issues": 1,
                 "owner": "incogbyte",
                 "repo": "shosubgo",
-                "stars": 582,
+                "stars": 583,
                 "topics": [
                   "golang",
                   "grab-subdomains",
@@ -3385,7 +3385,7 @@
                 "open_issues": 7,
                 "owner": "PaulSec",
                 "repo": "Shodan.io-mobile-app",
-                "stars": 235,
+                "stars": 236,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3680,7 +3680,7 @@
                 "open_issues": 5,
                 "owner": "G3et",
                 "repo": "Search_Viewer",
-                "stars": 789,
+                "stars": 788,
                 "topics": [
                   "censys",
                   "fofa",
@@ -3742,7 +3742,7 @@
                 "open_issues": 65,
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 3334,
+                "stars": 3336,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3829,7 +3829,7 @@
                 "open_issues": 31,
                 "owner": "asaotomo",
                 "repo": "FofaMap",
-                "stars": 748,
+                "stars": 749,
                 "topics": [
                   "ai-agent",
                   "asset-discovery",
@@ -4714,7 +4714,7 @@
                 "open_issues": 21,
                 "owner": "wgpsec",
                 "repo": "fofa_viewer",
-                "stars": 1812,
+                "stars": 1811,
                 "topics": [
                   "cybersecurity",
                   "fofa",
@@ -5732,7 +5732,7 @@
                 "open_issues": 0,
                 "owner": "ScadaExposure",
                 "repo": "Shodan-PHP-REST-API",
-                "stars": 113,
+                "stars": 114,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -5998,7 +5998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T09:57:24.189Z",
+    "last_updated": "2026-10-19T11:18:40.266Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
