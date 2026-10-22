@@ -149,7 +149,7 @@
 * [Awesome FOFA](https://github.com/FofaInfo/Awesome-FOFA) ⭐ 362 | 🐛 0 | 📅 2026-09-14
 * [GreyNoise API Documentation](https://github.com/GreyNoise-Intelligence/api.greynoise.io) ⭐ 321 | 🐛 1 | 📅 2021-04-02
 * [Censys Search Mindmap](https://github.com/censys-workshop/censys-search-mindmap) ⭐ 15 | 🐛 0 | 📅 2025-09-17
-* [Onyphe Training Materials](https://github.com/onyphe/material) ⭐ 6 | 🐛 0 | 🌐 Perl | 📅 2025-10-16
+* [Onyphe Training Materials](https://github.com/onyphe/material) ⭐ 6 | 🐛 0 | 🌐 Perl | 📅 2026-10-21
 * [Modat Magnify Documentation](https://magnify.modat.io/documentation)
 
 ## Books
@@ -284,10 +284,10 @@
 
 ## Network/port Scanners
 
-* [IVRE (universal)](https://github.com/ivre/ivre) ⭐ 4,181 | 🐛 61 | 🌐 Python | 📅 2026-10-21
+* [IVRE (universal)](https://github.com/ivre/ivre) ⭐ 4,181 | 🐛 62 | 🌐 Python | 📅 2026-10-21
 * [Smap (Shodan)](https://github.com/s0md3v/Smap) ⭐ 3,311 | 🐛 1 | 🌐 Go | 📅 2026-08-15
-* [Silver (Shodan)](https://github.com/s0md3v/Silver) ⭐ 1,056 | 🐛 0 | 📅 2026-04-26
-* [MEC (ZoomEye)](https://github.com/jm33-m0/mec) ⭐ 614 | 🐛 0 | 🌐 Python | 📅 2022-07-14
+* [Silver (Shodan)](https://github.com/s0md3v/Silver) ⭐ 1,055 | 🐛 0 | 📅 2026-04-26
+* [MEC (ZoomEye)](https://github.com/jm33-m0/mec) ⭐ 643 | 🐛 0 | 🌐 Python | 📅 2022-07-14
 * [Spidex](https://github.com/alechilczenko/spidex) ⭐ 263 | 🐛 0 | 🌐 Python | 📅 2025-12-12
 * [Shodan HQ NSE](https://github.com/glennzw/shodan-hq-nse) ⭐ 158 | 🐛 0 | 🌐 Lua | 📅 2016-03-14
 * [SSH Key Scanner (Shodan)](https://github.com/0x27/ssh_keyscanner) ⭐ 118 | 🐛 1 | 🌐 Python | 📅 2019-03-11
@@ -302,7 +302,7 @@
 ## Subdomain Search Tools
 
 * [Censys Subdomain Finder](https://github.com/christophetd/censys-subdomain-finder) ⭐ 849 | 🐛 4 | 🌐 Python | 📅 2025-05-01
-* [ShoSubGo](https://github.com/incogbyte/shosubgo) ⭐ 583 | 🐛 1 | 🌐 Go | 📅 2025-09-01
+* [ShoSubGo](https://github.com/incogbyte/shosubgo) ⭐ 584 | 🐛 1 | 🌐 Go | 📅 2025-09-01
 * [Punter](https://github.com/nethunteros/punter) ⭐ 294 | 🐛 6 | 🌐 Python | 📅 2019-02-07
 * [Censys Enumeration](https://github.com/0xbharath/censys-enumeration) ⭐ 156 | 🐛 5 | 🌐 Python | 📅 2022-12-07
 * [Shodomain](https://github.com/SmoZy92/Shodomain) ⭐ 68 | 🐛 3 | 🌐 Python | 📅 2020-03-07
@@ -366,7 +366,7 @@
 
 ## WAF
 
-* [CloudFlair Censys](https://github.com/christophetd/CloudFlair) ⭐ 2,982 | 🐛 11 | 🌐 Python | 📅 2025-05-01
+* [CloudFlair Censys](https://github.com/christophetd/CloudFlair) ⭐ 2,983 | 🐛 11 | 🌐 Python | 📅 2025-05-01
 * [CloudBunny Shodan/Censys](https://github.com/Warflop/CloudBunny) ⭐ 375 | 🐛 0 | 🌐 Python | 📅 2024-02-04
 * [CloudFlare-IP Shodan](https://github.com/karma9874/CloudFlare-IP) ⭐ 70 | 🐛 1 | 🌐 Python | 📅 2019-10-02
 
@@ -459,12 +459,12 @@
 
 ## Python Search Automation Tools
 
-* [Shodan Python Library](https://github.com/achillean/shodan-python) ⭐ 3,342 | 🐛 65 | 🌐 Python | 📅 2024-08-05
-* [Shodan Eye](https://github.com/BullsEye0/shodan-eye) ⭐ 1,377 | 🐛 6 | 🌐 Python | 📅 2026-10-01
+* [Shodan Python Library](https://github.com/achillean/shodan-python) ⭐ 3,344 | 🐛 65 | 🌐 Python | 📅 2024-08-05
+* [Shodan Eye](https://github.com/BullsEye0/shodan-eye) ⭐ 1,378 | 🐛 6 | 🌐 Python | 📅 2026-10-01
 * ["My Shodan scripts"](https://github.com/random-robbie/My-Shodan-Scripts) ⭐ 1,157 | 🐛 5 | 🌐 Python | 📅 2026-01-14
 * [FofaHack](https://github.com/Cl0udG0d/Fofa-hack) ⭐ 882 | 🐛 6 | 🌐 Python | 📅 2025-10-28
 * [FofaMap](https://github.com/asaotomo/FofaMap) ⭐ 750 | 🐛 31 | 🌐 Python | 📅 2026-08-16
-* [Sarenka (universal)](https://github.com/KTZgraph/sarenka) ⭐ 674 | 🐛 52 | 🌐 Python | 📅 2023-05-04
+* [Sarenka (universal)](https://github.com/KTZgraph/sarenka) ⭐ 673 | 🐛 52 | 🌐 Python | 📅 2023-05-04
 * [ThunderSearch](https://github.com/xzajyjs/ThunderSearch) ⭐ 667 | 🐛 1 | 🌐 Python | 📅 2024-12-06
 * [ShodanX](https://github.com/sanjai-AK47/ShodanX) ⭐ 599 | 🐛 12 | 🌐 Python | 📅 2025-05-14
 * [ZoomEye Python](https://github.com/knownsec/ZoomEye-python) ⭐ 576 | 🐛 22 | 🌐 Python | 📅 2026-01-08
@@ -579,7 +579,7 @@
 ## Perl Search Automation Tools
 
 * [Shodan Perk](https://github.com/achillean/shodan-perl) ⭐ 17 | 🐛 0 | 🌐 Perl | 📅 2013-10-10
-* [Onyphe CLI](https://github.com/onyphe/cli) ⭐ 8 | 🐛 0 | 🌐 Perl | 📅 2026-09-18
+* [Onyphe CLI](https://github.com/onyphe/cli) ⭐ 8 | 🐛 0 | 🌐 Perl | 📅 2026-10-21
 
 ## Crystal Search Automation Tools
 
@@ -593,10 +593,10 @@
 
 ## Rust Search Automation Tools
 
-* [Shodan Rust](https://github.com/femiagbabiaka/shodan-rust) ⭐ 55 | 🐛 1 | 🌐 Rust | 📅 2024-08-05
+* [Shodan Rust](https://github.com/femiagbabiaka/shodan-rust) ⭐ 56 | 🐛 1 | 🌐 Rust | 📅 2024-08-05
 
 Thank you for following me! <https://cybdetective.com>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
