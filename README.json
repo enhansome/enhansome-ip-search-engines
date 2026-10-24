@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "netlas-io",
                 "repo": "netlas-cookbook",
-                "stars": 894,
+                "stars": 895,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7809,
+                "stars": 7808,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -322,7 +322,7 @@
                 "open_issues": 0,
                 "owner": "humblelad",
                 "repo": "Shodan-Dorks",
-                "stars": 545,
+                "stars": 543,
                 "topics": [
                   "cybersecurity",
                   "hacking",
@@ -1370,11 +1370,11 @@
                 "id": 23961941,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-21T03:34:40Z",
-                "open_issues": 62,
+                "last_commit": "2026-10-23T23:43:14Z",
+                "open_issues": 64,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4183,
+                "stars": 4186,
                 "topics": [
                   "bro",
                   "easm",
@@ -1502,10 +1502,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-12-12T18:40:32Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "alechilczenko",
                 "repo": "kimi",
-                "stars": 263,
+                "stars": 261,
                 "topics": [
                   "banner-grabbing",
                   "censys",
@@ -1563,7 +1563,7 @@
                 "open_issues": 1,
                 "owner": "0x27",
                 "repo": "ssh_keyscanner",
-                "stars": 118,
+                "stars": 119,
                 "topics": [
                   "fingerprint",
                   "hidden-services",
@@ -1918,7 +1918,7 @@
                 "open_issues": 4,
                 "owner": "orleven",
                 "repo": "Tentacle",
-                "stars": 374,
+                "stars": 373,
                 "topics": [
                   "exploit-framework",
                   "fofa",
@@ -2485,7 +2485,7 @@
                 "open_issues": 0,
                 "owner": "Warflop",
                 "repo": "FireShodanMap",
-                "stars": 125,
+                "stars": 124,
                 "topics": [
                   "firebase",
                   "javascript",
@@ -2565,7 +2565,7 @@
                 "open_issues": 9,
                 "owner": "3c7",
                 "repo": "common-osint-model",
-                "stars": 53,
+                "stars": 51,
                 "topics": [
                   "analysis",
                   "censys",
@@ -2781,7 +2781,7 @@
                 "open_issues": 11,
                 "owner": "christophetd",
                 "repo": "CloudFlair",
-                "stars": 2982,
+                "stars": 2981,
                 "topics": [
                   "censys",
                   "cloudflare",
@@ -3009,7 +3009,7 @@
                 "open_issues": 2,
                 "owner": "montysecurity",
                 "repo": "C2-Tracker",
-                "stars": 785,
+                "stars": 784,
                 "topics": [
                   "cybersecurity",
                   "infosec",
@@ -3908,7 +3908,7 @@
                 "open_issues": 1,
                 "owner": "xzajyjs",
                 "repo": "ThunderSearch",
-                "stars": 667,
+                "stars": 666,
                 "topics": [
                   "cyberspace-search-engine",
                   "fofa",
@@ -3975,7 +3975,7 @@
                 "open_issues": 22,
                 "owner": "knownsec",
                 "repo": "ZoomEye-python",
-                "stars": 576,
+                "stars": 577,
                 "topics": [
                   "zoomeye",
                   "zoomeye-api",
@@ -4093,7 +4093,7 @@
                 "open_issues": 1,
                 "owner": "j3ers3",
                 "repo": "Searpy",
-                "stars": 213,
+                "stars": 212,
                 "topics": [
                   "fofa",
                   "google",
@@ -4714,7 +4714,7 @@
                 "open_issues": 21,
                 "owner": "wgpsec",
                 "repo": "fofa_viewer",
-                "stars": 1810,
+                "stars": 1811,
                 "topics": [
                   "cybersecurity",
                   "fofa",
@@ -4971,7 +4971,7 @@
                 "open_issues": 0,
                 "owner": "ns3777k",
                 "repo": "go-shodan",
-                "stars": 219,
+                "stars": 220,
                 "topics": [
                   "exploits",
                   "security",
@@ -4999,7 +4999,7 @@
                 "open_issues": 0,
                 "owner": "kaansk",
                 "repo": "shomon",
-                "stars": 130,
+                "stars": 129,
                 "topics": [
                   "golang",
                   "incident-management",
@@ -5120,7 +5120,7 @@
                 "open_issues": 5,
                 "owner": "turbot",
                 "repo": "steampipe-plugin-shodan",
-                "stars": 29,
+                "stars": 28,
                 "topics": [
                   "backup",
                   "etl",
@@ -5301,7 +5301,7 @@
                 "open_issues": 4,
                 "owner": "picatz",
                 "repo": "shodanz",
-                "stars": 136,
+                "stars": 137,
                 "topics": [
                   "information-security",
                   "internet-of-things",
@@ -5753,7 +5753,7 @@
                 "open_issues": 1,
                 "owner": "joesmithjaffa",
                 "repo": "jenkins-shell",
-                "stars": 92,
+                "stars": 91,
                 "topics": [
                   "hacking",
                   "jenkins",
@@ -5998,7 +5998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T10:33:50.021Z",
+    "last_updated": "2026-10-24T09:51:39.393Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
