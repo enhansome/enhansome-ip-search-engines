@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7808,
+                "stars": 7813,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -268,7 +268,7 @@
                 "open_issues": 2,
                 "owner": "JavierOlmedo",
                 "repo": "shodan-filters",
-                "stars": 588,
+                "stars": 589,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -1374,7 +1374,7 @@
                 "open_issues": 64,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4186,
+                "stars": 4187,
                 "topics": [
                   "bro",
                   "easm",
@@ -1764,7 +1764,7 @@
                 "open_issues": 4,
                 "owner": "christophetd",
                 "repo": "censys-subdomain-finder",
-                "stars": 849,
+                "stars": 851,
                 "topics": [
                   "bugbounty",
                   "certificate-transparency-logs",
@@ -3742,7 +3742,7 @@
                 "open_issues": 65,
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 3347,
+                "stars": 3346,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3829,7 +3829,7 @@
                 "open_issues": 31,
                 "owner": "asaotomo",
                 "repo": "FofaMap",
-                "stars": 751,
+                "stars": 752,
                 "topics": [
                   "ai-agent",
                   "asset-discovery",
@@ -3908,7 +3908,7 @@
                 "open_issues": 1,
                 "owner": "xzajyjs",
                 "repo": "ThunderSearch",
-                "stars": 666,
+                "stars": 667,
                 "topics": [
                   "cyberspace-search-engine",
                   "fofa",
@@ -5029,7 +5029,7 @@
                 "open_issues": 1,
                 "owner": "shadowscatcher",
                 "repo": "shodan",
-                "stars": 123,
+                "stars": 124,
                 "topics": [
                   "golang",
                   "intelligence-gathering",
@@ -5998,7 +5998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T09:51:39.393Z",
+    "last_updated": "2026-10-25T10:12:04.370Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
