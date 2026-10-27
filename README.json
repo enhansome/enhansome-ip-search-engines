@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "netlas-io",
                 "repo": "netlas-cookbook",
-                "stars": 895,
+                "stars": 896,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7817,
+                "stars": 7822,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -209,11 +209,11 @@
                 "id": 525467576,
                 "language": "Python",
                 "license": "CC0-1.0",
-                "last_commit": "2026-07-20T18:26:47Z",
+                "last_commit": "2026-10-26T18:57:54Z",
                 "open_issues": 2,
                 "owner": "thehappydinoa",
                 "repo": "awesome-censys-queries",
-                "stars": 1250,
+                "stars": 1251,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -289,7 +289,7 @@
                 "open_issues": 0,
                 "owner": "nullfuzz-pentest",
                 "repo": "shodan-dorks",
-                "stars": 551,
+                "stars": 552,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1191,7 +1191,7 @@
                 "open_issues": 3,
                 "owner": "pielco11",
                 "repo": "fav-up",
-                "stars": 1206,
+                "stars": 1207,
                 "topics": [
                   "cloudflare",
                   "cloudflare-bypass",
@@ -1416,7 +1416,7 @@
                 "open_issues": 1,
                 "owner": "s0md3v",
                 "repo": "Smap",
-                "stars": 3311,
+                "stars": 3312,
                 "topics": [
                   "network-scanner",
                   "network-security",
@@ -1467,7 +1467,7 @@
                 "open_issues": 0,
                 "owner": "jm33-m0",
                 "repo": "mec",
-                "stars": 639,
+                "stars": 638,
                 "topics": [
                   "adapted-exploits",
                   "baidu-search",
@@ -2781,7 +2781,7 @@
                 "open_issues": 11,
                 "owner": "christophetd",
                 "repo": "CloudFlair",
-                "stars": 2981,
+                "stars": 2983,
                 "topics": [
                   "censys",
                   "cloudflare",
@@ -3763,7 +3763,7 @@
                 "open_issues": 6,
                 "owner": "BullsEye0",
                 "repo": "shodan-eye",
-                "stars": 1379,
+                "stars": 1380,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3940,7 +3940,7 @@
                 "open_issues": 12,
                 "owner": "RevoltSecurities",
                 "repo": "ShodanX",
-                "stars": 599,
+                "stars": 600,
                 "topics": [
                   "shodan",
                   "shodan-api",
@@ -4142,8 +4142,8 @@
                 "id": 113500389,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-07-09T20:06:40Z",
-                "open_issues": 17,
+                "last_commit": "2026-10-26T20:09:58Z",
+                "open_issues": 19,
                 "owner": "GreyNoise-Intelligence",
                 "repo": "pygreynoise",
                 "stars": 177,
@@ -4714,7 +4714,7 @@
                 "open_issues": 21,
                 "owner": "wgpsec",
                 "repo": "fofa_viewer",
-                "stars": 1811,
+                "stars": 1812,
                 "topics": [
                   "cybersecurity",
                   "fofa",
@@ -5998,7 +5998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T11:34:58.577Z",
+    "last_updated": "2026-10-27T11:05:52.631Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
@@ -6010,7 +6010,7 @@
       "open_issues": 1,
       "owner": "cipher387",
       "repo": "awesome-ip-search-engines",
-      "stars": 358,
+      "stars": 360,
       "topics": [
         "360quake",
         "awesome-list",
