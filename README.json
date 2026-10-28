@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7822,
+                "stars": 7825,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -465,7 +465,7 @@
                 "open_issues": 0,
                 "owner": "zveriu",
                 "repo": "cctv-ddns-shodan-censys",
-                "stars": 46,
+                "stars": 47,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -1374,7 +1374,7 @@
                 "open_issues": 66,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4189,
+                "stars": 4188,
                 "topics": [
                   "bro",
                   "easm",
@@ -1416,7 +1416,7 @@
                 "open_issues": 1,
                 "owner": "s0md3v",
                 "repo": "Smap",
-                "stars": 3312,
+                "stars": 3313,
                 "topics": [
                   "network-scanner",
                   "network-security",
@@ -1977,7 +1977,7 @@
                 "open_issues": 3,
                 "owner": "TasosY2K",
                 "repo": "camera-exploit-tool",
-                "stars": 228,
+                "stars": 229,
                 "topics": [
                   "camera",
                   "camera-exploitation",
@@ -2781,7 +2781,7 @@
                 "open_issues": 11,
                 "owner": "christophetd",
                 "repo": "CloudFlair",
-                "stars": 2983,
+                "stars": 2984,
                 "topics": [
                   "censys",
                   "cloudflare",
@@ -2837,7 +2837,7 @@
                 "open_issues": 1,
                 "owner": "karma9874",
                 "repo": "CloudFlare-IP",
-                "stars": 70,
+                "stars": 69,
                 "topics": [
                   "cloudflare",
                   "favicon-icon",
@@ -3739,10 +3739,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2024-08-05T13:11:50Z",
-                "open_issues": 65,
+                "open_issues": 63,
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 3348,
+                "stars": 3353,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3760,7 +3760,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-01T19:22:28Z",
-                "open_issues": 6,
+                "open_issues": 5,
                 "owner": "BullsEye0",
                 "repo": "shodan-eye",
                 "stars": 1380,
@@ -3972,7 +3972,7 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-01-08T00:18:29Z",
-                "open_issues": 22,
+                "open_issues": 21,
                 "owner": "knownsec",
                 "repo": "ZoomEye-python",
                 "stars": 578,
@@ -4051,7 +4051,7 @@
                 "open_issues": 2,
                 "owner": "n0x08",
                 "repo": "ShodanTools",
-                "stars": 264,
+                "stars": 265,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -4120,7 +4120,7 @@
                 "open_issues": 3,
                 "owner": "H-Limbus",
                 "repo": "NoMoney",
-                "stars": 203,
+                "stars": 204,
                 "topics": [
                   "360-quake",
                   "fofa-search",
@@ -5156,7 +5156,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2021-02-15T06:53:18Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "YetClass",
                 "repo": "QuakeAPI",
                 "stars": 13,
@@ -5998,7 +5998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T11:05:52.631Z",
+    "last_updated": "2026-10-28T11:41:31.783Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
