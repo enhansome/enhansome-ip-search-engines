@@ -73,7 +73,7 @@
                 "open_issues": 0,
                 "owner": "FofaInfo",
                 "repo": "Awesome-FOFA",
-                "stars": 360,
+                "stars": 361,
                 "topics": [
                   "cybersecurity",
                   "fofa",
@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7825,
+                "stars": 7824,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -663,7 +663,7 @@
                 "open_issues": 5,
                 "owner": "censys",
                 "repo": "censys-maltego",
-                "stars": 41,
+                "stars": 40,
                 "topics": [
                   "censys",
                   "maltego",
@@ -1191,7 +1191,7 @@
                 "open_issues": 3,
                 "owner": "pielco11",
                 "repo": "fav-up",
-                "stars": 1207,
+                "stars": 1206,
                 "topics": [
                   "cloudflare",
                   "cloudflare-bypass",
@@ -1374,7 +1374,7 @@
                 "open_issues": 66,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4188,
+                "stars": 4187,
                 "topics": [
                   "bro",
                   "easm",
@@ -1416,7 +1416,7 @@
                 "open_issues": 1,
                 "owner": "s0md3v",
                 "repo": "Smap",
-                "stars": 3313,
+                "stars": 3312,
                 "topics": [
                   "network-scanner",
                   "network-security",
@@ -1643,7 +1643,7 @@
                 "open_issues": 1,
                 "owner": "juliocesarfort",
                 "repo": "netscreen-shodan-scanner",
-                "stars": 70,
+                "stars": 69,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -1796,7 +1796,7 @@
                 "open_issues": 1,
                 "owner": "incogbyte",
                 "repo": "shosubgo",
-                "stars": 585,
+                "stars": 586,
                 "topics": [
                   "golang",
                   "grab-subdomains",
@@ -3385,7 +3385,7 @@
                 "open_issues": 7,
                 "owner": "PaulSec",
                 "repo": "Shodan.io-mobile-app",
-                "stars": 236,
+                "stars": 237,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3680,7 +3680,7 @@
                 "open_issues": 5,
                 "owner": "G3et",
                 "repo": "Search_Viewer",
-                "stars": 788,
+                "stars": 787,
                 "topics": [
                   "censys",
                   "fofa",
@@ -3742,7 +3742,7 @@
                 "open_issues": 63,
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 3353,
+                "stars": 3429,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3763,7 +3763,7 @@
                 "open_issues": 5,
                 "owner": "BullsEye0",
                 "repo": "shodan-eye",
-                "stars": 1380,
+                "stars": 1381,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3829,7 +3829,7 @@
                 "open_issues": 31,
                 "owner": "asaotomo",
                 "repo": "FofaMap",
-                "stars": 750,
+                "stars": 751,
                 "topics": [
                   "ai-agent",
                   "asset-discovery",
@@ -4000,7 +4000,7 @@
                 "open_issues": 2,
                 "owner": "censys",
                 "repo": "censys-python",
-                "stars": 468,
+                "stars": 467,
                 "topics": [
                   "api",
                   "attack-surface-management",
@@ -4945,7 +4945,7 @@
                 "open_issues": 2,
                 "owner": "xiecat",
                 "repo": "fofax",
-                "stars": 841,
+                "stars": 840,
                 "topics": [
                   "fofa",
                   "fofa-cli",
@@ -5998,7 +5998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T11:41:31.783Z",
+    "last_updated": "2026-10-29T11:49:29.265Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
@@ -6010,7 +6010,7 @@
       "open_issues": 1,
       "owner": "cipher387",
       "repo": "awesome-ip-search-engines",
-      "stars": 360,
+      "stars": 361,
       "topics": [
         "360quake",
         "awesome-list",
