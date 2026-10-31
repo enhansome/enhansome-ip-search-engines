@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "netlas-io",
                 "repo": "netlas-cookbook",
-                "stars": 896,
+                "stars": 897,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7828,
+                "stars": 7833,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -268,7 +268,7 @@
                 "open_issues": 2,
                 "owner": "JavierOlmedo",
                 "repo": "shodan-filters",
-                "stars": 590,
+                "stars": 591,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -1370,11 +1370,11 @@
                 "id": 23961941,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-23T23:43:14Z",
-                "open_issues": 66,
+                "last_commit": "2026-10-30T20:17:32Z",
+                "open_issues": 70,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4189,
+                "stars": 4193,
                 "topics": [
                   "bro",
                   "easm",
@@ -1416,7 +1416,7 @@
                 "open_issues": 1,
                 "owner": "s0md3v",
                 "repo": "Smap",
-                "stars": 3312,
+                "stars": 3313,
                 "topics": [
                   "network-scanner",
                   "network-security",
@@ -1505,7 +1505,7 @@
                 "open_issues": 1,
                 "owner": "alechilczenko",
                 "repo": "kimi",
-                "stars": 261,
+                "stars": 262,
                 "topics": [
                   "banner-grabbing",
                   "censys",
@@ -3742,7 +3742,7 @@
                 "open_issues": 63,
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 3446,
+                "stars": 3451,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3763,7 +3763,7 @@
                 "open_issues": 5,
                 "owner": "BullsEye0",
                 "repo": "shodan-eye",
-                "stars": 1382,
+                "stars": 1383,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3784,7 +3784,7 @@
                 "open_issues": 5,
                 "owner": "random-robbie",
                 "repo": "My-Shodan-Scripts",
-                "stars": 1157,
+                "stars": 1158,
                 "topics": [
                   "shodan",
                   "shodan-scripts"
@@ -3940,7 +3940,7 @@
                 "open_issues": 12,
                 "owner": "RevoltSecurities",
                 "repo": "ShodanX",
-                "stars": 600,
+                "stars": 601,
                 "topics": [
                   "shodan",
                   "shodan-api",
@@ -4000,7 +4000,7 @@
                 "open_issues": 2,
                 "owner": "censys",
                 "repo": "censys-python",
-                "stars": 467,
+                "stars": 468,
                 "topics": [
                   "api",
                   "attack-surface-management",
@@ -4917,7 +4917,7 @@
                 "open_issues": 5,
                 "owner": "evilsocket",
                 "repo": "xray",
-                "stars": 2333,
+                "stars": 2336,
                 "topics": [
                   "intelligence",
                   "mapping",
@@ -5998,7 +5998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T11:42:26.906Z",
+    "last_updated": "2026-10-31T11:15:57.055Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
