@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7833,
+                "stars": 7834,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -289,7 +289,7 @@
                 "open_issues": 0,
                 "owner": "nullfuzz-pentest",
                 "repo": "shodan-dorks",
-                "stars": 552,
+                "stars": 557,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1191,7 +1191,7 @@
                 "open_issues": 3,
                 "owner": "pielco11",
                 "repo": "fav-up",
-                "stars": 1206,
+                "stars": 1207,
                 "topics": [
                   "cloudflare",
                   "cloudflare-bypass",
@@ -3274,7 +3274,7 @@
                 "open_issues": 5,
                 "owner": "fofapro",
                 "repo": "fofa_view",
-                "stars": 620,
+                "stars": 619,
                 "topics": [
                   "chrome",
                   "firefox",
@@ -3742,7 +3742,7 @@
                 "open_issues": 63,
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 3451,
+                "stars": 3460,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3826,10 +3826,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-16T17:44:59Z",
-                "open_issues": 31,
+                "open_issues": 30,
                 "owner": "asaotomo",
                 "repo": "FofaMap",
-                "stars": 754,
+                "stars": 755,
                 "topics": [
                   "ai-agent",
                   "asset-discovery",
@@ -3940,7 +3940,7 @@
                 "open_issues": 12,
                 "owner": "RevoltSecurities",
                 "repo": "ShodanX",
-                "stars": 601,
+                "stars": 602,
                 "topics": [
                   "shodan",
                   "shodan-api",
@@ -3975,7 +3975,7 @@
                 "open_issues": 21,
                 "owner": "knownsec",
                 "repo": "ZoomEye-python",
-                "stars": 578,
+                "stars": 577,
                 "topics": [
                   "zoomeye",
                   "zoomeye-api",
@@ -4030,7 +4030,7 @@
                 "open_issues": 5,
                 "owner": "atdpa4sw0rd",
                 "repo": "Search-Tools",
-                "stars": 343,
+                "stars": 342,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -4051,7 +4051,7 @@
                 "open_issues": 2,
                 "owner": "n0x08",
                 "repo": "ShodanTools",
-                "stars": 265,
+                "stars": 264,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -4945,7 +4945,7 @@
                 "open_issues": 2,
                 "owner": "xiecat",
                 "repo": "fofax",
-                "stars": 842,
+                "stars": 841,
                 "topics": [
                   "fofa",
                   "fofa-cli",
@@ -5998,7 +5998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T11:15:57.055Z",
+    "last_updated": "2026-11-01T12:04:54.643Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
