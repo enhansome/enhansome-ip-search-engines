@@ -49,7 +49,7 @@
                 "open_issues": 0,
                 "owner": "ninoseki",
                 "repo": "shodan-dojo",
-                "stars": 470,
+                "stars": 469,
                 "topics": [
                   "dojo",
                   "shodan"
@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7834,
+                "stars": 7836,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -213,7 +213,7 @@
                 "open_issues": 2,
                 "owner": "thehappydinoa",
                 "repo": "awesome-censys-queries",
-                "stars": 1251,
+                "stars": 1250,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -247,7 +247,7 @@
                 "open_issues": 0,
                 "owner": "lothos612",
                 "repo": "shodan",
-                "stars": 605,
+                "stars": 606,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -289,7 +289,7 @@
                 "open_issues": 0,
                 "owner": "nullfuzz-pentest",
                 "repo": "shodan-dorks",
-                "stars": 557,
+                "stars": 558,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -349,7 +349,7 @@
                 "open_issues": 0,
                 "owner": "HernanRodriguez1",
                 "repo": "Dorks-Shodan-2023",
-                "stars": 248,
+                "stars": 247,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -1191,7 +1191,7 @@
                 "open_issues": 3,
                 "owner": "pielco11",
                 "repo": "fav-up",
-                "stars": 1207,
+                "stars": 1208,
                 "topics": [
                   "cloudflare",
                   "cloudflare-bypass",
@@ -1505,7 +1505,7 @@
                 "open_issues": 1,
                 "owner": "alechilczenko",
                 "repo": "kimi",
-                "stars": 262,
+                "stars": 263,
                 "topics": [
                   "banner-grabbing",
                   "censys",
@@ -1796,7 +1796,7 @@
                 "open_issues": 1,
                 "owner": "incogbyte",
                 "repo": "shosubgo",
-                "stars": 586,
+                "stars": 585,
                 "topics": [
                   "golang",
                   "grab-subdomains",
@@ -1947,7 +1947,7 @@
                 "open_issues": 3,
                 "owner": "jimywork",
                 "repo": "shodanwave",
-                "stars": 270,
+                "stars": 269,
                 "topics": [
                   "camera",
                   "exploit",
@@ -1977,7 +1977,7 @@
                 "open_issues": 3,
                 "owner": "TasosY2K",
                 "repo": "camera-exploit-tool",
-                "stars": 229,
+                "stars": 227,
                 "topics": [
                   "camera",
                   "camera-exploitation",
@@ -3009,7 +3009,7 @@
                 "open_issues": 2,
                 "owner": "montysecurity",
                 "repo": "C2-Tracker",
-                "stars": 784,
+                "stars": 783,
                 "topics": [
                   "cybersecurity",
                   "infosec",
@@ -3742,7 +3742,7 @@
                 "open_issues": 63,
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 3460,
+                "stars": 3462,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3759,7 +3759,7 @@
                 "id": 180435148,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-01T19:22:28Z",
+                "last_commit": "2026-11-01T14:48:42Z",
                 "open_issues": 5,
                 "owner": "BullsEye0",
                 "repo": "shodan-eye",
@@ -3784,7 +3784,7 @@
                 "open_issues": 5,
                 "owner": "random-robbie",
                 "repo": "My-Shodan-Scripts",
-                "stars": 1158,
+                "stars": 1159,
                 "topics": [
                   "shodan",
                   "shodan-scripts"
@@ -3866,7 +3866,7 @@
                 "open_issues": 52,
                 "owner": "KTZgraph",
                 "repo": "sarenka",
-                "stars": 675,
+                "stars": 674,
                 "topics": [
                   "censys-api",
                   "cve",
@@ -3940,7 +3940,7 @@
                 "open_issues": 12,
                 "owner": "RevoltSecurities",
                 "repo": "ShodanX",
-                "stars": 602,
+                "stars": 603,
                 "topics": [
                   "shodan",
                   "shodan-api",
@@ -4714,7 +4714,7 @@
                 "open_issues": 21,
                 "owner": "wgpsec",
                 "repo": "fofa_viewer",
-                "stars": 1812,
+                "stars": 1813,
                 "topics": [
                   "cybersecurity",
                   "fofa",
@@ -4971,7 +4971,7 @@
                 "open_issues": 0,
                 "owner": "ns3777k",
                 "repo": "go-shodan",
-                "stars": 221,
+                "stars": 220,
                 "topics": [
                   "exploits",
                   "security",
@@ -5301,7 +5301,7 @@
                 "open_issues": 4,
                 "owner": "picatz",
                 "repo": "shodanz",
-                "stars": 137,
+                "stars": 136,
                 "topics": [
                   "information-security",
                   "internet-of-things",
@@ -5998,7 +5998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T12:04:54.643Z",
+    "last_updated": "2026-11-02T13:53:55.715Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
@@ -6010,7 +6010,7 @@
       "open_issues": 1,
       "owner": "cipher387",
       "repo": "awesome-ip-search-engines",
-      "stars": 361,
+      "stars": 362,
       "topics": [
         "360quake",
         "awesome-list",
