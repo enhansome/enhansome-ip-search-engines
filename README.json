@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "netlas-io",
                 "repo": "netlas-cookbook",
-                "stars": 898,
+                "stars": 899,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7841,
+                "stars": 7840,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1374,7 +1374,7 @@
                 "open_issues": 70,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4198,
+                "stars": 4197,
                 "topics": [
                   "bro",
                   "easm",
@@ -1446,7 +1446,7 @@
                 "open_issues": 0,
                 "owner": "s0md3v",
                 "repo": "Silver",
-                "stars": 1055,
+                "stars": 1056,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -1764,7 +1764,7 @@
                 "open_issues": 4,
                 "owner": "christophetd",
                 "repo": "censys-subdomain-finder",
-                "stars": 851,
+                "stars": 852,
                 "topics": [
                   "bugbounty",
                   "certificate-transparency-logs",
@@ -2781,7 +2781,7 @@
                 "open_issues": 11,
                 "owner": "christophetd",
                 "repo": "CloudFlair",
-                "stars": 2985,
+                "stars": 2986,
                 "topics": [
                   "censys",
                   "cloudflare",
@@ -3300,7 +3300,7 @@
                 "open_issues": 1,
                 "owner": "PaulSec",
                 "repo": "Shodan-Firefox-Addon",
-                "stars": 151,
+                "stars": 150,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3742,7 +3742,7 @@
                 "open_issues": 63,
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 3469,
+                "stars": 3473,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3866,7 +3866,7 @@
                 "open_issues": 52,
                 "owner": "KTZgraph",
                 "repo": "sarenka",
-                "stars": 673,
+                "stars": 674,
                 "topics": [
                   "censys-api",
                   "cve",
@@ -3975,7 +3975,7 @@
                 "open_issues": 21,
                 "owner": "knownsec",
                 "repo": "ZoomEye-python",
-                "stars": 578,
+                "stars": 579,
                 "topics": [
                   "zoomeye",
                   "zoomeye-api",
@@ -4142,7 +4142,7 @@
                 "id": 113500389,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-04T21:43:40Z",
+                "last_commit": "2026-11-05T23:07:06Z",
                 "open_issues": 21,
                 "owner": "GreyNoise-Intelligence",
                 "repo": "pygreynoise",
@@ -5998,7 +5998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T13:31:17.623Z",
+    "last_updated": "2026-11-06T13:15:47.932Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
