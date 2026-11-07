@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7840,
+                "stars": 7838,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -213,7 +213,7 @@
                 "open_issues": 2,
                 "owner": "thehappydinoa",
                 "repo": "awesome-censys-queries",
-                "stars": 1251,
+                "stars": 1250,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1191,7 +1191,7 @@
                 "open_issues": 3,
                 "owner": "pielco11",
                 "repo": "fav-up",
-                "stars": 1209,
+                "stars": 1208,
                 "topics": [
                   "cloudflare",
                   "cloudflare-bypass",
@@ -1311,7 +1311,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-06-24T16:32:04Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "phor3nsic",
                 "repo": "favicon_hash_shodan",
                 "stars": 101,
@@ -1374,7 +1374,7 @@
                 "open_issues": 70,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4197,
+                "stars": 4198,
                 "topics": [
                   "bro",
                   "easm",
@@ -1416,7 +1416,7 @@
                 "open_issues": 1,
                 "owner": "s0md3v",
                 "repo": "Smap",
-                "stars": 3312,
+                "stars": 3311,
                 "topics": [
                   "network-scanner",
                   "network-security",
@@ -1664,7 +1664,7 @@
                 "open_issues": 0,
                 "owner": "censys",
                 "repo": "nmap-censys",
-                "stars": 60,
+                "stars": 59,
                 "topics": [
                   "censys",
                   "nmap"
@@ -2781,7 +2781,7 @@
                 "open_issues": 11,
                 "owner": "christophetd",
                 "repo": "CloudFlair",
-                "stars": 2986,
+                "stars": 2987,
                 "topics": [
                   "censys",
                   "cloudflare",
@@ -3742,7 +3742,7 @@
                 "open_issues": 63,
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 3473,
+                "stars": 3475,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3763,7 +3763,7 @@
                 "open_issues": 5,
                 "owner": "BullsEye0",
                 "repo": "shodan-eye",
-                "stars": 1386,
+                "stars": 1387,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3829,7 +3829,7 @@
                 "open_issues": 30,
                 "owner": "asaotomo",
                 "repo": "FofaMap",
-                "stars": 760,
+                "stars": 761,
                 "topics": [
                   "ai-agent",
                   "asset-discovery",
@@ -3997,7 +3997,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-26T04:05:16Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "censys",
                 "repo": "censys-python",
                 "stars": 467,
@@ -4146,7 +4146,7 @@
                 "open_issues": 21,
                 "owner": "GreyNoise-Intelligence",
                 "repo": "pygreynoise",
-                "stars": 177,
+                "stars": 176,
                 "topics": [
                   "internet",
                   "scanning",
@@ -4945,7 +4945,7 @@
                 "open_issues": 2,
                 "owner": "xiecat",
                 "repo": "fofax",
-                "stars": 841,
+                "stars": 842,
                 "topics": [
                   "fofa",
                   "fofa-cli",
@@ -5998,7 +5998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T13:15:47.932Z",
+    "last_updated": "2026-11-07T11:57:03.640Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
