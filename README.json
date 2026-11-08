@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7838,
+                "stars": 7839,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -590,7 +590,7 @@
                 "open_issues": 9,
                 "owner": "Miagz",
                 "repo": "XrayFofa",
-                "stars": 245,
+                "stars": 244,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -1223,7 +1223,7 @@
                 "open_issues": 1,
                 "owner": "eremit4",
                 "repo": "favihunter",
-                "stars": 255,
+                "stars": 256,
                 "topics": [
                   "censys",
                   "criminalip",
@@ -1467,7 +1467,7 @@
                 "open_issues": 0,
                 "owner": "jm33-m0",
                 "repo": "mec",
-                "stars": 615,
+                "stars": 616,
                 "topics": [
                   "adapted-exploits",
                   "baidu-search",
@@ -3385,7 +3385,7 @@
                 "open_issues": 7,
                 "owner": "PaulSec",
                 "repo": "Shodan.io-mobile-app",
-                "stars": 235,
+                "stars": 236,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3739,10 +3739,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2024-08-05T13:11:50Z",
-                "open_issues": 63,
+                "open_issues": 64,
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 3475,
+                "stars": 3476,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3763,7 +3763,7 @@
                 "open_issues": 5,
                 "owner": "BullsEye0",
                 "repo": "shodan-eye",
-                "stars": 1387,
+                "stars": 1388,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3808,7 +3808,7 @@
                 "open_issues": 6,
                 "owner": "Cl0udG0d",
                 "repo": "Fofa-hack",
-                "stars": 884,
+                "stars": 883,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -4945,7 +4945,7 @@
                 "open_issues": 2,
                 "owner": "xiecat",
                 "repo": "fofax",
-                "stars": 842,
+                "stars": 841,
                 "topics": [
                   "fofa",
                   "fofa-cli",
@@ -5998,7 +5998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T11:57:03.640Z",
+    "last_updated": "2026-11-08T12:15:27.512Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
@@ -6007,7 +6007,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-10-20T11:58:37Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "cipher387",
       "repo": "awesome-ip-search-engines",
       "stars": 363,
