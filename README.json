@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7841,
+                "stars": 7842,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -289,7 +289,7 @@
                 "open_issues": 0,
                 "owner": "nullfuzz-pentest",
                 "repo": "shodan-dorks",
-                "stars": 563,
+                "stars": 564,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1416,7 +1416,7 @@
                 "open_issues": 1,
                 "owner": "s0md3v",
                 "repo": "Smap",
-                "stars": 3312,
+                "stars": 3313,
                 "topics": [
                   "network-scanner",
                   "network-security",
@@ -1467,7 +1467,7 @@
                 "open_issues": 0,
                 "owner": "jm33-m0",
                 "repo": "mec",
-                "stars": 616,
+                "stars": 617,
                 "topics": [
                   "adapted-exploits",
                   "baidu-search",
@@ -1796,7 +1796,7 @@
                 "open_issues": 1,
                 "owner": "incogbyte",
                 "repo": "shosubgo",
-                "stars": 584,
+                "stars": 585,
                 "topics": [
                   "golang",
                   "grab-subdomains",
@@ -2781,7 +2781,7 @@
                 "open_issues": 11,
                 "owner": "christophetd",
                 "repo": "CloudFlair",
-                "stars": 2987,
+                "stars": 2988,
                 "topics": [
                   "censys",
                   "cloudflare",
@@ -3742,7 +3742,7 @@
                 "open_issues": 64,
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 3478,
+                "stars": 3477,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3829,7 +3829,7 @@
                 "open_issues": 30,
                 "owner": "asaotomo",
                 "repo": "FofaMap",
-                "stars": 762,
+                "stars": 765,
                 "topics": [
                   "ai-agent",
                   "asset-discovery",
@@ -3975,7 +3975,7 @@
                 "open_issues": 21,
                 "owner": "knownsec",
                 "repo": "ZoomEye-python",
-                "stars": 580,
+                "stars": 581,
                 "topics": [
                   "zoomeye",
                   "zoomeye-api",
@@ -4000,7 +4000,7 @@
                 "open_issues": 3,
                 "owner": "censys",
                 "repo": "censys-python",
-                "stars": 467,
+                "stars": 468,
                 "topics": [
                   "api",
                   "attack-surface-management",
@@ -4142,8 +4142,8 @@
                 "id": 113500389,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-05T23:07:06Z",
-                "open_issues": 21,
+                "last_commit": "2026-11-09T16:18:43Z",
+                "open_issues": 20,
                 "owner": "GreyNoise-Intelligence",
                 "repo": "pygreynoise",
                 "stars": 176,
@@ -4945,7 +4945,7 @@
                 "open_issues": 2,
                 "owner": "xiecat",
                 "repo": "fofax",
-                "stars": 841,
+                "stars": 842,
                 "topics": [
                   "fofa",
                   "fofa-cli",
@@ -5998,7 +5998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T14:25:05.678Z",
+    "last_updated": "2026-11-10T13:48:04.112Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
@@ -6010,7 +6010,7 @@
       "open_issues": 2,
       "owner": "cipher387",
       "repo": "awesome-ip-search-engines",
-      "stars": 363,
+      "stars": 364,
       "topics": [
         "360quake",
         "awesome-list",
