@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "netlas-io",
                 "repo": "netlas-cookbook",
-                "stars": 900,
+                "stars": 901,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -73,7 +73,7 @@
                 "open_issues": 0,
                 "owner": "FofaInfo",
                 "repo": "Awesome-FOFA",
-                "stars": 365,
+                "stars": 366,
                 "topics": [
                   "cybersecurity",
                   "fofa",
@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7842,
+                "stars": 7843,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -289,7 +289,7 @@
                 "open_issues": 0,
                 "owner": "nullfuzz-pentest",
                 "repo": "shodan-dorks",
-                "stars": 564,
+                "stars": 565,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -370,7 +370,7 @@
                 "open_issues": 0,
                 "owner": "netlas-io",
                 "repo": "netlas-dorks",
-                "stars": 212,
+                "stars": 211,
                 "topics": [
                   "osint",
                   "penetration-testing",
@@ -1374,7 +1374,7 @@
                 "open_issues": 70,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4201,
+                "stars": 4203,
                 "topics": [
                   "bro",
                   "easm",
@@ -1764,7 +1764,7 @@
                 "open_issues": 4,
                 "owner": "christophetd",
                 "repo": "censys-subdomain-finder",
-                "stars": 852,
+                "stars": 853,
                 "topics": [
                   "bugbounty",
                   "certificate-transparency-logs",
@@ -1918,7 +1918,7 @@
                 "open_issues": 4,
                 "owner": "orleven",
                 "repo": "Tentacle",
-                "stars": 373,
+                "stars": 374,
                 "topics": [
                   "exploit-framework",
                   "fofa",
@@ -3009,7 +3009,7 @@
                 "open_issues": 2,
                 "owner": "montysecurity",
                 "repo": "C2-Tracker",
-                "stars": 783,
+                "stars": 784,
                 "topics": [
                   "cybersecurity",
                   "infosec",
@@ -3274,7 +3274,7 @@
                 "open_issues": 5,
                 "owner": "fofapro",
                 "repo": "fofa_view",
-                "stars": 619,
+                "stars": 620,
                 "topics": [
                   "chrome",
                   "firefox",
@@ -3385,7 +3385,7 @@
                 "open_issues": 7,
                 "owner": "PaulSec",
                 "repo": "Shodan.io-mobile-app",
-                "stars": 236,
+                "stars": 237,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3742,7 +3742,7 @@
                 "open_issues": 64,
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 3477,
+                "stars": 3479,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3784,7 +3784,7 @@
                 "open_issues": 1,
                 "owner": "random-robbie",
                 "repo": "My-Shodan-Scripts",
-                "stars": 1158,
+                "stars": 1159,
                 "topics": [
                   "shodan",
                   "shodan-scripts"
@@ -3829,7 +3829,7 @@
                 "open_issues": 30,
                 "owner": "asaotomo",
                 "repo": "FofaMap",
-                "stars": 765,
+                "stars": 766,
                 "topics": [
                   "ai-agent",
                   "asset-discovery",
@@ -3866,7 +3866,7 @@
                 "open_issues": 52,
                 "owner": "KTZgraph",
                 "repo": "sarenka",
-                "stars": 674,
+                "stars": 675,
                 "topics": [
                   "censys-api",
                   "cve",
@@ -4000,7 +4000,7 @@
                 "open_issues": 3,
                 "owner": "censys",
                 "repo": "censys-python",
-                "stars": 468,
+                "stars": 469,
                 "topics": [
                   "api",
                   "attack-surface-management",
@@ -4311,7 +4311,7 @@
                 "open_issues": 0,
                 "owner": "netlas-io",
                 "repo": "netlas-python",
-                "stars": 32,
+                "stars": 33,
                 "topics": [
                   "bugbounty",
                   "reconnaissance",
@@ -4714,7 +4714,7 @@
                 "open_issues": 21,
                 "owner": "wgpsec",
                 "repo": "fofa_viewer",
-                "stars": 1813,
+                "stars": 1814,
                 "topics": [
                   "cybersecurity",
                   "fofa",
@@ -5301,7 +5301,7 @@
                 "open_issues": 4,
                 "owner": "picatz",
                 "repo": "shodanz",
-                "stars": 135,
+                "stars": 136,
                 "topics": [
                   "information-security",
                   "internet-of-things",
@@ -5732,7 +5732,7 @@
                 "open_issues": 0,
                 "owner": "ScadaExposure",
                 "repo": "Shodan-PHP-REST-API",
-                "stars": 113,
+                "stars": 114,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -5998,7 +5998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T13:48:04.112Z",
+    "last_updated": "2026-11-11T12:59:21.739Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
