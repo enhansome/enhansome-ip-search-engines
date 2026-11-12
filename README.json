@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "netlas-io",
                 "repo": "netlas-cookbook",
-                "stars": 901,
+                "stars": 902,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7843,
+                "stars": 7844,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -213,7 +213,7 @@
                 "open_issues": 2,
                 "owner": "thehappydinoa",
                 "repo": "awesome-censys-queries",
-                "stars": 1250,
+                "stars": 1251,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -247,7 +247,7 @@
                 "open_issues": 0,
                 "owner": "lothos612",
                 "repo": "shodan",
-                "stars": 606,
+                "stars": 608,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -289,7 +289,7 @@
                 "open_issues": 0,
                 "owner": "nullfuzz-pentest",
                 "repo": "shodan-dorks",
-                "stars": 565,
+                "stars": 566,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -322,7 +322,7 @@
                 "open_issues": 0,
                 "owner": "humblelad",
                 "repo": "Shodan-Dorks",
-                "stars": 544,
+                "stars": 545,
                 "topics": [
                   "cybersecurity",
                   "hacking",
@@ -349,7 +349,7 @@
                 "open_issues": 0,
                 "owner": "HernanRodriguez1",
                 "repo": "Dorks-Shodan-2023",
-                "stars": 247,
+                "stars": 248,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -370,7 +370,7 @@
                 "open_issues": 0,
                 "owner": "netlas-io",
                 "repo": "netlas-dorks",
-                "stars": 211,
+                "stars": 212,
                 "topics": [
                   "osint",
                   "penetration-testing",
@@ -395,7 +395,7 @@
                 "open_issues": 0,
                 "owner": "mr-exo",
                 "repo": "shodan-dorks",
-                "stars": 116,
+                "stars": 117,
                 "topics": [
                   "devices",
                   "dorks",
@@ -423,7 +423,7 @@
                 "open_issues": 1,
                 "owner": "AustrianEnergyCERT",
                 "repo": "ICS_IoT_Shodan_Dorks",
-                "stars": 112,
+                "stars": 113,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -1285,7 +1285,7 @@
                 "open_issues": 0,
                 "owner": "Becivells",
                 "repo": "iconhash",
-                "stars": 179,
+                "stars": 178,
                 "topics": [
                   "fofa",
                   "hash",
@@ -1764,7 +1764,7 @@
                 "open_issues": 4,
                 "owner": "christophetd",
                 "repo": "censys-subdomain-finder",
-                "stars": 853,
+                "stars": 854,
                 "topics": [
                   "bugbounty",
                   "certificate-transparency-logs",
@@ -2781,7 +2781,7 @@
                 "open_issues": 11,
                 "owner": "christophetd",
                 "repo": "CloudFlair",
-                "stars": 2988,
+                "stars": 2989,
                 "topics": [
                   "censys",
                   "cloudflare",
@@ -3009,7 +3009,7 @@
                 "open_issues": 2,
                 "owner": "montysecurity",
                 "repo": "C2-Tracker",
-                "stars": 784,
+                "stars": 785,
                 "topics": [
                   "cybersecurity",
                   "infosec",
@@ -3300,7 +3300,7 @@
                 "open_issues": 1,
                 "owner": "PaulSec",
                 "repo": "Shodan-Firefox-Addon",
-                "stars": 151,
+                "stars": 150,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3385,7 +3385,7 @@
                 "open_issues": 7,
                 "owner": "PaulSec",
                 "repo": "Shodan.io-mobile-app",
-                "stars": 237,
+                "stars": 238,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3742,7 +3742,7 @@
                 "open_issues": 64,
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 3479,
+                "stars": 3481,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3763,7 +3763,7 @@
                 "open_issues": 5,
                 "owner": "BullsEye0",
                 "repo": "shodan-eye",
-                "stars": 1389,
+                "stars": 1390,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3808,7 +3808,7 @@
                 "open_issues": 6,
                 "owner": "Cl0udG0d",
                 "repo": "Fofa-hack",
-                "stars": 883,
+                "stars": 882,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3829,7 +3829,7 @@
                 "open_issues": 30,
                 "owner": "asaotomo",
                 "repo": "FofaMap",
-                "stars": 766,
+                "stars": 768,
                 "topics": [
                   "ai-agent",
                   "asset-discovery",
@@ -3866,7 +3866,7 @@
                 "open_issues": 52,
                 "owner": "KTZgraph",
                 "repo": "sarenka",
-                "stars": 675,
+                "stars": 676,
                 "topics": [
                   "censys-api",
                   "cve",
@@ -3908,7 +3908,7 @@
                 "open_issues": 1,
                 "owner": "xzajyjs",
                 "repo": "ThunderSearch",
-                "stars": 667,
+                "stars": 666,
                 "topics": [
                   "cyberspace-search-engine",
                   "fofa",
@@ -3940,7 +3940,7 @@
                 "open_issues": 12,
                 "owner": "RevoltSecurities",
                 "repo": "ShodanX",
-                "stars": 603,
+                "stars": 604,
                 "topics": [
                   "shodan",
                   "shodan-api",
@@ -4714,7 +4714,7 @@
                 "open_issues": 21,
                 "owner": "wgpsec",
                 "repo": "fofa_viewer",
-                "stars": 1814,
+                "stars": 1813,
                 "topics": [
                   "cybersecurity",
                   "fofa",
@@ -4917,7 +4917,7 @@
                 "open_issues": 5,
                 "owner": "evilsocket",
                 "repo": "xray",
-                "stars": 2337,
+                "stars": 2339,
                 "topics": [
                   "intelligence",
                   "mapping",
@@ -5983,7 +5983,7 @@
                 "open_issues": 1,
                 "owner": "femiagbabiaka",
                 "repo": "shodan-rust",
-                "stars": 56,
+                "stars": 57,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -5998,7 +5998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T12:59:21.739Z",
+    "last_updated": "2026-11-12T14:01:03.458Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
