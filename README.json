@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "netlas-io",
                 "repo": "netlas-cookbook",
-                "stars": 902,
+                "stars": 904,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -73,7 +73,7 @@
                 "open_issues": 0,
                 "owner": "FofaInfo",
                 "repo": "Awesome-FOFA",
-                "stars": 366,
+                "stars": 367,
                 "topics": [
                   "cybersecurity",
                   "fofa",
@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7844,
+                "stars": 7849,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1374,7 +1374,7 @@
                 "open_issues": 70,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4203,
+                "stars": 4204,
                 "topics": [
                   "bro",
                   "easm",
@@ -2111,27 +2111,6 @@
             },
             {
               "node_type": "item",
-              "title": "Mecashed DDos Exploit Free Shodan",
-              "description": "add1ct3d/Memcrashed-DDoS-Exploit-Free",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "DDoS attack tool for sending forged UDP packets to vulnerable Memcached servers obtained without Shodan API",
-                "homepage": "https://r00ts3c.github.io/",
-                "id": 175116383,
-                "language": "Python",
-                "license": "GPL-3.0",
-                "last_commit": "2019-03-11T22:53:10Z",
-                "open_issues": 0,
-                "owner": "add1ct3d",
-                "repo": "Memcrashed-DDoS-Exploit-Free",
-                "stars": 26,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T17:43:53.077Z"
-            },
-            {
-              "node_type": "item",
               "title": "Pingpon Exploit Shodan",
               "description": "649/Pingpon-Exploit",
               "children": [],
@@ -2146,6 +2125,27 @@
                 "open_issues": 0,
                 "owner": "649",
                 "repo": "Pingpon-Exploit",
+                "stars": 24,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Mecashed DDos Exploit Free Shodan",
+              "description": "add1ct3d/Memcrashed-DDoS-Exploit-Free",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "DDoS attack tool for sending forged UDP packets to vulnerable Memcached servers obtained without Shodan API",
+                "homepage": "https://r00ts3c.github.io/",
+                "id": 175116383,
+                "language": "Python",
+                "license": "GPL-3.0",
+                "last_commit": "2019-03-11T22:53:10Z",
+                "open_issues": 0,
+                "owner": "add1ct3d",
+                "repo": "Memcrashed-DDoS-Exploit-Free",
                 "stars": 24,
                 "topics": []
               },
@@ -3742,7 +3742,7 @@
                 "open_issues": 64,
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 3481,
+                "stars": 3483,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3763,7 +3763,7 @@
                 "open_issues": 5,
                 "owner": "BullsEye0",
                 "repo": "shodan-eye",
-                "stars": 1390,
+                "stars": 1391,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3784,7 +3784,7 @@
                 "open_issues": 1,
                 "owner": "random-robbie",
                 "repo": "My-Shodan-Scripts",
-                "stars": 1159,
+                "stars": 1160,
                 "topics": [
                   "shodan",
                   "shodan-scripts"
@@ -3829,7 +3829,7 @@
                 "open_issues": 30,
                 "owner": "asaotomo",
                 "repo": "FofaMap",
-                "stars": 768,
+                "stars": 769,
                 "topics": [
                   "ai-agent",
                   "asset-discovery",
@@ -4051,7 +4051,7 @@
                 "open_issues": 2,
                 "owner": "n0x08",
                 "repo": "ShodanTools",
-                "stars": 264,
+                "stars": 263,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -4917,7 +4917,7 @@
                 "open_issues": 5,
                 "owner": "evilsocket",
                 "repo": "xray",
-                "stars": 2339,
+                "stars": 2340,
                 "topics": [
                   "intelligence",
                   "mapping",
@@ -5116,8 +5116,8 @@
                 "id": 348544027,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T19:03:39Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-13T13:16:44Z",
+                "open_issues": 6,
                 "owner": "turbot",
                 "repo": "steampipe-plugin-shodan",
                 "stars": 28,
@@ -5983,7 +5983,7 @@
                 "open_issues": 1,
                 "owner": "femiagbabiaka",
                 "repo": "shodan-rust",
-                "stars": 57,
+                "stars": 58,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -5998,7 +5998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T14:01:03.458Z",
+    "last_updated": "2026-11-13T13:27:40.233Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
@@ -6010,7 +6010,7 @@
       "open_issues": 2,
       "owner": "cipher387",
       "repo": "awesome-ip-search-engines",
-      "stars": 364,
+      "stars": 365,
       "topics": [
         "360quake",
         "awesome-list",
