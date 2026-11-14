@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "netlas-io",
                 "repo": "netlas-cookbook",
-                "stars": 904,
+                "stars": 907,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7849,
+                "stars": 7852,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -247,7 +247,7 @@
                 "open_issues": 0,
                 "owner": "lothos612",
                 "repo": "shodan",
-                "stars": 608,
+                "stars": 609,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -289,7 +289,7 @@
                 "open_issues": 0,
                 "owner": "nullfuzz-pentest",
                 "repo": "shodan-dorks",
-                "stars": 566,
+                "stars": 567,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -395,7 +395,7 @@
                 "open_issues": 0,
                 "owner": "mr-exo",
                 "repo": "shodan-dorks",
-                "stars": 117,
+                "stars": 118,
                 "topics": [
                   "devices",
                   "dorks",
@@ -1285,7 +1285,7 @@
                 "open_issues": 0,
                 "owner": "Becivells",
                 "repo": "iconhash",
-                "stars": 178,
+                "stars": 179,
                 "topics": [
                   "fofa",
                   "hash",
@@ -1370,11 +1370,11 @@
                 "id": 23961941,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-30T20:17:32Z",
+                "last_commit": "2026-11-14T03:54:06Z",
                 "open_issues": 70,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4204,
+                "stars": 4205,
                 "topics": [
                   "bro",
                   "easm",
@@ -3742,7 +3742,7 @@
                 "open_issues": 64,
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 3483,
+                "stars": 3488,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3784,7 +3784,7 @@
                 "open_issues": 1,
                 "owner": "random-robbie",
                 "repo": "My-Shodan-Scripts",
-                "stars": 1160,
+                "stars": 1159,
                 "topics": [
                   "shodan",
                   "shodan-scripts"
@@ -4714,7 +4714,7 @@
                 "open_issues": 21,
                 "owner": "wgpsec",
                 "repo": "fofa_viewer",
-                "stars": 1813,
+                "stars": 1814,
                 "topics": [
                   "cybersecurity",
                   "fofa",
@@ -5116,8 +5116,8 @@
                 "id": 348544027,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T13:16:44Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-13T20:15:04Z",
+                "open_issues": 4,
                 "owner": "turbot",
                 "repo": "steampipe-plugin-shodan",
                 "stars": 28,
@@ -5998,7 +5998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T13:27:40.233Z",
+    "last_updated": "2026-11-14T12:32:43.447Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
@@ -6006,8 +6006,8 @@
       "id": 742781775,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-20T11:58:37Z",
-      "open_issues": 2,
+      "last_commit": "2026-11-13T19:41:08Z",
+      "open_issues": 1,
       "owner": "cipher387",
       "repo": "awesome-ip-search-engines",
       "stars": 365,
@@ -6024,7 +6024,7 @@
         "zoomeye"
       ]
     },
-    "original_repository_sha": "f668e189d7384a76e5cb0d2c8cd92c66641b4392",
+    "original_repository_sha": "3681148369080c3221fd2a12604c6f2d6a64bfcc",
     "enhanced_repository": "enhansome/enhansome-ip-search-engines",
     "enhanced_repository_description": null,
     "title": "Awesome Table of content with stars"
