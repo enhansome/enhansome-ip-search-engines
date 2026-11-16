@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "netlas-io",
                 "repo": "netlas-cookbook",
-                "stars": 908,
+                "stars": 909,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7852,
+                "stars": 7853,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1371,10 +1371,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-14T03:54:06Z",
-                "open_issues": 70,
+                "open_issues": 71,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4207,
+                "stars": 4213,
                 "topics": [
                   "bro",
                   "easm",
@@ -1416,7 +1416,7 @@
                 "open_issues": 1,
                 "owner": "s0md3v",
                 "repo": "Smap",
-                "stars": 3312,
+                "stars": 3313,
                 "topics": [
                   "network-scanner",
                   "network-security",
@@ -1446,7 +1446,7 @@
                 "open_issues": 0,
                 "owner": "s0md3v",
                 "repo": "Silver",
-                "stars": 1056,
+                "stars": 1055,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -1467,7 +1467,7 @@
                 "open_issues": 0,
                 "owner": "jm33-m0",
                 "repo": "mec",
-                "stars": 617,
+                "stars": 618,
                 "topics": [
                   "adapted-exploits",
                   "baidu-search",
@@ -3742,7 +3742,7 @@
                 "open_issues": 64,
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 3490,
+                "stars": 3492,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3763,7 +3763,7 @@
                 "open_issues": 5,
                 "owner": "BullsEye0",
                 "repo": "shodan-eye",
-                "stars": 1392,
+                "stars": 1394,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3866,7 +3866,7 @@
                 "open_issues": 52,
                 "owner": "KTZgraph",
                 "repo": "sarenka",
-                "stars": 676,
+                "stars": 677,
                 "topics": [
                   "censys-api",
                   "cve",
@@ -4093,7 +4093,7 @@
                 "open_issues": 1,
                 "owner": "j3ers3",
                 "repo": "Searpy",
-                "stars": 212,
+                "stars": 213,
                 "topics": [
                   "fofa",
                   "google",
@@ -4714,7 +4714,7 @@
                 "open_issues": 21,
                 "owner": "wgpsec",
                 "repo": "fofa_viewer",
-                "stars": 1813,
+                "stars": 1814,
                 "topics": [
                   "cybersecurity",
                   "fofa",
@@ -5998,7 +5998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T12:59:07.957Z",
+    "last_updated": "2026-11-16T14:02:16.608Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
