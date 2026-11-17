@@ -100,7 +100,7 @@
                 "open_issues": 1,
                 "owner": "GreyNoise-Intelligence",
                 "repo": "api.greynoise.io",
-                "stars": 320,
+                "stars": 321,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7853,
+                "stars": 7851,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -213,7 +213,7 @@
                 "open_issues": 2,
                 "owner": "thehappydinoa",
                 "repo": "awesome-censys-queries",
-                "stars": 1251,
+                "stars": 1250,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -289,7 +289,7 @@
                 "open_issues": 0,
                 "owner": "nullfuzz-pentest",
                 "repo": "shodan-dorks",
-                "stars": 568,
+                "stars": 569,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1191,7 +1191,7 @@
                 "open_issues": 3,
                 "owner": "pielco11",
                 "repo": "fav-up",
-                "stars": 1208,
+                "stars": 1209,
                 "topics": [
                   "cloudflare",
                   "cloudflare-bypass",
@@ -1370,11 +1370,11 @@
                 "id": 23961941,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-14T03:54:06Z",
-                "open_issues": 71,
+                "last_commit": "2026-11-16T22:37:31Z",
+                "open_issues": 57,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4213,
+                "stars": 4215,
                 "topics": [
                   "bro",
                   "easm",
@@ -1416,7 +1416,7 @@
                 "open_issues": 1,
                 "owner": "s0md3v",
                 "repo": "Smap",
-                "stars": 3313,
+                "stars": 3314,
                 "topics": [
                   "network-scanner",
                   "network-security",
@@ -1977,7 +1977,7 @@
                 "open_issues": 3,
                 "owner": "TasosY2K",
                 "repo": "camera-exploit-tool",
-                "stars": 226,
+                "stars": 227,
                 "topics": [
                   "camera",
                   "camera-exploitation",
@@ -2781,7 +2781,7 @@
                 "open_issues": 11,
                 "owner": "christophetd",
                 "repo": "CloudFlair",
-                "stars": 2989,
+                "stars": 2990,
                 "topics": [
                   "censys",
                   "cloudflare",
@@ -2807,7 +2807,7 @@
                 "open_issues": 0,
                 "owner": "Warflop",
                 "repo": "cloudbunny",
-                "stars": 375,
+                "stars": 376,
                 "topics": [
                   "bypass",
                   "censys",
@@ -3742,7 +3742,7 @@
                 "open_issues": 64,
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 3492,
+                "stars": 3493,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3763,7 +3763,7 @@
                 "open_issues": 5,
                 "owner": "BullsEye0",
                 "repo": "shodan-eye",
-                "stars": 1394,
+                "stars": 1395,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3829,7 +3829,7 @@
                 "open_issues": 30,
                 "owner": "asaotomo",
                 "repo": "FofaMap",
-                "stars": 768,
+                "stars": 769,
                 "topics": [
                   "ai-agent",
                   "asset-discovery",
@@ -4120,7 +4120,7 @@
                 "open_issues": 3,
                 "owner": "H-Limbus",
                 "repo": "NoMoney",
-                "stars": 204,
+                "stars": 205,
                 "topics": [
                   "360-quake",
                   "fofa-search",
@@ -4714,7 +4714,7 @@
                 "open_issues": 21,
                 "owner": "wgpsec",
                 "repo": "fofa_viewer",
-                "stars": 1814,
+                "stars": 1815,
                 "topics": [
                   "cybersecurity",
                   "fofa",
@@ -4917,7 +4917,7 @@
                 "open_issues": 5,
                 "owner": "evilsocket",
                 "repo": "xray",
-                "stars": 2340,
+                "stars": 2341,
                 "topics": [
                   "intelligence",
                   "mapping",
@@ -5503,7 +5503,7 @@
                 "open_issues": 0,
                 "owner": "prophetl33t",
                 "repo": "ShodanCPP",
-                "stars": 39,
+                "stars": 40,
                 "topics": [
                   "cpp",
                   "shodan",
@@ -5998,7 +5998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T14:02:16.608Z",
+    "last_updated": "2026-11-17T14:56:24.765Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
