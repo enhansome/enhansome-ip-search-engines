@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7851,
+                "stars": 7855,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -395,7 +395,7 @@
                 "open_issues": 0,
                 "owner": "mr-exo",
                 "repo": "shodan-dorks",
-                "stars": 118,
+                "stars": 119,
                 "topics": [
                   "devices",
                   "dorks",
@@ -1370,11 +1370,11 @@
                 "id": 23961941,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-16T22:37:31Z",
-                "open_issues": 57,
+                "last_commit": "2026-11-17T21:07:20Z",
+                "open_issues": 52,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4215,
+                "stars": 4218,
                 "topics": [
                   "bro",
                   "easm",
@@ -1416,7 +1416,7 @@
                 "open_issues": 1,
                 "owner": "s0md3v",
                 "repo": "Smap",
-                "stars": 3314,
+                "stars": 3315,
                 "topics": [
                   "network-scanner",
                   "network-security",
@@ -2781,7 +2781,7 @@
                 "open_issues": 11,
                 "owner": "christophetd",
                 "repo": "CloudFlair",
-                "stars": 2990,
+                "stars": 2991,
                 "topics": [
                   "censys",
                   "cloudflare",
@@ -3742,7 +3742,7 @@
                 "open_issues": 64,
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 3493,
+                "stars": 3494,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3763,7 +3763,7 @@
                 "open_issues": 5,
                 "owner": "BullsEye0",
                 "repo": "shodan-eye",
-                "stars": 1395,
+                "stars": 1396,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3829,7 +3829,7 @@
                 "open_issues": 30,
                 "owner": "asaotomo",
                 "repo": "FofaMap",
-                "stars": 769,
+                "stars": 768,
                 "topics": [
                   "ai-agent",
                   "asset-discovery",
@@ -4000,7 +4000,7 @@
                 "open_issues": 3,
                 "owner": "censys",
                 "repo": "censys-python",
-                "stars": 470,
+                "stars": 471,
                 "topics": [
                   "api",
                   "attack-surface-management",
@@ -4142,8 +4142,8 @@
                 "id": 113500389,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-09T16:18:43Z",
-                "open_issues": 20,
+                "last_commit": "2026-11-17T21:34:51Z",
+                "open_issues": 7,
                 "owner": "GreyNoise-Intelligence",
                 "repo": "pygreynoise",
                 "stars": 176,
@@ -4714,7 +4714,7 @@
                 "open_issues": 21,
                 "owner": "wgpsec",
                 "repo": "fofa_viewer",
-                "stars": 1815,
+                "stars": 1814,
                 "topics": [
                   "cybersecurity",
                   "fofa",
@@ -4917,7 +4917,7 @@
                 "open_issues": 5,
                 "owner": "evilsocket",
                 "repo": "xray",
-                "stars": 2341,
+                "stars": 2342,
                 "topics": [
                   "intelligence",
                   "mapping",
@@ -5998,7 +5998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T14:56:24.765Z",
+    "last_updated": "2026-11-18T14:36:41.170Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
