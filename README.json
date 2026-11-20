@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "netlas-io",
                 "repo": "netlas-cookbook",
-                "stars": 909,
+                "stars": 908,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -73,7 +73,7 @@
                 "open_issues": 0,
                 "owner": "FofaInfo",
                 "repo": "Awesome-FOFA",
-                "stars": 367,
+                "stars": 366,
                 "topics": [
                   "cybersecurity",
                   "fofa",
@@ -100,7 +100,7 @@
                 "open_issues": 1,
                 "owner": "GreyNoise-Intelligence",
                 "repo": "api.greynoise.io",
-                "stars": 321,
+                "stars": 320,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7856,
+                "stars": 7861,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -213,7 +213,7 @@
                 "open_issues": 2,
                 "owner": "thehappydinoa",
                 "repo": "awesome-censys-queries",
-                "stars": 1250,
+                "stars": 1249,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -247,7 +247,7 @@
                 "open_issues": 0,
                 "owner": "lothos612",
                 "repo": "shodan",
-                "stars": 610,
+                "stars": 609,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -289,7 +289,7 @@
                 "open_issues": 0,
                 "owner": "nullfuzz-pentest",
                 "repo": "shodan-dorks",
-                "stars": 569,
+                "stars": 568,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -322,7 +322,7 @@
                 "open_issues": 0,
                 "owner": "humblelad",
                 "repo": "Shodan-Dorks",
-                "stars": 546,
+                "stars": 545,
                 "topics": [
                   "cybersecurity",
                   "hacking",
@@ -1191,7 +1191,7 @@
                 "open_issues": 3,
                 "owner": "pielco11",
                 "repo": "fav-up",
-                "stars": 1209,
+                "stars": 1208,
                 "topics": [
                   "cloudflare",
                   "cloudflare-bypass",
@@ -1370,8 +1370,8 @@
                 "id": 23961941,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-17T21:07:20Z",
-                "open_issues": 53,
+                "last_commit": "2026-11-20T01:18:43Z",
+                "open_issues": 52,
                 "owner": "ivre",
                 "repo": "ivre",
                 "stars": 4219,
@@ -1764,7 +1764,7 @@
                 "open_issues": 4,
                 "owner": "christophetd",
                 "repo": "censys-subdomain-finder",
-                "stars": 853,
+                "stars": 852,
                 "topics": [
                   "bugbounty",
                   "certificate-transparency-logs",
@@ -1918,7 +1918,7 @@
                 "open_issues": 4,
                 "owner": "orleven",
                 "repo": "Tentacle",
-                "stars": 374,
+                "stars": 373,
                 "topics": [
                   "exploit-framework",
                   "fofa",
@@ -2781,7 +2781,7 @@
                 "open_issues": 11,
                 "owner": "christophetd",
                 "repo": "CloudFlair",
-                "stars": 2992,
+                "stars": 2991,
                 "topics": [
                   "censys",
                   "cloudflare",
@@ -2807,7 +2807,7 @@
                 "open_issues": 0,
                 "owner": "Warflop",
                 "repo": "cloudbunny",
-                "stars": 376,
+                "stars": 375,
                 "topics": [
                   "bypass",
                   "censys",
@@ -3009,7 +3009,7 @@
                 "open_issues": 2,
                 "owner": "montysecurity",
                 "repo": "C2-Tracker",
-                "stars": 785,
+                "stars": 784,
                 "topics": [
                   "cybersecurity",
                   "infosec",
@@ -3742,7 +3742,7 @@
                 "open_issues": 64,
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 3493,
+                "stars": 3492,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3784,7 +3784,7 @@
                 "open_issues": 1,
                 "owner": "random-robbie",
                 "repo": "My-Shodan-Scripts",
-                "stars": 1160,
+                "stars": 1159,
                 "topics": [
                   "shodan",
                   "shodan-scripts"
@@ -3866,7 +3866,7 @@
                 "open_issues": 52,
                 "owner": "KTZgraph",
                 "repo": "sarenka",
-                "stars": 677,
+                "stars": 676,
                 "topics": [
                   "censys-api",
                   "cve",
@@ -3908,7 +3908,7 @@
                 "open_issues": 1,
                 "owner": "xzajyjs",
                 "repo": "ThunderSearch",
-                "stars": 667,
+                "stars": 666,
                 "topics": [
                   "cyberspace-search-engine",
                   "fofa",
@@ -3940,7 +3940,7 @@
                 "open_issues": 12,
                 "owner": "RevoltSecurities",
                 "repo": "ShodanX",
-                "stars": 604,
+                "stars": 603,
                 "topics": [
                   "shodan",
                   "shodan-api",
@@ -3975,7 +3975,7 @@
                 "open_issues": 21,
                 "owner": "knownsec",
                 "repo": "ZoomEye-python",
-                "stars": 581,
+                "stars": 577,
                 "topics": [
                   "zoomeye",
                   "zoomeye-api",
@@ -4000,7 +4000,7 @@
                 "open_issues": 3,
                 "owner": "censys",
                 "repo": "censys-python",
-                "stars": 471,
+                "stars": 470,
                 "topics": [
                   "api",
                   "attack-surface-management",
@@ -4714,7 +4714,7 @@
                 "open_issues": 21,
                 "owner": "wgpsec",
                 "repo": "fofa_viewer",
-                "stars": 1814,
+                "stars": 1813,
                 "topics": [
                   "cybersecurity",
                   "fofa",
@@ -5156,7 +5156,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2021-02-15T06:53:18Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "YetClass",
                 "repo": "QuakeAPI",
                 "stars": 13,
@@ -5998,7 +5998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T14:43:12.386Z",
+    "last_updated": "2026-11-20T14:24:44.372Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
@@ -6010,7 +6010,7 @@
       "open_issues": 1,
       "owner": "cipher387",
       "repo": "awesome-ip-search-engines",
-      "stars": 365,
+      "stars": 364,
       "topics": [
         "360quake",
         "awesome-list",
