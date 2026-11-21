@@ -17,7 +17,7 @@
                 "id": 703597759,
                 "language": "Python",
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-18T10:32:49Z",
+                "last_commit": "2026-11-20T21:12:20Z",
                 "open_issues": 0,
                 "owner": "netlas-io",
                 "repo": "netlas-cookbook",
@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7861,
+                "stars": 7864,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -268,7 +268,7 @@
                 "open_issues": 2,
                 "owner": "JavierOlmedo",
                 "repo": "shodan-filters",
-                "stars": 590,
+                "stars": 591,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -289,7 +289,7 @@
                 "open_issues": 0,
                 "owner": "nullfuzz-pentest",
                 "repo": "shodan-dorks",
-                "stars": 568,
+                "stars": 569,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -366,7 +366,7 @@
                 "id": 628956752,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-04-24T09:32:52Z",
+                "last_commit": "2026-11-20T17:45:36Z",
                 "open_issues": 0,
                 "owner": "netlas-io",
                 "repo": "netlas-dorks",
@@ -1191,7 +1191,7 @@
                 "open_issues": 3,
                 "owner": "pielco11",
                 "repo": "fav-up",
-                "stars": 1208,
+                "stars": 1209,
                 "topics": [
                   "cloudflare",
                   "cloudflare-bypass",
@@ -1374,7 +1374,7 @@
                 "open_issues": 52,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4219,
+                "stars": 4222,
                 "topics": [
                   "bro",
                   "easm",
@@ -1416,7 +1416,7 @@
                 "open_issues": 1,
                 "owner": "s0md3v",
                 "repo": "Smap",
-                "stars": 3316,
+                "stars": 3318,
                 "topics": [
                   "network-scanner",
                   "network-security",
@@ -1822,7 +1822,7 @@
                 "open_issues": 6,
                 "owner": "nethunteros",
                 "repo": "punter",
-                "stars": 295,
+                "stars": 296,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -1918,7 +1918,7 @@
                 "open_issues": 4,
                 "owner": "orleven",
                 "repo": "Tentacle",
-                "stars": 373,
+                "stars": 374,
                 "topics": [
                   "exploit-framework",
                   "fofa",
@@ -2111,27 +2111,6 @@
             },
             {
               "node_type": "item",
-              "title": "Pingpon Exploit Shodan",
-              "description": "649/Pingpon-Exploit",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Exploit for Mass Remote Code Execution on GPON home routers (CVE-2018-10562) obtained from Shodan.",
-                "homepage": null,
-                "id": 133550928,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2018-05-26T06:44:44Z",
-                "open_issues": 0,
-                "owner": "649",
-                "repo": "Pingpon-Exploit",
-                "stars": 24,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T17:43:53.077Z"
-            },
-            {
-              "node_type": "item",
               "title": "Mecashed DDos Exploit Free Shodan",
               "description": "add1ct3d/Memcrashed-DDoS-Exploit-Free",
               "children": [],
@@ -2146,6 +2125,27 @@
                 "open_issues": 0,
                 "owner": "add1ct3d",
                 "repo": "Memcrashed-DDoS-Exploit-Free",
+                "stars": 25,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Pingpon Exploit Shodan",
+              "description": "649/Pingpon-Exploit",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Exploit for Mass Remote Code Execution on GPON home routers (CVE-2018-10562) obtained from Shodan.",
+                "homepage": null,
+                "id": 133550928,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2018-05-26T06:44:44Z",
+                "open_issues": 0,
+                "owner": "649",
+                "repo": "Pingpon-Exploit",
                 "stars": 24,
                 "topics": []
               },
@@ -2214,7 +2214,7 @@
                 "open_issues": 0,
                 "owner": "tai-euler",
                 "repo": "Memcrashed-DDoS-Exploit_withoutShodan",
-                "stars": 15,
+                "stars": 16,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3300,7 +3300,7 @@
                 "open_issues": 1,
                 "owner": "PaulSec",
                 "repo": "Shodan-Firefox-Addon",
-                "stars": 150,
+                "stars": 151,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3742,7 +3742,7 @@
                 "open_issues": 64,
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 3492,
+                "stars": 3496,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3763,7 +3763,7 @@
                 "open_issues": 5,
                 "owner": "BullsEye0",
                 "repo": "shodan-eye",
-                "stars": 1396,
+                "stars": 1398,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3784,7 +3784,7 @@
                 "open_issues": 1,
                 "owner": "random-robbie",
                 "repo": "My-Shodan-Scripts",
-                "stars": 1159,
+                "stars": 1161,
                 "topics": [
                   "shodan",
                   "shodan-scripts"
@@ -3940,7 +3940,7 @@
                 "open_issues": 12,
                 "owner": "RevoltSecurities",
                 "repo": "ShodanX",
-                "stars": 603,
+                "stars": 604,
                 "topics": [
                   "shodan",
                   "shodan-api",
@@ -4051,7 +4051,7 @@
                 "open_issues": 2,
                 "owner": "n0x08",
                 "repo": "ShodanTools",
-                "stars": 263,
+                "stars": 264,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -4072,7 +4072,7 @@
                 "open_issues": 2,
                 "owner": "HatBashBR",
                 "repo": "ShodanHat",
-                "stars": 235,
+                "stars": 236,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -4618,7 +4618,7 @@
                 "open_issues": 2,
                 "owner": "shubhamrooter",
                 "repo": "ShodanSpider",
-                "stars": 215,
+                "stars": 216,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -5301,7 +5301,7 @@
                 "open_issues": 4,
                 "owner": "picatz",
                 "repo": "shodanz",
-                "stars": 136,
+                "stars": 137,
                 "topics": [
                   "information-security",
                   "internet-of-things",
@@ -5503,7 +5503,7 @@
                 "open_issues": 0,
                 "owner": "prophetl33t",
                 "repo": "ShodanCPP",
-                "stars": 40,
+                "stars": 41,
                 "topics": [
                   "cpp",
                   "shodan",
@@ -5732,7 +5732,7 @@
                 "open_issues": 0,
                 "owner": "ScadaExposure",
                 "repo": "Shodan-PHP-REST-API",
-                "stars": 114,
+                "stars": 115,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -5998,7 +5998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T14:24:44.372Z",
+    "last_updated": "2026-11-21T13:44:26.692Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
