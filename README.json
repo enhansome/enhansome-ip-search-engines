@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7868,
+                "stars": 7870,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -209,7 +209,7 @@
                 "id": 525467576,
                 "language": "Python",
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-26T18:57:54Z",
+                "last_commit": "2026-11-23T18:51:55Z",
                 "open_issues": 2,
                 "owner": "thehappydinoa",
                 "repo": "awesome-censys-queries",
@@ -289,7 +289,7 @@
                 "open_issues": 0,
                 "owner": "nullfuzz-pentest",
                 "repo": "shodan-dorks",
-                "stars": 570,
+                "stars": 571,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1374,7 +1374,7 @@
                 "open_issues": 52,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4227,
+                "stars": 4228,
                 "topics": [
                   "bro",
                   "easm",
@@ -1416,7 +1416,7 @@
                 "open_issues": 1,
                 "owner": "s0md3v",
                 "repo": "Smap",
-                "stars": 3317,
+                "stars": 3318,
                 "topics": [
                   "network-scanner",
                   "network-security",
@@ -1764,7 +1764,7 @@
                 "open_issues": 4,
                 "owner": "christophetd",
                 "repo": "censys-subdomain-finder",
-                "stars": 852,
+                "stars": 853,
                 "topics": [
                   "bugbounty",
                   "certificate-transparency-logs",
@@ -2781,7 +2781,7 @@
                 "open_issues": 11,
                 "owner": "christophetd",
                 "repo": "CloudFlair",
-                "stars": 2989,
+                "stars": 2990,
                 "topics": [
                   "censys",
                   "cloudflare",
@@ -3385,7 +3385,7 @@
                 "open_issues": 7,
                 "owner": "PaulSec",
                 "repo": "Shodan.io-mobile-app",
-                "stars": 239,
+                "stars": 240,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3742,7 +3742,7 @@
                 "open_issues": 64,
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 3497,
+                "stars": 3498,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -4142,8 +4142,8 @@
                 "id": 113500389,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-17T21:34:51Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-23T23:42:57Z",
+                "open_issues": 12,
                 "owner": "GreyNoise-Intelligence",
                 "repo": "pygreynoise",
                 "stars": 176,
@@ -4917,7 +4917,7 @@
                 "open_issues": 5,
                 "owner": "evilsocket",
                 "repo": "xray",
-                "stars": 2343,
+                "stars": 2344,
                 "topics": [
                   "intelligence",
                   "mapping",
@@ -5998,7 +5998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T16:32:05.960Z",
+    "last_updated": "2026-11-24T16:30:50.341Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
@@ -6010,7 +6010,7 @@
       "open_issues": 1,
       "owner": "cipher387",
       "repo": "awesome-ip-search-engines",
-      "stars": 365,
+      "stars": 366,
       "topics": [
         "360quake",
         "awesome-list",
