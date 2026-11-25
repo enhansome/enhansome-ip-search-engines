@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7870,
+                "stars": 7872,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1374,7 +1374,7 @@
                 "open_issues": 52,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4228,
+                "stars": 4229,
                 "topics": [
                   "bro",
                   "easm",
@@ -1416,7 +1416,7 @@
                 "open_issues": 1,
                 "owner": "s0md3v",
                 "repo": "Smap",
-                "stars": 3318,
+                "stars": 3319,
                 "topics": [
                   "network-scanner",
                   "network-security",
@@ -1764,7 +1764,7 @@
                 "open_issues": 4,
                 "owner": "christophetd",
                 "repo": "censys-subdomain-finder",
-                "stars": 853,
+                "stars": 855,
                 "topics": [
                   "bugbounty",
                   "certificate-transparency-logs",
@@ -2464,7 +2464,7 @@
                 "open_issues": 14,
                 "owner": "woj-ciech",
                 "repo": "kamerka",
-                "stars": 1268,
+                "stars": 1269,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3009,7 +3009,7 @@
                 "open_issues": 2,
                 "owner": "montysecurity",
                 "repo": "C2-Tracker",
-                "stars": 784,
+                "stars": 785,
                 "topics": [
                   "cybersecurity",
                   "infosec",
@@ -3057,27 +3057,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Shodmon",
-              "description": "inishantgrover/Shodmon",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The Shodan monitoring tools allows you to monitor shodan listed servers basis on the filter you provided",
-                "homepage": null,
-                "id": 166510948,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2021-06-14T17:31:22Z",
-                "open_issues": 0,
-                "owner": "inishantgrover",
-                "repo": "Shodmon",
-                "stars": 33,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T17:43:53.077Z"
-            },
-            {
-              "node_type": "item",
               "title": "Microsoft Sentinel Shodan Monitor",
               "description": "mikoiv/MicrosoftSentinel-ShodanMonitor",
               "children": [],
@@ -3114,6 +3093,27 @@
                 "owner": "hrbrmstr",
                 "repo": "greywatch",
                 "stars": 33,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T17:43:53.077Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Shodmon",
+              "description": "inishantgrover/Shodmon",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The Shodan monitoring tools allows you to monitor shodan listed servers basis on the filter you provided",
+                "homepage": null,
+                "id": 166510948,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2021-06-14T17:31:22Z",
+                "open_issues": 0,
+                "owner": "inishantgrover",
+                "repo": "Shodmon",
+                "stars": 32,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3385,7 +3385,7 @@
                 "open_issues": 7,
                 "owner": "PaulSec",
                 "repo": "Shodan.io-mobile-app",
-                "stars": 240,
+                "stars": 242,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3488,7 +3488,7 @@
                 "open_issues": 0,
                 "owner": "RocketGod-git",
                 "repo": "shodanbot",
-                "stars": 92,
+                "stars": 93,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3742,7 +3742,7 @@
                 "open_issues": 64,
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 3498,
+                "stars": 3499,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3763,7 +3763,7 @@
                 "open_issues": 5,
                 "owner": "BullsEye0",
                 "repo": "shodan-eye",
-                "stars": 1399,
+                "stars": 1400,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -4714,7 +4714,7 @@
                 "open_issues": 21,
                 "owner": "wgpsec",
                 "repo": "fofa_viewer",
-                "stars": 1814,
+                "stars": 1815,
                 "topics": [
                   "cybersecurity",
                   "fofa",
@@ -4945,7 +4945,7 @@
                 "open_issues": 2,
                 "owner": "xiecat",
                 "repo": "fofax",
-                "stars": 841,
+                "stars": 842,
                 "topics": [
                   "fofa",
                   "fofa-cli",
@@ -5753,7 +5753,7 @@
                 "open_issues": 1,
                 "owner": "joesmithjaffa",
                 "repo": "jenkins-shell",
-                "stars": 90,
+                "stars": 91,
                 "topics": [
                   "hacking",
                   "jenkins",
@@ -5998,7 +5998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T16:30:50.341Z",
+    "last_updated": "2026-11-25T16:11:13.682Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
