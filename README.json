@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "netlas-io",
                 "repo": "netlas-cookbook",
-                "stars": 909,
+                "stars": 910,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -175,7 +175,7 @@
                 "open_issues": 13,
                 "owner": "jakejarvis",
                 "repo": "awesome-shodan-queries",
-                "stars": 7875,
+                "stars": 7876,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -289,7 +289,7 @@
                 "open_issues": 0,
                 "owner": "nullfuzz-pentest",
                 "repo": "shodan-dorks",
-                "stars": 570,
+                "stars": 571,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -607,7 +607,7 @@
                 "id": 222598934,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2024-08-12T18:20:03Z",
+                "last_commit": "2026-11-28T05:01:57Z",
                 "open_issues": 1,
                 "owner": "eschultze",
                 "repo": "phishstats-api-network",
@@ -3742,7 +3742,7 @@
                 "open_issues": 64,
                 "owner": "achillean",
                 "repo": "shodan-python",
-                "stars": 3502,
+                "stars": 3522,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3763,7 +3763,7 @@
                 "open_issues": 5,
                 "owner": "BullsEye0",
                 "repo": "shodan-eye",
-                "stars": 1403,
+                "stars": 1404,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -3829,7 +3829,7 @@
                 "open_issues": 30,
                 "owner": "asaotomo",
                 "repo": "FofaMap",
-                "stars": 771,
+                "stars": 772,
                 "topics": [
                   "ai-agent",
                   "asset-discovery",
@@ -4172,7 +4172,7 @@
                 "open_issues": 0,
                 "owner": "VonStruddle",
                 "repo": "PyHunter",
-                "stars": 138,
+                "stars": 136,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:53.077Z"
@@ -4311,7 +4311,7 @@
                 "open_issues": 0,
                 "owner": "netlas-io",
                 "repo": "netlas-python",
-                "stars": 33,
+                "stars": 34,
                 "topics": [
                   "bugbounty",
                   "reconnaissance",
@@ -4917,7 +4917,7 @@
                 "open_issues": 5,
                 "owner": "evilsocket",
                 "repo": "xray",
-                "stars": 2345,
+                "stars": 2346,
                 "topics": [
                   "intelligence",
                   "mapping",
@@ -5998,7 +5998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T15:39:05.422Z",
+    "last_updated": "2026-11-28T14:34:58.638Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).",
